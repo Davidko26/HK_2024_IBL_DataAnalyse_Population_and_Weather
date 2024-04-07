@@ -1,0 +1,2027 @@
+﻿city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Vignola,Vignola,44.4667,11,Italy,IT,ITA,Emilia-Romagna,,25814,1380248860
+Fürth,Furth,49.4667,11,Germany,DE,DEU,Bavaria,minor,131433,1276580165
+Ala,Ala,45.7583,11.0056,Italy,IT,ITA,Trentino-Alto Adige,,8806,1380811104
+Helmstedt,Helmstedt,52.2281,11.0106,Germany,DE,DEU,Lower Saxony,minor,25779,1276360393
+Spilamberto,Spilamberto,44.5333,11.0167,Italy,IT,ITA,Emilia-Romagna,,12825,1380630753
+Grezzana,Grezzana,45.5167,11.0167,Italy,IT,ITA,Veneto,,10722,1380574933
+Stein bei Nürnberg,Stein bei Nurnberg,49.4167,11.0167,Germany,DE,DEU,Bavaria,,14556,1276407895
+Erlangen,Erlangen,49.5833,11.0167,Germany,DE,DEU,Bavaria,minor,116562,1276339482
+Schwabach,Schwabach,49.3292,11.0208,Germany,DE,DEU,Bavaria,minor,41227,1276017987
+Erfurt,Erfurt,50.9781,11.0289,Germany,DE,DEU,Thuringia,admin,,1276924655
+Savignano sul Panaro,Savignano sul Panaro,44.4833,11.0333,Italy,IT,ITA,Emilia-Romagna,,9563,1380928664
+Bomporto,Bomporto,44.7333,11.0333,Italy,IT,ITA,Emilia-Romagna,,10167,1380316410
+San Giovanni Lupatoto,San Giovanni Lupatoto,45.3833,11.0333,Italy,IT,ITA,Veneto,,25341,1380942958
+Lichtenfels,Lichtenfels,50.1333,11.0333,Germany,DE,DEU,Bavaria,minor,20217,1276573026
+Nonantola,Nonantola,44.6781,11.0422,Italy,IT,ITA,Emilia-Romagna,,16106,1380440392
+Halberstadt,Halberstadt,51.8958,11.0467,Germany,DE,DEU,Saxony-Anhalt,minor,40457,1276900818
+Rovereto,Rovereto,45.8833,11.5,Italy,IT,ITA,Trentino-Alto Adige,,39809,1380311979
+Thale,Thale,51.75,11.5,Germany,DE,DEU,Saxony-Anhalt,,16868,1276578169
+Castelfranco Emilia,Castelfranco Emilia,44.5967,11.0528,Italy,IT,ITA,Emilia-Romagna,,33054,1380892576
+Forchheim,Forchheim,49.7197,11.0581,Germany,DE,DEU,Bavaria,minor,32972,1276030665
+Peißenberg,Peissenberg,47.795,11.0603,Germany,DE,DEU,Bavaria,,12781,1276277124
+Mirandola,Mirandola,44.8867,11.0667,Italy,IT,ITA,Emilia-Romagna,,24085,1380556207
+Telfs,Telfs,47.2833,11.0667,Austria,AT,AUT,Tirol,,16046,1040393855
+Rödental,Rodental,50.2833,11.0667,Germany,DE,DEU,Bavaria,,13033,1276302053
+Nuremberg,Nuremberg,49.4539,11.0775,Germany,DE,DEU,Bavaria,minor,523026,1276166609
+Roth,Roth,49.2461,11.0911,Germany,DE,DEU,Bavaria,,25367,1276856142
+San Martino Buon Albergo,San Martino Buon Albergo,45.4167,11.1,Italy,IT,ITA,Veneto,,16233,1380954715
+Dießen am Ammersee,Diessen am Ammersee,47.95,11.1,Germany,DE,DEU,Bavaria,,10618,1276330622
+Bad Frankenhausen,Bad Frankenhausen,51.3558,11.1011,Germany,DE,DEU,Thuringia,,9995,1276187719
+Trento,Trento,46.0667,11.1167,Italy,IT,ITA,Trentino-Alto Adige,admin,118046,1380953307
+Lavis,Lavis,46.1333,11.1167,Italy,IT,ITA,Trentino-Alto Adige,,9150,1380719126
+Sömmerda,Sommerda,51.1617,11.1169,Germany,DE,DEU,Thuringia,minor,19156,1276806984
+Neustadt bei Coburg,Neustadt bei Coburg,50.3289,11.1211,Germany,DE,DEU,Bavaria,,15064,1276116282
+San Felice sul Panaro,San Felice sul Panaro,44.8333,11.1333,Italy,IT,ITA,Emilia-Romagna,,10697,1380210816
+Bovolone,Bovolone,45.25,11.1333,Italy,IT,ITA,Veneto,,16106,1380019323
+Isola della Scala,Isola della Scala,45.2667,11.1333,Italy,IT,ITA,Veneto,,11567,1380191231
+Zevio,Zevio,45.3667,11.1333,Italy,IT,ITA,Veneto,,15579,1380762128
+Aichach,Aichach,48.45,11.1333,Germany,DE,DEU,Bavaria,minor,21908,1276090074
+Quedlinburg,Quedlinburg,51.7917,11.1472,Germany,DE,DEU,Saxony-Anhalt,,23313,1276672547
+Wendelstein,Wendelstein,49.3536,11.1483,Germany,DE,DEU,Bavaria,,16089,1276957789
+Crevalcore,Crevalcore,44.7167,11.15,Italy,IT,ITA,Emilia-Romagna,,13706,1380853789
+Lana,Lana,46.6167,11.15,Italy,IT,ITA,Trentino-Alto Adige,,12477,1380125406
+Weilheim,Weilheim,47.8333,11.15,Germany,DE,DEU,Bavaria,minor,23056,1276001381
+Heroldsberg,Heroldsberg,49.5333,11.15,Germany,DE,DEU,Bavaria,,8582,1276022666
+Neuhaus am Rennweg,Neuhaus am Rennweg,50.5167,11.15,Germany,DE,DEU,Thuringia,,8927,1276404975
+Salzwedel,Salzwedel,52.85,11.15,Germany,DE,DEU,Saxony-Anhalt,minor,23543,1276222011
+Lüchow,Luchow,52.9667,11.15,Germany,DE,DEU,Lower Saxony,minor,9585,1276197749
+Klötze,Klotze,52.6263,11.1616,Germany,DE,DEU,Saxony-Anhalt,,9680,1276729835
+Merano,Merano,46.6667,11.1667,Italy,IT,ITA,Trentino-Alto Adige,,41071,1380000095
+Sonneberg,Sonneberg,50.35,11.1667,Germany,DE,DEU,Thuringia,minor,23507,1276304773
+Grevesmühlen,Grevesmuhlen,53.8667,11.1667,Germany,DE,DEU,Mecklenburg-Western Pomerania,,10538,1276634445
+San Giovanni in Persiceto,San Giovanni in Persiceto,44.6333,11.1833,Italy,IT,ITA,Emilia-Romagna,,27720,1380356919
+Oppeano,Oppeano,45.3,11.1833,Italy,IT,ITA,Veneto,,10279,1380024530
+Herrsching am Ammersee,Herrsching am Ammersee,48,00,11.1833,Germany,DE,DEU,Bavaria,,11088,1276350477
+Neuburg,Neuburg,48.7333,11.1833,Germany,DE,DEU,Bavaria,minor,30467,1276560116
+Hilpoltstein,Hilpoltstein,49.1833,11.1833,Germany,DE,DEU,Bavaria,,13868,1276036036
+Hagenow,Hagenow,53.4167,11.1833,Germany,DE,DEU,Mecklenburg-Western Pomerania,,12399,1276783883
+Eichstätt,Eichstatt,48.8919,11.1839,Germany,DE,DEU,Bavaria,minor,13714,1276205721
+Anzola dell’Emilia,Anzola dell'Emilia,44.5472,11.56,Italy,IT,ITA,Emilia-Romagna,,12377,1380103166
+Monte San Pietro,Monte San Pietro,44.4667,11.2,Italy,IT,ITA,Emilia-Romagna,,10725,1380640178
+Murnau am Staffelsee,Murnau am Staffelsee,47.6833,11.2,Germany,DE,DEU,Bavaria,,11969,1276454269
+Feucht,Feucht,49.3757,11.213,Germany,DE,DEU,Bavaria,,14169,1276937991
+Cerea,Cerea,45.2,11.67,Italy,IT,ITA,Veneto,,16801,1380206980
+Zola Predosa,Zola Predosa,44.4883,11.81,Italy,IT,ITA,Emilia-Romagna,,19207,1380463262
+Pergine Valsugana,Pergine Valsugana,46.0667,11.33,Italy,IT,ITA,Trentino-Alto Adige,,21572,1380117079
+Schwarzenbruck,Schwarzenbruck,49.35,11.33,Germany,DE,DEU,Bavaria,,8600,1276492629
+Ballenstedt,Ballenstedt,51.72,11.75,Germany,DE,DEU,Saxony-Anhalt,,8794,1276375352
+Barberino di Mugello,Barberino di Mugello,44.0014,11.92,Italy,IT,ITA,Tuscany,,10920,1380222882
+Röthenbach an der Pegnitz,Rothenbach an der Pegnitz,49.4847,11.75,Germany,DE,DEU,Bavaria,,12531,1276836579
+Sasso Marconi,Sasso Marconi,44.4,11.25,Italy,IT,ITA,Emilia-Romagna,,14747,1380881391
+Oschersleben,Oschersleben,52.0167,11.25,Germany,DE,DEU,Saxony-Anhalt,,19704,1276686337
+Fürstenfeldbruck,Furstenfeldbruck,48.1778,11.56,Germany,DE,DEU,Bavaria,minor,37695,1276347995
+Calderara di Reno,Calderara di Reno,44.5667,11.67,Italy,IT,ITA,Emilia-Romagna,,13502,1380049846
+Maisach,Maisach,48.2167,11.67,Germany,DE,DEU,Bavaria,,14199,1276438792
+Schrobenhausen,Schrobenhausen,48.5333,11.67,Germany,DE,DEU,Bavaria,,17754,1276307699
+Lauf,Lauf,49.5103,11.72,Germany,DE,DEU,Bavaria,minor,26420,1276202337
+Tutzing,Tutzing,47.9089,11.14,Germany,DE,DEU,Bavaria,,10106,1276343820
+Casalecchio di Reno,Casalecchio di Reno,44.4833,11.33,Italy,IT,ITA,Emilia-Romagna,,35414,1380710953
+Cento,Cento,44.7333,11.33,Italy,IT,ITA,Emilia-Romagna,,35231,1380277894
+Finale Emilia,Finale Emilia,44.8333,11.33,Italy,IT,ITA,Emilia-Romagna,,14951,1380983848
+San Bonifacio,San Bonifacio,45.4,11.33,Italy,IT,ITA,Veneto,,21418,1380614746
+Monteforte d’Alpone,Monteforte d'Alpone,45.4167,11.33,Italy,IT,ITA,Veneto,,8932,1380147370
+Chiampo,Chiampo,45.55,11.33,Italy,IT,ITA,Veneto,,12531,1380934204
+Valdagno,Valdagno,45.65,11.3,Italy,IT,ITA,Veneto,,25601,1380223912
+Gilching,Gilching,48.1167,11.3,Germany,DE,DEU,Bavaria,,19247,1276366284
+Burgthann,Burgthann,49.35,11.3,Germany,DE,DEU,Bavaria,,11771,1276619152
+Sangerhausen,Sangerhausen,51.4667,11.3,Germany,DE,DEU,Saxony-Anhalt,minor,25441,1276588418
+Legnago,Legnago,45.1944,11.25,Italy,IT,ITA,Veneto,,25366,1380904282
+Eichenau,Eichenau,48.1667,11.67,Germany,DE,DEU,Bavaria,,11867,1276298284
+Freystadt,Freystadt,49.2,11.67,Germany,DE,DEU,Bavaria,,9265,1276684749
+Rudolstadt,Rudolstadt,50.7169,11.75,Germany,DE,DEU,Thuringia,,24749,1276466405
+Kronach,Kronach,50.2411,11.81,Germany,DE,DEU,Bavaria,minor,16906,1276212761
+Weimar,Weimar,50.9811,11.94,Germany,DE,DEU,Thuringia,minor,65620,1276053525
+Arzignano,Arzignano,45.5167,11.33,Italy,IT,ITA,Veneto,,25280,1380567531
+Laives,Laives,46.4333,11.33,Italy,IT,ITA,Trentino-Alto Adige,,18162,1380561318
+Starnberg,Starnberg,47.9972,11.06,Germany,DE,DEU,Bavaria,minor,23741,1276454637
+Bologna,Bologna,44.4939,11.28,Italy,IT,ITA,Emilia-Romagna,admin,387971,1380202039
+Schnaittach,Schnaittach,49.5592,11.31,Germany,DE,DEU,Bavaria,,8516,1276694554
+Pianoro,Pianoro,44.3875,11.44,Italy,IT,ITA,Emilia-Romagna,,17652,1380089762
+Argelato,Argelato,44.5758,11.86,Italy,IT,ITA,Emilia-Romagna,,9635,1380559231
+Cornedo Vicentino,Cornedo Vicentino,45.6167,11.35,Italy,IT,ITA,Veneto,,11678,1380484003
+Bolzano,Bolzano,46.5,11.35,Italy,IT,ITA,Trentino-Alto Adige,minor,106107,1380677819
+Puchheim,Puchheim,48.15,11.35,Germany,DE,DEU,Bavaria,,21420,1276452600
+Schio,Schio,45.7111,11.56,Italy,IT,ITA,Veneto,,38580,1380627888
+Castel Maggiore,Castel Maggiore,44.5667,11.67,Italy,IT,ITA,Emilia-Romagna,,18462,1380605846
+Trissino,Trissino,45.5667,11.67,Italy,IT,ITA,Veneto,,8619,1380795560
+Germering,Germering,48.1333,11.67,Germany,DE,DEU,Bavaria,,41355,1276002965
+Gröbenzell,Grobenzell,48.2,11.67,Germany,DE,DEU,Bavaria,,19717,1276398825
+Markt Indersdorf,Markt Indersdorf,48.3667,11.67,Germany,DE,DEU,Bavaria,,10498,1276148696
+Gaimersheim,Gaimersheim,48.8167,11.67,Germany,DE,DEU,Bavaria,,12352,1276719449
+Saalfeld,Saalfeld,50.65,11.67,Germany,DE,DEU,Thuringia,minor,29224,1276907261
+Gauting,Gauting,48.0678,11.39,Germany,DE,DEU,Bavaria,,21276,1276677644
+San Giorgio di Piano,San Giorgio di Piano,44.65,11.33,Italy,IT,ITA,Emilia-Romagna,,9376,1380940208
+Lonigo,Lonigo,45.3833,11.33,Italy,IT,ITA,Veneto,,15847,1380114554
+Penzberg,Penzberg,47.75,11.33,Germany,DE,DEU,Bavaria,,16729,1276589283
+Gardelegen,Gardelegen,52.5264,11.25,Germany,DE,DEU,Saxony-Anhalt,,22054,1276557570
+Innsbruck,Innsbruck,47.2683,11.33,Austria,AT,AUT,Tirol,admin,130585,1040038924
+San Pietro in Casale,San Pietro in Casale,44.7,11.4,Italy,IT,ITA,Emilia-Romagna,,12834,1380864368
+San Lazzaro di Savena,San Lazzaro di Savena,44.4708,11.83,Italy,IT,ITA,Emilia-Romagna,,32614,1380383689
+Bondeno,Bondeno,44.8833,11.67,Italy,IT,ITA,Emilia-Romagna,,13738,1380410103
+Montecchio Maggiore,Montecchio Maggiore,45.5,11.67,Italy,IT,ITA,Veneto,,23351,1380200882
+Malo,Malo,45.6667,11.67,Italy,IT,ITA,Veneto,,14654,1380662716
+Haldensleben,Haldensleben,52.2833,11.67,Germany,DE,DEU,Saxony-Anhalt,minor,19267,1276371853
+Schwerin,Schwerin,53.6333,11.67,Germany,DE,DEU,Mecklenburg-Western Pomerania,admin,98596,1276221707
+Ingolstadt,Ingolstadt,48.7631,11.425,Germany,DE,DEU,Bavaria,minor,141029,1276803150
+Wolfratshausen,Wolfratshausen,47.9133,11.78,Germany,DE,DEU,Bavaria,,19335,1276706639
+Gräfelfing,Grafelfing,48.1189,11.89,Germany,DE,DEU,Bavaria,,13769,1276126852
+Planegg,Planegg,48.1047,11.06,Germany,DE,DEU,Bavaria,,11063,1276760945
+Hersbruck,Hersbruck,49.5081,11.28,Germany,DE,DEU,Bavaria,,12681,1276272170
+Marano Vicentino,Marano Vicentino,45.7,11.33,Italy,IT,ITA,Veneto,,9285,1380991447
+Berching,Berching,49.1,11.33,Germany,DE,DEU,Bavaria,,9044,1276699990
+Kulmbach,Kulmbach,50.1,11.33,Germany,DE,DEU,Bavaria,minor,25818,1276728110
+Wanzleben,Wanzleben,52.0667,11.33,Germany,DE,DEU,Saxony-Anhalt,,13813,1276538835
+Dachau,Dachau,48.2603,11.42,Germany,DE,DEU,Bavaria,minor,48195,1276549079
+Granarolo del l’Emilia,Granarolo del l'Emilia,44.55,11.45,Italy,IT,ITA,Emilia-Romagna,,12757,1380002344
+Altavilla Vicentina,Altavilla Vicentina,45.5167,11.45,Italy,IT,ITA,Veneto,,11868,1380330182
+Isola Vicentina,Isola Vicentina,45.6333,11.45,Italy,IT,ITA,Veneto,,10228,1380131018
+Rum,Rum,47.2872,11.81,Austria,AT,AUT,Tirol,,9337,1040726454
+Montagnana,Montagnana,45.2333,11.11,Italy,IT,ITA,Veneto,,8937,1380865759
+Neuried,Neuried,48.0933,11.58,Germany,DE,DEU,Bavaria,,8967,1276429701
+Geretsried,Geretsried,47.8667,11.67,Germany,DE,DEU,Bavaria,,25623,1276737058
+Karlsfeld,Karlsfeld,48.2167,11.67,Germany,DE,DEU,Bavaria,,22069,1276796218
+Beilngries,Beilngries,49.0333,11.67,Germany,DE,DEU,Bavaria,,10195,1276091719
+Neumarkt,Neumarkt,49.2833,11.67,Germany,DE,DEU,Bavaria,minor,40808,1276002746
+Aschersleben,Aschersleben,51.75,11.67,Germany,DE,DEU,Saxony-Anhalt,,26604,1276084397
+Wismar,Wismar,53.9,11.67,Germany,DE,DEU,Mecklenburg-Western Pomerania,minor,43878,1276660084
+Castenaso,Castenaso,44.5097,11.06,Italy,IT,ITA,Emilia-Romagna,,16145,1380350174
+Thiene,Thiene,45.7083,11.78,Italy,IT,ITA,Veneto,,23794,1380849890
+Minerbio,Minerbio,44.6167,11.33,Italy,IT,ITA,Emilia-Romagna,,8870,1380077571
+Creazzo,Creazzo,45.5333,11.33,Italy,IT,ITA,Veneto,,11160,1380029462
+Caldogno,Caldogno,45.6,11.44,Italy,IT,ITA,Veneto,,11297,1380104300
+Manching,Manching,48.7186,11.72,Germany,DE,DEU,Bavaria,,13302,1276452710
+Ludwigslust,Ludwigslust,53.3244,11.72,Germany,DE,DEU,Mecklenburg-Western Pomerania,,12270,1276582763
+Poggio Renatico,Poggio Renatico,44.7667,11.5,Italy,IT,ITA,Emilia-Romagna,,9709,1380751237
+Badia Polesine,Badia Polesine,45.1,11.5,Italy,IT,ITA,Veneto,,10068,1380577968
+Hall in Tirol,Hall in Tirol,47.2833,11.5,Austria,AT,AUT,Tirol,,13897,1040200365
+Kösching,Kosching,48.8167,11.5,Germany,DE,DEU,Bavaria,,9875,1276577514
+Hettstedt,Hettstedt,51.6333,11.5,Germany,DE,DEU,Saxony-Anhalt,,13678,1276039853
+Grünwald,Grunwald,48.0333,11.67,Germany,DE,DEU,Bavaria,,11382,1276645609
+Pullach im Isartal,Pullach im Isartal,48.05,11.67,Germany,DE,DEU,Bavaria,,9026,1276150760
+Pfaffenhofen,Pfaffenhofen,48.5333,11.67,Germany,DE,DEU,Bavaria,minor,26943,1276259181
+Apolda,Apolda,51.0167,11.67,Germany,DE,DEU,Thuringia,minor,23072,1276857102
+Budrio,Budrio,44.55,11.33,Italy,IT,ITA,Emilia-Romagna,,18226,1380367732
+Malalbergo,Malalbergo,44.7167,11.33,Italy,IT,ITA,Emilia-Romagna,,9130,1380289270
+Noventa Vicentina,Noventa Vicentina,45.2833,11.33,Italy,IT,ITA,Veneto,,8952,1380296259
+Pegnitz,Pegnitz,49.7564,11.545,Germany,DE,DEU,Bavaria,,13561,1276197483
+Vicenza,Vicenza,45.55,11.55,Italy,IT,ITA,Veneto,minor,109823,1380072199
+Dueville,Dueville,45.6333,11.55,Italy,IT,ITA,Veneto,,13576,1380919954
+Bad Tölz,Bad Tolz,47.7603,11.67,Germany,DE,DEU,Bavaria,minor,19186,1276892151
+Oberschleißheim,Oberschleissheim,48.25,11.67,Germany,DE,DEU,Bavaria,,11998,1276407892
+Unterschleißheim,Unterschleissheim,48.2833,11.67,Germany,DE,DEU,Bavaria,,29523,1276071648
+Staßfurt,Stassfurt,51.8667,11.67,Germany,DE,DEU,Saxony-Anhalt,,24293,1276438491
+Lenggries,Lenggries,47.6803,11.39,Germany,DE,DEU,Bavaria,,10146,1276352109
+Munich,Munich,48.1375,11.575,Germany,DE,DEU,Bavaria,admin,2606021,1276692352
+Bayreuth,Bayreuth,49.9481,11.83,Germany,DE,DEU,Bavaria,minor,74506,1276275069
+Castel San Pietro Terme,Castel San Pietro Terme,44.4,11.33,Italy,IT,ITA,Emilia-Romagna,,20737,1380181797
+Occhiobello,Occhiobello,44.9167,11.33,Italy,IT,ITA,,,12016,1380582807
+Monticello Conte Otto,Monticello Conte Otto,45.6,11.33,Italy,IT,ITA,Veneto,,9029,1380040208
+Oberhaching,Oberhaching,48.0167,11.33,Germany,DE,DEU,Bavaria,,13909,1276103002
+Jena,Jena,50.9272,11.61,Germany,DE,DEU,Thuringia,minor,111191,1276659978
+Geisenfeld,Geisenfeld,48.6667,11.6,Germany,DE,DEU,Bavaria,,11605,1276340970
+Pößneck,Possneck,50.7,11.6,Germany,DE,DEU,Thuringia,,11752,1276601734
+Querfurt,Querfurt,51.3833,11.6,Germany,DE,DEU,Saxony-Anhalt,,10256,1276096185
+Lendinara,Lendinara,45.085,11.06,Italy,IT,ITA,Veneto,,11438,1380831674
+Unterhaching,Unterhaching,48.0658,11.61,Germany,DE,DEU,Bavaria,,25873,1276779846
+Ferrara,Ferrara,44.8333,11.67,Italy,IT,ITA,Emilia-Romagna,minor,129340,1380682411
+Torri di Quartesolo,Torri di Quartesolo,45.5167,11.67,Italy,IT,ITA,Veneto,,11680,1380825558
+Taufkirchen,Taufkirchen,48.05,11.67,Germany,DE,DEU,Bavaria,,18185,1276946888
+Eching,Eching,48.3,11.67,Germany,DE,DEU,Bavaria,,14430,1276481683
+Wolnzach,Wolnzach,48.6,11.67,Germany,DE,DEU,Bavaria,,11835,1276311526
+Vohburg an der Donau,Vohburg an der Donau,48.7667,11.67,Germany,DE,DEU,Bavaria,,8756,1276723735
+Auerbach,Auerbach,49.6833,11.67,Germany,DE,DEU,Bavaria,,9066,1276188143
+Wolmirstedt,Wolmirstedt,52.2519,11.97,Germany,DE,DEU,Saxony-Anhalt,,11602,1276525433
+Medicina,Medicina,44.4833,11.33,Italy,IT,ITA,Emilia-Romagna,,16625,1380077398
+Barleben,Barleben,52.2,11.33,Germany,DE,DEU,Saxony-Anhalt,,9238,1276521807
+Magdeburg,Magdeburg,52.1317,11.92,Germany,DE,DEU,Saxony-Anhalt,admin,239364,1276418236
+Marostica,Marostica,45.75,11.65,Italy,IT,ITA,Veneto,,13940,1380791088
+Bressanone,Bressanone,46.7167,11.65,Italy,IT,ITA,Trentino-Alto Adige,,22816,1380666737
+Unterföhring,Unterfohring,48.2,11.65,Germany,DE,DEU,Bavaria,,11500,1276741944
+Garching bei München,Garching bei Munchen,48.25,11.65,Germany,DE,DEU,Bavaria,,17526,1276544473
+Molinella,Molinella,44.6167,11.67,Italy,IT,ITA,Emilia-Romagna,,15636,1380126666
+Este,Este,45.2333,11.67,Italy,IT,ITA,Veneto,,15975,1380163207
+Teolo,Teolo,45.35,11.67,Italy,IT,ITA,Veneto,,8865,1380263826
+Ottobrunn,Ottobrunn,48.0667,11.67,Germany,DE,DEU,Bavaria,,22430,1276842192
+Neufahrn bei Freising,Neufahrn bei Freising,48.3167,11.67,Germany,DE,DEU,Bavaria,,20590,1276307498
+Ismaning,Ismaning,48.2264,11.25,Germany,DE,DEU,Bavaria,,18062,1276633464
+Neubiberg,Neubiberg,48.0833,11.33,Germany,DE,DEU,Bavaria,,14449,1276417573
+Conselice,Conselice,44.3333,11.7,Italy,IT,ITA,Emilia-Romagna,,9541,1380930733
+Tezze sul Brenta,Tezze sul Brenta,45.6833,11.7,Italy,IT,ITA,Veneto,,12920,1380238354
+Schwaz,Schwaz,47.35,11.7,Austria,AT,AUT,Tirol,minor,13810,1040919527
+Holzkirchen,Holzkirchen,47.8833,11.7,Germany,DE,DEU,Bavaria,,16722,1276287582
+Hohenbrunn,Hohenbrunn,48.05,11.7,Germany,DE,DEU,Bavaria,,8871,1276417376
+Imola,Imola,44.3531,11.47,Italy,IT,ITA,Emilia-Romagna,,69121,1380070609
+Camisano Vicentino,Camisano Vicentino,45.5167,11.67,Italy,IT,ITA,Veneto,,11124,1380821535
+Aschheim,Aschheim,48.1733,11.78,Germany,DE,DEU,Bavaria,,9413,1276119666
+Biederitz,Biederitz,52.1608,11.78,Germany,DE,DEU,Saxony-Anhalt,,8744,1276237569
+Höhenkirchen-Siegertsbrunn,Hohenkirchen-Siegertsbrunn,48.0167,11.33,Germany,DE,DEU,Bavaria,,11422,1276421058
+Haar,Haar,48.1,11.33,Germany,DE,DEU,Bavaria,,22555,1276621025
+Bernburg,Bernburg,51.8,11.33,Germany,DE,DEU,Saxony-Anhalt,minor,32261,1276331294
+Bassano del Grappa,Bassano del Grappa,45.7667,11.42,Italy,IT,ITA,Veneto,,42395,1380653190
+Freising,Freising,48.4028,11.89,Germany,DE,DEU,Bavaria,minor,49339,1276519005
+Monselice,Monselice,45.2333,11.75,Italy,IT,ITA,Veneto,,17220,1380805860
+Kirchheim bei München,Kirchheim bei Munchen,48.1833,11.75,Germany,DE,DEU,Bavaria,,12714,1276864694
+Hallbergmoos,Hallbergmoos,48.3333,11.75,Germany,DE,DEU,Bavaria,,11662,1276167916
+Sulzbach-Rosenberg,Sulzbach-Rosenberg,49.5,11.75,Germany,DE,DEU,Bavaria,,19401,1276541212
+Neustadt,Neustadt,50.7333,11.75,Germany,DE,DEU,Thuringia,,9017,1276606241
+Schönebeck,Schonebeck,52.0167,11.75,Germany,DE,DEU,Saxony-Anhalt,,30389,1276217785
+Wittenberge,Wittenberge,53,00,11.75,Germany,DE,DEU,Brandenburg,,16837,1276040852
+Mestrino,Mestrino,45.45,11.67,Italy,IT,ITA,Veneto,,11728,1380345520
+Piazzola sul Brenta,Piazzola sul Brenta,45.5333,11.67,Italy,IT,ITA,Veneto,,11079,1380205333
+Rosà,Rosa,45.7167,11.67,Italy,IT,ITA,Veneto,,14632,1380877179
+Neustadt an der Donau,Neustadt an der Donau,48.8,11.67,Germany,DE,DEU,Bavaria,,14714,1276348770
+Münchberg,Munchberg,50.2,11.67,Germany,DE,DEU,Bavaria,,10179,1276739492
+Osterburg,Osterburg,52.7833,11.67,Germany,DE,DEU,Saxony-Anhalt,,9580,1276131088
+Vaterstetten,Vaterstetten,48.105,11.06,Germany,DE,DEU,Bavaria,,25530,1276137898
+Hemau,Hemau,49.0519,11.28,Germany,DE,DEU,Bavaria,,9599,1276739454
+Montegrotto Terme,Montegrotto Terme,45.3333,11.33,Italy,IT,ITA,Veneto,,11391,1380955470
+Selvazzano Dentro,Selvazzano Dentro,45.3833,11.33,Italy,IT,ITA,Veneto,,22832,1380351916
+Rubano,Rubano,45.4333,11.33,Italy,IT,ITA,Veneto,,16856,1380183022
+Cittadella,Cittadella,45.65,11.33,Italy,IT,ITA,Veneto,,20023,1380660724
+Mainburg,Mainburg,48.65,11.33,Germany,DE,DEU,Bavaria,,15466,1276991073
+Abano Terme,Abano Terme,45.3603,11.79,Italy,IT,ITA,Veneto,,20231,1380340471
+Rovigo,Rovigo,45.0703,11.06,Italy,IT,ITA,Veneto,minor,49985,1380037431
+Castel Bolognese,Castel Bolognese,44.3167,11.8,Italy,IT,ITA,Emilia-Romagna,,9527,1380286347
+Portomaggiore,Portomaggiore,44.7,11.8,Italy,IT,ITA,Emilia-Romagna,,11780,1380757237
+Mücheln,Mucheln,51.3,11.8,Germany,DE,DEU,Saxony-Anhalt,,8542,1276286774
+Möser,Moser,52.2167,11.8,Germany,DE,DEU,Saxony-Anhalt,,8517,1276001510
+Tangerhütte,Tangerhutte,52.4333,11.8,Germany,DE,DEU,Saxony-Anhalt,,10599,1276201487
+Massa Lombarda,Massa Lombarda,44.45,11.67,Italy,IT,ITA,Emilia-Romagna,,10604,1380884282
+Poing,Poing,48.1667,11.67,Germany,DE,DEU,Bavaria,,16404,1276650408
+Schleiz,Schleiz,50.5833,11.67,Germany,DE,DEU,Thuringia,minor,8866,1276386563
+Naumburg,Naumburg,51.15,11.67,Germany,DE,DEU,Saxony-Anhalt,minor,32289,1276335227
+Argenta,Argenta,44.6153,11.33,Italy,IT,ITA,Emilia-Romagna,,20917,1380471746
+Copparo,Copparo,44.9,11.33,Italy,IT,ITA,Emilia-Romagna,,15673,1380210267
+Miesbach,Miesbach,47.7833,11.33,Germany,DE,DEU,Bavaria,minor,12083,1276609193
+Zorneding,Zorneding,48.0833,11.33,Germany,DE,DEU,Bavaria,,9369,1276678708
+Bad Lauchstädt,Bad Lauchstadt,51.3667,11.33,Germany,DE,DEU,Saxony-Anhalt,,8939,1276634742
+Gommern,Gommern,52.0667,11.33,Germany,DE,DEU,Saxony-Anhalt,,10485,1276399095
+Parchim,Parchim,53.4167,11.33,Germany,DE,DEU,Mecklenburg-Western Pomerania,minor,18278,1276781173
+Amberg,Amberg,49.4444,11.83,Germany,DE,DEU,Bavaria,minor,42534,1276551955
+San Martino di Lupari,San Martino di Lupari,45.65,11.85,Italy,IT,ITA,Veneto,,13209,1380028466
+Feldkirchen-Westerham,Feldkirchen-Westerham,47.9,11.85,Germany,DE,DEU,Bavaria,,11190,1276377703
+Abensberg,Abensberg,48.8,11.85,Germany,DE,DEU,Bavaria,,14534,1276501504
+Stendal,Stendal,52.6,11.85,Germany,DE,DEU,Saxony-Anhalt,minor,39105,1276016814
+Burg,Burg,52.2725,11.855,Germany,DE,DEU,Saxony-Anhalt,minor,22689,1276295040
+Conselve,Conselve,45.2333,11.67,Italy,IT,ITA,Veneto,,9957,1380837833
+Maserà di Padova,Masera di Padova,45.3167,11.67,Italy,IT,ITA,Veneto,,9126,1380237526
+Albignasego,Albignasego,45.35,11.67,Italy,IT,ITA,Veneto,,26890,1380732466
+Padova,Padova,45.4167,11.67,Italy,IT,ITA,Veneto,minor,206496,1380964615
+Loria,Loria,45.7333,11.67,Italy,IT,ITA,Veneto,,9242,1380846175
+Kelheim,Kelheim,48.9167,11.67,Germany,DE,DEU,Bavaria,minor,17044,1276123640
+Perleberg,Perleberg,53.0667,11.67,Germany,DE,DEU,Brandenburg,minor,12108,1276426476
+Markt Schwaben,Markt Schwaben,48.1911,11.81,Germany,DE,DEU,Bavaria,,13853,1276009835
+Faenza,Faenza,44.2856,11.33,Italy,IT,ITA,Emilia-Romagna,,58710,1380236916
+Vigodarzere,Vigodarzere,45.45,11.33,Italy,IT,ITA,Veneto,,13143,1380176970
+Kümmersbruck,Kummersbruck,49.4167,11.33,Germany,DE,DEU,Bavaria,,9894,1276949407
+Kirchseeon,Kirchseeon,48.0731,11.61,Germany,DE,DEU,Bavaria,,10764,1276337335
+Erding,Erding,48.2833,11.9,Germany,DE,DEU,Bavaria,minor,36813,1276458355
+Eisenberg,Eisenberg,50.9667,11.9,Germany,DE,DEU,Thuringia,minor,10957,1276013201
+Braunsbedra,Braunsbedra,51.2833,11.9,Germany,DE,DEU,Saxony-Anhalt,,10401,1276157165
+Feltre,Feltre,46.0186,11.91,Italy,IT,ITA,Veneto,,20369,1380882091
+Lugo,Lugo,44.4167,11.67,Italy,IT,ITA,Emilia-Romagna,,32321,1380226468
+Campodarsego,Campodarsego,45.5,11.67,Italy,IT,ITA,Veneto,,15072,1380456540
+Asolo,Asolo,45.8,11.67,Italy,IT,ITA,Veneto,,8916,1380265519
+Valdobbiadene,Valdobbiadene,45.9,11.67,Italy,IT,ITA,Veneto,,9973,1380856258
+Bruckmühl,Bruckmuhl,47.8833,11.67,Germany,DE,DEU,Bavaria,,16894,1276950984
+Hof,Hof,50.3167,11.67,Germany,DE,DEU,Bavaria,minor,46656,1276561363
+Halle-Neustadt,Halle-Neustadt,51.4789,11.14,Germany,DE,DEU,Saxony-Anhalt,,46280,1276281757
+Cadoneghe,Cadoneghe,45.45,11.33,Italy,IT,ITA,Veneto,,15801,1380080342
+Camposampiero,Camposampiero,45.5667,11.33,Italy,IT,ITA,Veneto,,11817,1380620139
+Piombino Dese,Piombino Dese,45.6,11.33,Italy,IT,ITA,Veneto,,9397,1380807342
+Castelfranco Veneto,Castelfranco Veneto,45.6667,11.33,Italy,IT,ITA,Veneto,,32935,1380391523
+Brunico,Brunico,46.8,11.33,Italy,IT,ITA,Trentino-Alto Adige,,16978,1380194729
+Moosburg,Moosburg,48.4667,11.33,Germany,DE,DEU,Bavaria,,19832,1276561909
+Resana,Resana,45.6333,11.95,Italy,IT,ITA,Veneto,,9392,1380160177
+Möckern,Mockern,52.1406,11.25,Germany,DE,DEU,Saxony-Anhalt,,12918,1276562892
+Legnaro,Legnaro,45.35,11.67,Italy,IT,ITA,Veneto,,9458,1380237634
+Borgoricco,Borgoricco,45.5167,11.67,Italy,IT,ITA,Veneto,,8969,1380419285
+Grafing bei München,Grafing bei Munchen,48.05,11.67,Germany,DE,DEU,Bavaria,,14285,1276799795
+Ebersberg,Ebersberg,48.0833,11.67,Germany,DE,DEU,Bavaria,minor,12386,1276452047
+Weißenfels,Weissenfels,51.2,11.67,Germany,DE,DEU,Saxony-Anhalt,,39041,1276292106
+Schkopau,Schkopau,51.3833,11.67,Germany,DE,DEU,Saxony-Anhalt,,10989,1276553925
+Petersberg,Petersberg,51.6,11.67,Germany,DE,DEU,Saxony-Anhalt,,9366,1276104833
+Tangermünde,Tangermunde,52.5408,11.89,Germany,DE,DEU,Saxony-Anhalt,,10283,1276714669
+Halle,Halle,51.4828,11.97,Germany,DE,DEU,Saxony-Anhalt,minor,242083,1276167077
+Zeulenroda,Zeulenroda,50.6486,11.06,Germany,DE,DEU,Thuringia,,16021,1276933669
+Bagnacavallo,Bagnacavallo,44.4167,11.33,Italy,IT,ITA,Emilia-Romagna,,16360,1380211099
+Vigonza,Vigonza,45.45,11.33,Italy,IT,ITA,Veneto,,23072,1380217105
+Merseburg,Merseburg,51.3544,11.28,Germany,DE,DEU,Saxony-Anhalt,minor,34335,1276735436
+Bad Aibling,Bad Aibling,47.8639,12.1,Germany,DE,DEU,Bavaria,,19613,1276844408
+Pianiga,Pianiga,45.45,12.0167,Italy,IT,ITA,Veneto,,12177,1380942076
+Vedelago,Vedelago,45.6833,12.0167,Italy,IT,ITA,Veneto,,16427,1380349363
+Wunsiedel,Wunsiedel,50.0167,12.0167,Germany,DE,DEU,Bavaria,minor,9243,1276110549
+Rehau,Rehau,50.25,12.0167,Germany,DE,DEU,Bavaria,,9369,1276647977
+Leuna,Leuna,51.3167,12.0167,Germany,DE,DEU,Saxony-Anhalt,,14011,1276318458
+Rottenburg an der Laaber,Rottenburg an der Laaber,48.7019,12.0272,Germany,DE,DEU,Bavaria,,8533,1276689062
+Russi,Russi,44.3833,12.0333,Italy,IT,ITA,Emilia-Romagna,,12190,1380637948
+Piove di Sacco,Piove di Sacco,45.3,12.0333,Italy,IT,ITA,Veneto,,20004,1380727166
+Santa Maria di Sala,Santa Maria di Sala,45.5,12.0333,Italy,IT,ITA,Veneto,,17378,1380364806
+Burglengenfeld,Burglengenfeld,49.2,12.0333,Germany,DE,DEU,Bavaria,,14484,1276523136
+Montebelluna,Montebelluna,45.7753,12.0389,Italy,IT,ITA,Veneto,,31095,1380459138
+Meldola,Meldola,44.1333,12.5,Italy,IT,ITA,Emilia-Romagna,,9879,1380278885
+Forlì,Forli,44.2333,12.5,Italy,IT,ITA,Emilia-Romagna,minor,116440,1380594352
+Alfonsine,Alfonsine,44.5,12.5,Italy,IT,ITA,Emilia-Romagna,,11477,1380940299
+Adria,Adria,45.05,12.5,Italy,IT,ITA,Veneto,,18643,1380910667
+Campolongo Maggiore,Campolongo Maggiore,45.3333,12.5,Italy,IT,ITA,Veneto,,10716,1380044601
+Vigonovo,Vigonovo,45.3833,12.5,Italy,IT,ITA,Veneto,,9835,1380294468
+Trebaseleghe,Trebaseleghe,45.5833,12.5,Italy,IT,ITA,Veneto,,12936,1380826282
+Bad Abbach,Bad Abbach,48.9333,12.5,Germany,DE,DEU,Bavaria,,12666,1276008199
+Camponogara,Camponogara,45.3833,12.0667,Italy,IT,ITA,Veneto,,12942,1380151926
+Noale,Noale,45.55,12.0667,Italy,IT,ITA,Veneto,,16131,1380537608
+Trevignano,Trevignano,45.7333,12.0667,Italy,IT,ITA,Veneto,,10693,1380274035
+Wörgl,Worgl,47.4833,12.0667,Austria,AT,AUT,Tirol,,13811,1040228921
+Kolbermoor,Kolbermoor,47.85,12.0667,Germany,DE,DEU,Bavaria,,18945,1276583234
+Marktredwitz,Marktredwitz,50,00,12.0667,Germany,DE,DEU,Bavaria,,17206,1276442185
+Bad Dürrenberg,Bad Durrenberg,51.2833,12.0667,Germany,DE,DEU,Saxony-Anhalt,,11752,1276847644
+Dolo,Dolo,45.4269,12.0753,Italy,IT,ITA,Veneto,,14953,1380619643
+Cavarzere,Cavarzere,45.137,12.0817,Italy,IT,ITA,Veneto,,12741,1380003044
+Regensburg,Regensburg,49.0167,12.0833,Germany,DE,DEU,Bavaria,minor,157443,1276000325
+Gera,Gera,50.8806,12.0833,Germany,DE,DEU,Thuringia,minor,93634,1276548165
+Zerbst,Zerbst,51.9681,12.0844,Germany,DE,DEU,Saxony-Anhalt,,21519,1276007718
+Lappersdorf,Lappersdorf,49.0525,12.0903,Germany,DE,DEU,Bavaria,,13568,1276955440
+Hohenmölsen,Hohenmolsen,51.1564,12.0981,Germany,DE,DEU,Saxony-Anhalt,,9457,1276691866
+Mirano,Mirano,45.5,12.1,Italy,IT,ITA,Veneto,,27091,1380832945
+Istrana,Istrana,45.6833,12.1,Italy,IT,ITA,Veneto,,9114,1380678496
+Sedico,Sedico,46.1167,12.1,Italy,IT,ITA,Veneto,,10116,1380025341
+Maxhütte-Haidhof,Maxhutte-Haidhof,49.2,12.1,Germany,DE,DEU,Bavaria,,12225,1276703973
+Raubling,Raubling,47.7881,12.1047,Germany,DE,DEU,Bavaria,,11651,1276126414
+Scorzè,Scorze,45.5719,12.1089,Italy,IT,ITA,Veneto,,18981,1380933834
+Schwandorf,Schwandorf,49.3283,12.11,Germany,DE,DEU,Bavaria,minor,29990,1276268287
+Codigoro,Codigoro,44.8333,12.1167,Italy,IT,ITA,Emilia-Romagna,,11072,1380966782
+Salzano,Salzano,45.5333,12.1167,Italy,IT,ITA,Veneto,,12799,1380489219
+Volpago del Montello,Volpago del Montello,45.7833,12.1167,Italy,IT,ITA,Veneto,,10033,1380093991
+Altdorf,Altdorf,48.5667,12.1167,Germany,DE,DEU,Bavaria,,11362,1276813399
+Plauen,Plauen,50.4833,12.1167,Germany,DE,DEU,Saxony,minor,64763,1276134198
+Zörbig,Zorbig,51.6167,12.1167,Germany,DE,DEU,Saxony-Anhalt,,9153,1276066607
+Regenstauf,Regenstauf,49.1236,12.1283,Germany,DE,DEU,Bavaria,,16543,1276162289
+Taufkirchen,Taufkirchen,48.3439,12.1303,Germany,DE,DEU,Bavaria,,10812,1276593079
+Bertinoro,Bertinoro,44.15,12.1333,Italy,IT,ITA,Emilia-Romagna,,11026,1380444887
+Forlimpopoli,Forlimpopoli,44.1833,12.1333,Italy,IT,ITA,Emilia-Romagna,,13047,1380469474
+Mira,Mira,45.4333,12.1333,Italy,IT,ITA,Veneto,,37542,1380620162
+Rosenheim,Rosenheim,47.85,12.1333,Germany,DE,DEU,Bavaria,minor,64403,1276301675
+Selb,Selb,50.1667,12.1333,Germany,DE,DEU,Bavaria,,14763,1276030522
+Zeitz,Zeitz,51.0478,12.1383,Germany,DE,DEU,Saxony-Anhalt,,27976,1276390204
+Spinea,Spinea,45.5,12.15,Italy,IT,ITA,Veneto,,27694,1380346235
+Paese,Paese,45.6667,12.15,Italy,IT,ITA,Veneto,,22004,1380092506
+Dorfen,Dorfen,48.2667,12.15,Germany,DE,DEU,Bavaria,,15179,1276442321
+Landshut,Landshut,48.5397,12.1508,Germany,DE,DEU,Bavaria,minor,75457,1276485277
+Martellago,Martellago,45.55,12.1667,Italy,IT,ITA,Veneto,,21108,1380825761
+Zero Branco,Zero Branco,45.6,12.1667,Italy,IT,ITA,Veneto,,11592,1380265651
+Quinto di Treviso,Quinto di Treviso,45.65,12.1667,Italy,IT,ITA,Veneto,,9973,1380847513
+Pieve di Soligo,Pieve di Soligo,45.8833,12.1667,Italy,IT,ITA,Veneto,,11535,1380766234
+Kufstein,Kufstein,47.5833,12.1667,Austria,AT,AUT,Tirol,minor,19126,1040156374
+Ergolding,Ergolding,48.5833,12.1667,Germany,DE,DEU,Bavaria,,13272,1276980704
+Oelsnitz,Oelsnitz,50.4167,12.1667,Germany,DE,DEU,Saxony,,9951,1276364084
+Landsberg,Landsberg,51.5333,12.1667,Germany,DE,DEU,Saxony-Anhalt,,15015,1276487466
+Genthin,Genthin,52.4,12.1667,Germany,DE,DEU,Saxony-Anhalt,,13685,1276284209
+Obertraubling,Obertraubling,48.9658,12.1669,Germany,DE,DEU,Bavaria,,8729,1276906491
+Güstrow,Gustrow,53.7939,12.1764,Germany,DE,DEU,Mecklenburg-Western Pomerania,minor,29556,1276582967
+Comacchio,Comacchio,44.7,12.1833,Italy,IT,ITA,Emilia-Romagna,,22017,1380546897
+Stephanskirchen,Stephanskirchen,47.85,12.1833,Germany,DE,DEU,Bavaria,,10817,1276424384
+Pritzwalk,Pritzwalk,53.15,12.1833,Germany,DE,DEU,Brandenburg,,11777,1276349904
+Wenzenbach,Wenzenbach,49.0747,12.44,Germany,DE,DEU,Bavaria,,8987,1276234994
+Aš,As,50.2239,12.195,Czechia,CZ,CZE,Karlovarský Kraj,,12804,1203503000
+Neutraubling,Neutraubling,48.9936,12.53,Germany,DE,DEU,Bavaria,,14295,1276485988
+Greiz,Greiz,50.6547,12.97,Germany,DE,DEU,Thuringia,minor,20397,1276236041
+Ergoldsbach,Ergoldsbach,48.6833,12.2,Germany,DE,DEU,Bavaria,,8690,1276002292
+Ravenna,Ravenna,44.4161,12.17,Italy,IT,ITA,Emilia-Romagna,minor,155751,1380964180
+Taglio,Taglio,45.0167,12.67,Italy,IT,ITA,Veneto,,13731,1380512277
+Belluno,Belluno,46.1403,12.67,Italy,IT,ITA,Veneto,minor,35529,1380892097
+Essenbach,Essenbach,48.6167,12.67,Germany,DE,DEU,Bavaria,,12358,1276545666
+Schkeuditz,Schkeuditz,51.4,12.67,Germany,DE,DEU,Saxony,,19189,1276228794
+Markranstädt,Markranstadt,51.3017,12.11,Germany,DE,DEU,Saxony,,16132,1276832529
+Preganziol,Preganziol,45.6,12.33,Italy,IT,ITA,Veneto,,16737,1380449850
+Villorba,Villorba,45.7333,12.33,Italy,IT,ITA,Veneto,,17523,1380357143
+Wasserburg am Inn,Wasserburg am Inn,48.0617,12.33,Germany,DE,DEU,Bavaria,,13004,1276900487
+Dessau-Rosslau,,51.8333,12.33,Germany,DE,DEU,Saxony-Anhalt,minor,79655,1276983641
+Mogliano Veneto,Mogliano Veneto,45.5786,12.64,Italy,IT,ITA,Veneto,,27722,1380309612
+Mestre,Mestre,45.4906,12.81,Italy,IT,ITA,Veneto,,89376,1380275919
+Cesena,Cesena,44.1389,12.44,Italy,IT,ITA,Emilia-Romagna,,95778,1380256992
+Treviso,Treviso,45.6667,12.25,Italy,IT,ITA,Veneto,minor,84607,1380900516
+Spresiano,Spresiano,45.7833,12.25,Italy,IT,ITA,Veneto,,12242,1380609623
+Susegana,Susegana,45.85,12.25,Italy,IT,ITA,Veneto,,11792,1380261110
+Nittenau,Nittenau,49.2,12.67,Germany,DE,DEU,Bavaria,,9449,1276358281
+Chioggia,Chioggia,45.2196,12.89,Italy,IT,ITA,Veneto,,47559,1380033938
+Carbonera,Carbonera,45.6833,12.33,Italy,IT,ITA,Veneto,,11205,1380542415
+Santa Lucia di Piave,Santa Lucia di Piave,45.85,12.33,Italy,IT,ITA,Veneto,,9143,1380105478
+Silea,Silea,45.6533,12.58,Italy,IT,ITA,Veneto,,10343,1380124192
+Conegliano,Conegliano,45.8868,12.74,Italy,IT,ITA,Veneto,,34292,1380962405
+Marcon,Marcon,45.5667,12.3,Italy,IT,ITA,Veneto,,17594,1380183530
+Casièr,Casier,45.65,12.3,Italy,IT,ITA,Veneto,,11416,1380873159
+Vittorio Veneto,Vittorio Veneto,45.9833,12.3,Italy,IT,ITA,Veneto,,27078,1380283185
+Bad Endorf,Bad Endorf,47.9,12.3,Germany,DE,DEU,Bavaria,,8542,1276605238
+Reichenbach/Vogtland,Reichenbach/Vogtland,50.6167,12.3,Germany,DE,DEU,Saxony,,20371,1276903490
+Meuselwitz,Meuselwitz,51.05,12.3,Germany,DE,DEU,Thuringia,,10117,1276499309
+Porto Tolle,Porto Tolle,44.95,12.67,Italy,IT,ITA,Veneto,,9031,1380225713
+Maserada sul Piave,Maserada sul Piave,45.75,12.67,Italy,IT,ITA,Veneto,,9145,1380335265
+Bitterfeld,Bitterfeld,51.6167,12.67,Germany,DE,DEU,Saxony-Anhalt,,37894,1276169908
+Zwenkau,Zwenkau,51.2175,12.42,Germany,DE,DEU,Saxony,,9332,1276888789
+Gambettola,Gambettola,44.1167,12.33,Italy,IT,ITA,Emilia-Romagna,,10682,1380865769
+Casale sul Sile,Casale sul Sile,45.6,12.33,Italy,IT,ITA,Veneto,,13168,1380855247
+Prien am Chiemsee,Prien am Chiemsee,47.8667,12.33,Germany,DE,DEU,Bavaria,,11243,1276129063
+Tirschenreuth,Tirschenreuth,49.8833,12.33,Germany,DE,DEU,Bavaria,minor,8655,1276972262
+Rathenow,Rathenow,52.6,12.33,Germany,DE,DEU,Brandenburg,minor,24597,1276833446
+Venice,Venice,45.4375,12.58,Italy,IT,ITA,Veneto,admin,250369,1380660414
+San Vendemiano,San Vendemiano,45.8914,12.89,Italy,IT,ITA,Veneto,,9804,1380606267
+Delitzsch,Delitzsch,51.5264,12.25,Germany,DE,DEU,Saxony,,25244,1276928962
+Mareno di Piave,Mareno di Piave,45.85,12.35,Italy,IT,ITA,Veneto,,9455,1380116236
+Vilsbiburg,Vilsbiburg,48.45,12.35,Germany,DE,DEU,Bavaria,,12584,1276843205
+Cervia,Cervia,44.2586,12.58,Italy,IT,ITA,Emilia-Romagna,,28983,1380322591
+Schmölln,Schmolln,50.895,12.64,Germany,DE,DEU,Thuringia,,13684,1276498002
+Roncade,Roncade,45.6333,12.67,Italy,IT,ITA,Veneto,,14613,1380417225
+Cheb,Cheb,50.0794,12.06,Czechia,CZ,CZE,Karlovarský Kraj,,31954,1203676556
+Leipzig,Leipzig,51.34,12.375,Germany,DE,DEU,Saxony,minor,616093,1276563678
+Gatteo,Gatteo,44.1,12.33,Italy,IT,ITA,Emilia-Romagna,,9325,1380526755
+San Biagio di Callalta,San Biagio di Callalta,45.6833,12.33,Italy,IT,ITA,Veneto,,12652,1380128806
+Werdau,Werdau,50.7333,12.33,Germany,DE,DEU,Saxony,,20702,1276717054
+Markkleeberg,Markkleeberg,51.2778,12.33,Germany,DE,DEU,Saxony,,24523,1276805845
+Crimmitschau,Crimmitschau,50.8181,12.75,Germany,DE,DEU,Saxony,,18567,1276188517
+Cesenatico,Cesenatico,44.2,12.44,Italy,IT,ITA,Emilia-Romagna,,25921,1380296104
+Savignano sul Rubicone,Savignano sul Rubicone,44.1,12.4,Italy,IT,ITA,Emilia-Romagna,,17842,1380057142
+Waldkraiburg,Waldkraiburg,48.2167,12.4,Germany,DE,DEU,Bavaria,,24488,1276784836
+Auerbach,Auerbach,50.5094,12.4,Germany,DE,DEU,Saxony,,17759,1276679224
+Kyritz,Kyritz,52.95,12.4,Germany,DE,DEU,Brandenburg,,9152,1276035237
+San Mauro Pascoli,San Mauro Pascoli,44.1,12.67,Italy,IT,ITA,Emilia-Romagna,,12186,1380282850
+Sankt Johann in Tirol,Sankt Johann in Tirol,47.5225,12.56,Austria,AT,AUT,Tirol,,9750,1040232004
+Altenburg,Altenburg,50.985,12.33,Germany,DE,DEU,Thuringia,minor,31315,1276224301
+Gräfenhainichen,Grafenhainichen,51.7167,12.33,Germany,DE,DEU,Saxony-Anhalt,,11446,1276450109
+Coswig,Coswig,51.8833,12.33,Germany,DE,DEU,Saxony-Anhalt,,11488,1276417362
+Sant’Arcangelo di Romagna,Sant'Arcangelo di Romagna,44.0667,12.45,Italy,IT,ITA,Emilia-Romagna,,22148,1380993276
+Meerane,Meerane,50.8519,12.36,Germany,DE,DEU,Saxony,,13888,1276923420
+Wittstock,Wittstock,53.1636,12.56,Germany,DE,DEU,Brandenburg,,14104,1276000618
+Oderzo,Oderzo,45.78,12.81,Italy,IT,ITA,Veneto,,20016,1380552197
+Taucha,Taucha,51.38,12.36,Germany,DE,DEU,Saxony,,15816,1276068319
+Sacile,Sacile,45.9667,12.5,Italy,IT,ITA,Friuli Venezia Giulia,,19864,1380761998
+Dingolfing,Dingolfing,48.6333,12.5,Germany,DE,DEU,Bavaria,minor,20607,1276764455
+Zwickau,Zwickau,50.7167,12.5,Germany,DE,DEU,Saxony,minor,87172,1276683623
+Borna,Borna,51.1167,12.5,Germany,DE,DEU,Saxony,,19470,1276020510
+Roding,Roding,49.2,12.67,Germany,DE,DEU,Bavaria,,12972,1276027598
+Wilkau-Haßlau,Wilkau-Hasslau,50.6667,12.67,Germany,DE,DEU,Saxony,,9534,1276704667
+Mühldorf,Muhldorf,48.2456,12.28,Germany,DE,DEU,Bavaria,minor,21697,1276623949
+Brugnera,Brugnera,45.9,12.33,Italy,IT,ITA,Friuli Venezia Giulia,,9229,1380420963
+Brandenburg,Brandenburg,52.4167,12.33,Germany,DE,DEU,Brandenburg,minor,73609,1276372220
+Glauchau,Glauchau,50.8233,12.44,Germany,DE,DEU,Saxony,,21951,1276610130
+Trostberg an der Alz,Trostberg an der Alz,48.0167,12.55,Germany,DE,DEU,Bavaria,,11444,1276546741
+Frohburg,Frohburg,51.0561,12.555,Germany,DE,DEU,Saxony,,12305,1276859230
+Musile di Piave,Musile di Piave,45.6167,12.67,Italy,IT,ITA,Veneto,,11372,1380177737
+San Donà di Piave,San Dona di Piave,45.6333,12.67,Italy,IT,ITA,Veneto,,41535,1380477303
+Fontanafredda,Fontanafredda,45.9667,12.67,Italy,IT,ITA,Friuli Venezia Giulia,,12818,1380424478
+Töging am Inn,Toging am Inn,48.25,12.67,Germany,DE,DEU,Bavaria,,9465,1276814406
+Straubing,Straubing,48.8833,12.67,Germany,DE,DEU,Bavaria,minor,49164,1276278805
+Rimini,Rimini,44.0594,12.83,Italy,IT,ITA,Emilia-Romagna,minor,149211,1380527853
+Mülsen,Mulsen,50.7447,12.47,Germany,DE,DEU,Saxony,,10812,1276902814
+Aviano,Aviano,46.0667,12.33,Italy,IT,ITA,Friuli Venezia Giulia,,8948,1380233722
+Traunreut,Traunreut,47.9667,12.33,Germany,DE,DEU,Bavaria,,21102,1276958674
+Garching an der Alz,Garching an der Alz,48.1167,12.33,Germany,DE,DEU,Bavaria,,8778,1276874361
+Naunhof,Naunhof,51.2778,12.83,Germany,DE,DEU,Saxony,,8839,1276828471
+Belzig,Belzig,52.1422,12.56,Germany,DE,DEU,Brandenburg,,11172,1276375390
+Motta di Livenza,Motta di Livenza,45.7797,12.86,Italy,IT,ITA,Veneto,,10731,1380977215
+Brandis,Brandis,51.3347,12.89,Germany,DE,DEU,Saxony,,9676,1276455051
+Porcia,Porcia,45.9667,12.67,Italy,IT,ITA,Friuli Venezia Giulia,,14971,1380622956
+Lichtenstein,Lichtenstein,50.7564,12.17,Germany,DE,DEU,Saxony,,10946,1276704122
+Tachov,Tachov,49.7953,12.31,Czechia,CZ,CZE,Plzeňský Kraj,,13800,1203227002
+Traunstein,Traunstein,47.8667,12.33,Germany,DE,DEU,Bavaria,minor,21251,1276793310
+Kemberg,Kemberg,51.7833,12.33,Germany,DE,DEU,Saxony-Anhalt,,9467,1276029857
+Eilenburg,Eilenburg,51.4608,12.58,Germany,DE,DEU,Saxony,,16031,1276166351
+Sokolov,Sokolov,50.1814,12.03,Czechia,CZ,CZE,Karlovarský Kraj,,22227,1203662180
+Iesolo,Iesolo,45.5339,12.08,Italy,IT,ITA,Veneto,,26558,1380134395
+Lido di Iesolo,Lido di Iesolo,45.5339,12.08,Italy,IT,ITA,Veneto,,26447,1380025785
+Schneeberg,Schneeberg,50.5942,12.56,Germany,DE,DEU,Saxony,,13994,1276764942
+Riccione Marina,Riccione Marina,44,00,12.65,Italy,IT,ITA,Emilia-Romagna,,34400,1380177651
+Pordenone,Pordenone,45.95,12.65,Italy,IT,ITA,Friuli Venezia Giulia,minor,51725,1380364177
+Siegsdorf,Siegsdorf,47.8167,12.65,Germany,DE,DEU,Bavaria,,8543,1276458922
+Cham,Cham,49.2167,12.65,Germany,DE,DEU,Bavaria,minor,17421,1276459468
+Landau an der Isar,Landau an der Isar,48.6667,12.67,Germany,DE,DEU,Bavaria,,14121,1276797945
+Altötting,Altotting,48.2267,12.83,Germany,DE,DEU,Bavaria,minor,10119,1276161581
+Eraclea,Eraclea,45.5833,12.33,Italy,IT,ITA,Veneto,,11970,1380571098
+Santo Stino di Livenza,Santo Stino di Livenza,45.7333,12.33,Italy,IT,ITA,Veneto,,12655,1380323884
+Neuötting,Neuotting,48.2167,12.33,Germany,DE,DEU,Bavaria,,8997,1276928616
+Bogen,Bogen,48.9167,12.33,Germany,DE,DEU,Bavaria,,10278,1276422463
+Cordenons,Cordenons,45.9833,12.7,Italy,IT,ITA,Friuli Venezia Giulia,,17779,1380431820
+Aue,Aue,50.5881,12.06,Germany,DE,DEU,Saxony,,16012,1276459690
+Mariánské Lázně,Marianske Lazne,49.9647,12.11,Czechia,CZ,CZE,Karlovarský Kraj,,13766,1203682983
+Azzano Decimo,Azzano Decimo,45.8833,12.67,Italy,IT,ITA,Friuli Venezia Giulia,,15681,1380971345
+Maniago,Maniago,46.1667,12.67,Italy,IT,ITA,Friuli Venezia Giulia,,11526,1380416559
+Burgkirchen an der Alz,Burgkirchen an der Alz,48.1667,12.67,Germany,DE,DEU,Bavaria,,10953,1276642803
+Hohenstein-Ernstthal,Hohenstein-Ernstthal,50.8,12.67,Germany,DE,DEU,Saxony,,14092,1276671628
+Wurzen,Wurzen,51.3667,12.67,Germany,DE,DEU,Saxony,,16614,1276002805
+Grimma,Grimma,51.2386,12.53,Germany,DE,DEU,Saxony,,28205,1276049939
+Fiume Veneto,Fiume Veneto,45.9333,12.33,Italy,IT,ITA,Friuli Venezia Giulia,,11779,1380146382
+Chodov,Chodov,50.2414,12.39,Czechia,CZ,CZE,Karlovarský Kraj,,12733,1203758078
+Limbach-Oberfrohna,Limbach-Oberfrohna,50.8667,12.75,Germany,DE,DEU,Saxony,,23833,1276772007
+Eggenfelden,Eggenfelden,48.4039,12.42,Germany,DE,DEU,Bavaria,,14437,1276543412
+Fehrbellin,Fehrbellin,52.7997,12.67,Germany,DE,DEU,Brandenburg,,9094,1276574282
+Lienz,Lienz,46.8297,12.97,Austria,AT,AUT,Tirol,minor,11935,1040923905
+Stollberg,Stollberg,50.7083,12.83,Germany,DE,DEU,Saxony,,11139,1276429853
+Schwarzenberg,Schwarzenberg,50.5453,12.92,Germany,DE,DEU,Saxony,,15936,1276831560
+Groß Kreutz,Gross Kreutz,52.4,12.33,Germany,DE,DEU,Brandenburg,,8948,1276310156
+Zell am See,Zell am See,47.3167,12.8,Austria,AT,AUT,Salzburg,minor,9762,1040352901
+Zwönitz,Zwonitz,50.6167,12.8,Germany,DE,DEU,Saxony,,11786,1276062398
+Neuruppin,Neuruppin,52.9331,12.8,Germany,DE,DEU,Brandenburg,minor,31422,1276820903
+Teisendorf,Teisendorf,47.85,12.67,Germany,DE,DEU,Bavaria,,9422,1276609221
+Burgstädt,Burgstadt,50.9167,12.67,Germany,DE,DEU,Saxony,,10475,1276198411
+Portogruaro,Portogruaro,45.7833,12.33,Italy,IT,ITA,Veneto,,24314,1380545268
+Burghausen,Burghausen,48.1667,12.33,Germany,DE,DEU,Bavaria,,19364,1276305755
+Furth im Wald,Furth im Wald,49.3097,12.84,Germany,DE,DEU,Bavaria,,9032,1276212241
+Saalfelden am Steinernen Meer,Saalfelden am Steinernen Meer,47.4269,12.83,Austria,AT,AUT,Salzburg,,16700,1040716716
+Concordia Sagittaria,Concordia Sagittaria,45.7667,12.85,Italy,IT,ITA,Veneto,,10229,1380975617
+San Vito al Tagliamento,San Vito al Tagliamento,45.9,12.67,Italy,IT,ITA,Friuli Venezia Giulia,,15187,1380256352
+Plattling,Plattling,48.7667,12.67,Germany,DE,DEU,Bavaria,,13121,1276078281
+Karlovy Vary,Karlovy Vary,50.2306,12.25,Czechia,CZ,CZE,Karlovarský Kraj,admin,49043,1203518899
+Bad Reichenhall,Bad Reichenhall,47.7247,12.69,Germany,DE,DEU,Bavaria,minor,18893,1276059039
+Nauen,Nauen,52.6,12.31,Germany,DE,DEU,Brandenburg,,19352,1276864648
+Caorle,Caorle,45.6,12.33,Italy,IT,ITA,Veneto,,11108,1380538746
+Viechtach,Viechtach,49.0792,12.47,Germany,DE,DEU,Bavaria,,8585,1276786566
+Spilimbergo,Spilimbergo,46.1281,12.885,Italy,IT,ITA,Friuli Venezia Giulia,,11833,1380070167
+Pfarrkirchen,Pfarrkirchen,48.4167,12.67,Germany,DE,DEU,Bavaria,minor,13522,1276885935
+Chemnitz,Chemnitz,50.8333,12.67,Germany,DE,DEU,Saxony,minor,248563,1276519956
+Domažlice,Domazlice,49.4406,12.72,Czechia,CZ,CZE,Plzeňský Kraj,,11010,1203358449
+Ainring,Ainring,47.8136,12.28,Germany,DE,DEU,Bavaria,,9975,1276077892
+Ostrov,Ostrov,50.3083,12.78,Czechia,CZ,CZE,Karlovarský Kraj,,15894,1203022506
+Wustermark,Wustermark,52.55,12.95,Germany,DE,DEU,Brandenburg,,10922,1276932359
+Freilassing,Freilassing,47.8333,12.67,Germany,DE,DEU,Bavaria,,17816,1276282147
+Deggendorf,Deggendorf,48.8333,12.67,Germany,DE,DEU,Bavaria,minor,35172,1276512590
+Beelitz,Beelitz,52.2333,12.67,Germany,DE,DEU,Brandenburg,,13219,1276861998
+Codroipo,Codroipo,45.9625,12.92,Italy,IT,ITA,Friuli Venezia Giulia,,15863,1380582710
+Mittweida,Mittweida,50.9856,12.11,Germany,DE,DEU,Saxony,,14332,1276378266
+Schönwalde-Siedlung,Schonwalde-Siedlung,52.65,12.33,Germany,DE,DEU,Brandenburg,,10571,1276477512
+San Michele al Tagliamento,San Michele al Tagliamento,45.7636,12.53,Italy,IT,ITA,Veneto,,11393,1380617827
+Brieselang,Brieselang,52.5833,13,Germany,DE,DEU,Brandenburg,,13118,1276596392
+Annaberg-Buchholz,Annaberg-Buchholz,50.58,13.0022,Germany,DE,DEU,Saxony,minor,19382,1276866777
+Torgau,Torgau,51.5603,13.0056,Germany,DE,DEU,Saxony,minor,19802,1276804920
+Tolmezzo,Tolmezzo,46.4,13.0167,Italy,IT,ITA,Friuli Venezia Giulia,,9833,1380228864
+Simbach am Inn,Simbach am Inn,48.2667,13.0167,Germany,DE,DEU,Bavaria,,10416,1276572176
+Waldheim,Waldheim,51.0667,13.0167,Germany,DE,DEU,Saxony,,9033,1276028317
+Michendorf,Michendorf,52.3,13.0167,Germany,DE,DEU,Brandenburg,,13845,1276652646
+Osterhofen,Osterhofen,48.7019,13.2,Germany,DE,DEU,Bavaria,,12171,1276874172
+Braunau am Inn,Braunau am Inn,48.2583,13.035,Austria,AT,AUT,Oberösterreich,minor,17095,1040852989
+Frankenberg,Frankenberg,50.9108,13.0378,Germany,DE,DEU,Saxony,,13750,1276762731
+Demmin,Demmin,53.905,13.0439,Germany,DE,DEU,Mecklenburg-Western Pomerania,,10395,1276386093
+Salzburg,Salzburg,47.8,13.045,Austria,AT,AUT,Salzburg,admin,155021,1040312147
+Dallgow-Döberitz,Dallgow-Doberitz,52.5331,13.5,Germany,DE,DEU,Brandenburg,,10687,1276604293
+Neustrelitz,Neustrelitz,53.3647,13.0636,Germany,DE,DEU,Mecklenburg-Western Pomerania,,20340,1276001058
+Zschopau,Zschopau,50.75,13.0667,Germany,DE,DEU,Saxony,,8996,1276308597
+Potsdam,Potsdam,52.4,13.0667,Germany,DE,DEU,Brandenburg,admin,185750,1276395100
+Flöha,Floha,50.8558,13.0714,Germany,DE,DEU,Saxony,,10516,1276141987
+Jüterbog,Juterbog,51.9933,13.0728,Germany,DE,DEU,Brandenburg,,12612,1276769458
+Falkensee,Falkensee,52.5583,13.0917,Germany,DE,DEU,Brandenburg,,44806,1276126886
+Hallein,Hallein,47.6831,13.0969,Austria,AT,AUT,Salzburg,minor,21150,1040821146
+Oschatz,Oschatz,51.3003,13.1072,Germany,DE,DEU,Saxony,,14195,1276313153
+Döbeln,Dobeln,51.1194,13.1128,Germany,DE,DEU,Saxony,,23763,1276060973
+Latisana,Latisana,45.7833,13.1167,Italy,IT,ITA,Friuli Venezia Giulia,,13133,1380553278
+Gemona del Friuli,Gemona del Friuli,46.2833,13.1333,Italy,IT,ITA,Friuli Venezia Giulia,,10461,1380484180
+Regen,Regen,48.9667,13.1333,Germany,DE,DEU,Bavaria,minor,11005,1276612143
+Marienberg,Marienberg,50.6333,13.15,Germany,DE,DEU,Saxony,,16603,1276662047
+Löwenberg,Lowenberg,52.8833,13.15,Germany,DE,DEU,Brandenburg,,8732,1276763095
+Luckenwalde,Luckenwalde,52.0833,13.1667,Germany,DE,DEU,Brandenburg,minor,20839,1276376363
+Klášterec nad Ohří,Klasterec nad Ohri,50.3903,13.1719,Czechia,CZ,CZE,Ústecký Kraj,,14324,1203315809
+Velten,Velten,52.6833,13.1833,Germany,DE,DEU,Brandenburg,,12424,1276342323
+Pasian di Prato,Pasian di Prato,46.05,13.2,Italy,IT,ITA,Friuli Venezia Giulia,,9252,1380848051
+Sankt Johann im Pongau,Sankt Johann im Pongau,47.35,13.2,Austria,AT,AUT,Salzburg,minor,11235,1040330095
+Trebbin,Trebbin,52.2167,13.2,Germany,DE,DEU,Brandenburg,,10016,1276041588
+Hennigsdorf,Hennigsdorf,52.6378,13.2036,Germany,DE,DEU,Brandenburg,,26728,1276509399
+Tavagnacco,Tavagnacco,46.1333,13.2167,Italy,IT,ITA,Friuli Venezia Giulia,,14447,1380864690
+Tarcento,Tarcento,46.2167,13.2167,Italy,IT,ITA,Friuli Venezia Giulia,,8887,1380332869
+Stahnsdorf,Stahnsdorf,52.3922,13.2167,Germany,DE,DEU,Brandenburg,,16203,1276819646
+Bischofshofen,Bischofshofen,47.4172,13.2194,Austria,AT,AUT,Salzburg,,10540,1040799035
+Udine,Udine,46.0667,13.2333,Italy,IT,ITA,Friuli Venezia Giulia,minor,97808,1380396446
+Zwiesel,Zwiesel,49.0167,13.2333,Germany,DE,DEU,Bavaria,,9045,1276620797
+Herzberg,Herzberg,51.6833,13.2333,Germany,DE,DEU,Brandenburg,minor,8731,1276357277
+Oranienburg,Oranienburg,52.7544,13.2369,Germany,DE,DEU,Brandenburg,minor,47752,1276677137
+Neubrandenburg,Neubrandenburg,53.5569,13.2611,Germany,DE,DEU,Mecklenburg-Western Pomerania,minor,63989,1276954105
+Ludwigsfelde,Ludwigsfelde,52.2997,13.2667,Germany,DE,DEU,Brandenburg,,28424,1276940684
+Teltow,Teltow,52.4022,13.2706,Germany,DE,DEU,Brandenburg,,27697,1276388501
+Kadaň,Kadan,50.3761,13.2714,Czechia,CZ,CZE,Ústecký Kraj,,18275,1203388944
+Hohen Neuendorf,Hohen Neuendorf,52.6667,13.2833,Germany,DE,DEU,Brandenburg,,27139,1276577032
+Riesa,Riesa,51.3081,13.2939,Germany,DE,DEU,Saxony,,29076,1276381687
+Klatovy,Klatovy,49.3953,13.295,Czechia,CZ,CZE,Plzeňský Kraj,,22496,1203400126
+Nossen,Nossen,51.05,13.3,Germany,DE,DEU,Saxony,,10389,1276123820
+Großbeeren,Grossbeeren,52.3544,13.3061,Germany,DE,DEU,Brandenburg,,9073,1276213734
+Pocking,Pocking,48.4,13.3167,Germany,DE,DEU,Bavaria,,16399,1276193940
+Brand-Erbisdorf,Brand-Erbisdorf,50.8689,13.3219,Germany,DE,DEU,Saxony,,9010,1276212051
+Olbernhau,Olbernhau,50.6667,13.3333,Germany,DE,DEU,Saxony,,10458,1276224877
+Zehdenick,Zehdenick,52.9833,13.3333,Germany,DE,DEU,Brandenburg,,13283,1276607810
+Cervignano del Friuli,Cervignano del Friuli,45.8231,13.335,Italy,IT,ITA,Friuli Venezia Giulia,,13573,1380444773
+Freiberg,Freiberg,50.9119,13.3428,Germany,DE,DEU,Saxony,minor,40485,1276914988
+Plzeň,Plzen,49.7475,13.3775,Czechia,CZ,CZE,Plzeňský Kraj,admin,181240,1203402469
+Bad Liebenwerda,Bad Liebenwerda,51.5167,13.4,Germany,DE,DEU,Brandenburg,,9284,1276044120
+Blankenfelde,Blankenfelde,52.35,13.4,Germany,DE,DEU,Brandenburg,,29159,1276580790
+Berlin,Berlin,52.52,13.405,Germany,DE,DEU,Berlin,primary,4890363,1276451290
+Chomutov,Chomutov,50.4611,13.4167,Czechia,CZ,CZE,Ústecký Kraj,,46940,1203523082
+Cividale del Friuli,Cividale del Friuli,46.1,13.4333,Italy,IT,ITA,Friuli Venezia Giulia,,10815,1380392084
+Rangsdorf,Rangsdorf,52.2833,13.4333,Germany,DE,DEU,Brandenburg,,11695,1276090863
+Jirkov,Jirkov,50.5003,13.4419,Czechia,CZ,CZE,Ústecký Kraj,,19305,1203484786
+Zossen,Zossen,52.2167,13.4497,Germany,DE,DEU,Brandenburg,,21433,1276905478
+Wandlitz,Wandlitz,52.75,13.4497,Germany,DE,DEU,Brandenburg,,24104,1276059066
+Passau,Passau,48.5744,13.4647,Germany,DE,DEU,Bavaria,minor,53907,1276123699
+Spittal an der Drau,Spittal an der Drau,46.7833,13.4833,Austria,AT,AUT,Kärnten,minor,15413,1040131621
+Meißen,Meissen,51.1667,13.4833,Germany,DE,DEU,Saxony,minor,29011,1276054483
+Ried im Innkreis,Ried im Innkreis,48.21,13.4894,Austria,AT,AUT,Oberösterreich,minor,11903,1040700214
+Ronchi dei Legionari,Ronchi dei Legionari,45.8333,13.5,Italy,IT,ITA,Friuli Venezia Giulia,,11780,1380970887
+Templin,Templin,53.1167,13.5,Germany,DE,DEU,Brandenburg,,15599,1276089341
+Schönefeld,Schonefeld,52.3883,13.5047,Germany,DE,DEU,Brandenburg,,19174,1276663675
+Umag,Umag,45.4333,13.5167,Croatia,HR,HRV,Istarska Županija,minor,12699,1191619826
+Sušice,Susice,49.2311,13.5203,Czechia,CZ,CZE,Plzeňský Kraj,,10820,1203245330
+Dobrovo,Dobrovo,45.9989,13.5296,Slovenia,SI,SVN,Brda,admin,334,1705226459
+Monfalcone,Monfalcone,45.8,13.5333,Italy,IT,ITA,Friuli Venezia Giulia,,29637,1380849688
+Klipphausen,Klipphausen,51.0833,13.5333,Germany,DE,DEU,Saxony,,10366,1276821311
+Mittenwalde,Mittenwalde,52.2667,13.5333,Germany,DE,DEU,Brandenburg,,9854,1276476761
+Wilsdruff,Wilsdruff,51.0522,13.5383,Germany,DE,DEU,Saxony,,14551,1276738335
+Žatec,Zatec,50.33,13.5444,Czechia,CZ,CZE,Ústecký Kraj,,19044,1203368176
+Großenhain,Grossenhain,51.2833,13.55,Germany,DE,DEU,Saxony,,18102,1276062611
+Bovec,Bovec,46.3378,13.5522,Slovenia,SI,SVN,Bovec,admin,1586,1705609781
+Weinböhla,Weinbohla,51.1667,13.5667,Germany,DE,DEU,Saxony,,10549,1276478682
+Doberlug-Kirchhain,Doberlug-Kirchhain,51.6167,13.5667,Germany,DE,DEU,Brandenburg,,9032,1276784712
+Piran,Piran,45.5283,13.5683,Slovenia,SI,SVN,Piran,admin,3787,1705085466
+Ahrensfelde,Ahrensfelde,52.5758,13.5764,Germany,DE,DEU,Brandenburg,,14050,1276671758
+Kobarid,Kobarid,46.2464,13.578,Slovenia,SI,SVN,Kobarid,admin,1085,1705651680
+Schulzendorf,Schulzendorf,52.3667,13.5831,Germany,DE,DEU,Brandenburg,,9575,1276028014
+Coswig,Coswig,51.1333,13.5833,Germany,DE,DEU,Saxony,,20512,1276791212
+Rokycany,Rokycany,49.7425,13.5956,Czechia,CZ,CZE,Plzeňský Kraj,,14309,1203614655
+Poreč,Porec,45.2272,13.5958,Croatia,HR,HRV,Istarska Županija,minor,16607,1191152483
+Waldkirchen,Waldkirchen,48.7305,13.6011,Germany,DE,DEU,Bavaria,,11143,1276702006
+Miren,Miren,45.8962,13.6072,Slovenia,SI,SVN,Miren-Kostanjevica,admin,1506,1705608129
+Litvínov,Litvinov,50.6008,13.6111,Czechia,CZ,CZE,Ústecký Kraj,,22695,1203716170
+Gorizia,Gorizia,45.9333,13.6167,Italy,IT,ITA,Friuli Venezia Giulia,minor,33506,1380874405
+Zeuthen,Zeuthen,52.3667,13.6167,Germany,DE,DEU,Brandenburg,,11491,1276555681
+Königs Wusterhausen,Konigs Wusterhausen,52.2917,13.625,Germany,DE,DEU,Brandenburg,,38929,1276871907
+Rovinj,Rovinj,45.0833,13.6333,Croatia,HR,HRV,Istarska Županija,minor,12968,1191599469
+Bad Ischl,Bad Ischl,47.7203,13.6333,Austria,AT,AUT,Oberösterreich,,14133,1040620508
+Hauzenberg,Hauzenberg,48.65,13.6333,Germany,DE,DEU,Bavaria,,11781,1276386776
+Wildau,Wildau,52.3167,13.6333,Germany,DE,DEU,Brandenburg,,10984,1276865619
+Kanal,Kanal,46.088,13.6347,Slovenia,SI,SVN,Kanal ob Soči,admin,1142,1705955833
+Most,Most,50.5031,13.6367,Czechia,CZ,CZE,Ústecký Kraj,,63856,1203813984
+Šempeter pri Gorici,Sempeter pri Gorici,45.9284,13.6378,Slovenia,SI,SVN,Šempeter-Vrtojba,admin,3694,1705397569
+Hönow,Honow,52.5483,13.6378,Germany,DE,DEU,Brandenburg,,9800,1276348577
+Nova Gorica,Nova Gorica,45.9558,13.6433,Slovenia,SI,SVN,Nova Gorica,admin,13031,1705939355
+Freital,Freital,51.0167,13.65,Germany,DE,DEU,Saxony,,39558,1276672229
+Radebeul,Radebeul,51.1,13.65,Germany,DE,DEU,Saxony,,34096,1276277969
+Bestensee,Bestensee,52.25,13.65,Germany,DE,DEU,Brandenburg,,8932,1276932357
+Vöcklabruck,Vocklabruck,48.0086,13.6558,Austria,AT,AUT,Oberösterreich,minor,12299,1040721177
+Dippoldiswalde,Dippoldiswalde,50.8933,13.6667,Germany,DE,DEU,Saxony,,14161,1276205316
+Hoppegarten,Hoppegarten,52.5167,13.6667,Germany,DE,DEU,Brandenburg,,18469,1276233204
+Izola,Izola,45.5344,13.6675,Slovenia,SI,SVN,Izola,admin,11682,1705476087
+Anklam,Anklam,53.85,13.6833,Germany,DE,DEU,Mecklenburg-Western Pomerania,,12312,1276192154
+Finsterwalde,Finsterwalde,51.6282,13.7102,Germany,DE,DEU,Brandenburg,,15968,1276493643
+Bannewitz,Bannewitz,50.9931,13.7167,Germany,DE,DEU,Saxony,,11142,1276329981
+Luckau,Luckau,51.85,13.7167,Germany,DE,DEU,Brandenburg,,9501,1276191048
+Attnang-Puchheim,Attnang-Puchheim,48.0167,13.7197,Austria,AT,AUT,Oberösterreich,,8944,1040023749
+Altlandsberg,Altlandsberg,52.5667,13.7331,Germany,DE,DEU,Brandenburg,,9808,1276344426
+Koper,Koper,45.55,13.7333,Slovenia,SI,SVN,Koper,admin,25753,1705478862
+Rakovník,Rakovnik,50.1039,13.7333,Czechia,CZ,CZE,Středočeský Kraj,,15574,1203062806
+Werneuchen,Werneuchen,52.6333,13.7333,Germany,DE,DEU,Brandenburg,,9369,1276171183
+Tolmin,Tolmin,46.1857,13.7352,Slovenia,SI,SVN,Tolmin,admin,3525,1705602247
+Ankaran,Ankaran,45.5793,13.7379,Slovenia,SI,SVN,Ankaran,admin,3224,1705521676
+Dresden,Dresden,51.05,13.74,Germany,DE,DEU,Saxony,admin,563311,1276561036
+Duchcov,Duchcov,50.6039,13.7464,Czechia,CZ,CZE,Ústecký Kraj,,8684,1203260902
+Aurisina,Aurisina,45.7333,13.75,Italy,IT,ITA,Friuli Venezia Giulia,,8609,1380187314
+Erkner,Erkner,52.4167,13.75,Germany,DE,DEU,Brandenburg,,11970,1276566171
+Komen,Komen,45.8159,13.7507,Slovenia,SI,SVN,Komen,admin,642,1705031068
+Altmünster,Altmunster,47.9014,13.7514,Austria,AT,AUT,Oberösterreich,,9793,1040325018
+Woltersdorf,Woltersdorf,52.4478,13.7572,Germany,DE,DEU,Brandenburg,,8520,1276051471
+Múggia,Muggia,45.6,13.7667,Italy,IT,ITA,Friuli Venezia Giulia,,12862,1380254049
+Trieste,Trieste,45.6503,13.7703,Italy,IT,ITA,Friuli Venezia Giulia,admin,198417,1380102581
+Bílina,Bilina,50.5481,13.7761,Czechia,CZ,CZE,Ústecký Kraj,,14633,1203669701
+Kranjska Gora,Kranjska Gora,46.4854,13.7871,Slovenia,SI,SVN,Kranjska Gora,admin,1452,1705443136
+Louny,Louny,50.3572,13.7969,Czechia,CZ,CZE,Ústecký Kraj,,18121,1203988380
+Gmunden,Gmunden,47.9181,13.7994,Austria,AT,AUT,Oberösterreich,minor,13191,1040670341
+Lauchhammer,Lauchhammer,51.5,13.8,Germany,DE,DEU,Brandenburg,,14143,1276576746
+Grünheide,Grunheide,52.4167,13.8167,Germany,DE,DEU,Brandenburg,,9152,1276449341
+Laakirchen,Laakirchen,47.9828,13.8242,Austria,AT,AUT,Oberösterreich,,9861,1040055619
+Ottendorf-Okrilla,Ottendorf-Okrilla,51.1792,13.8261,Germany,DE,DEU,Saxony,,9971,1276340618
+Teplice,Teplice,50.6444,13.8319,Czechia,CZ,CZE,Ústecký Kraj,,50843,1203801370
+Eberswalde,Eberswalde,52.8333,13.8333,Germany,DE,DEU,Brandenburg,minor,41461,1276311453
+Pula,Pula,44.8703,13.8456,Croatia,HR,HRV,Istarska Županija,minor,52220,1191143009
+Villach,Villach,46.6167,13.85,Austria,AT,AUT,Kärnten,minor,65127,1040202364
+Krupka,Krupka,50.6844,13.8583,Czechia,CZ,CZE,Ústecký Kraj,,12710,1203244914
+Heidenau,Heidenau,50.9833,13.8667,Germany,DE,DEU,Saxony,,16884,1276588672
+Prenzlau,Prenzlau,53.3167,13.8667,Germany,DE,DEU,Brandenburg,minor,18909,1276456147
+Sežana,Sezana,45.7034,13.8706,Slovenia,SI,SVN,Sežana,admin,6037,1705079549
+Strausberg,Strausberg,52.5833,13.8833,Germany,DE,DEU,Brandenburg,,27344,1276019110
+Lübben (Spreewald),Lubben (Spreewald),51.95,13.9,Germany,DE,DEU,Brandenburg,minor,13966,1276964065
+Strakonice,Strakonice,49.2614,13.9025,Czechia,CZ,CZE,Jihočeský Kraj,,22583,1203755418
+Ajdovščina,Ajdovscina,45.8861,13.9097,Slovenia,SI,SVN,Ajdovščina,admin,6843,1705580792
+Radeberg,Radeberg,51.1167,13.9167,Germany,DE,DEU,Saxony,,18980,1276815602
+Pazin,Pazin,45.2403,13.9367,Croatia,HR,HRV,Istarska Županija,admin,8279,1191654566
+Pirna,Pirna,50.9622,13.9403,Germany,DE,DEU,Saxony,minor,39054,1276247543
+Bohinjska Bistrica,Bohinjska Bistrica,46.2742,13.9524,Slovenia,SI,SVN,Bohinj,admin,1767,1705094350
+Vipava,Vipava,45.8476,13.9624,Slovenia,SI,SVN,Vipava,admin,2101,1705864633
+Lübbenau/Spreewald,Lubbenau/Spreewald,51.8667,13.9667,Germany,DE,DEU,Brandenburg,,15726,1276392829
+Divača,Divaca,45.682,13.9702,Slovenia,SI,SVN,Divača,admin,1734,1705065298
+Cerkno,Cerkno,46.1278,13.9875,Slovenia,SI,SVN,Cerkno,admin,1425,1705759580
+Prachatice,Prachatice,49.0131,13.9975,Czechia,CZ,CZE,Jihočeský Kraj,,11211,1203326615
+Angermünde,Angermunde,53.0333,14,Germany,DE,DEU,Brandenburg,,13692,1276588063
+Pasewalk,Pasewalk,53.5,14,Germany,DE,DEU,Mecklenburg-Western Pomerania,,9811,1276152058
+Torgelow,Torgelow,53.6167,14,Germany,DE,DEU,Mecklenburg-Western Pomerania,,9307,1276888250
+Příbram,Pribram,49.6883,14.0092,Czechia,CZ,CZE,Středočeský Kraj,,32743,1203262749
+Wels,Wels,48.15,14.0167,Austria,AT,AUT,Oberösterreich,minor,61233,1040833210
+Großröhrsdorf,Grossrohrsdorf,51.1444,14.0167,Germany,DE,DEU,Saxony,,9679,1276821884
+Senftenberg,Senftenberg,51.5167,14.0167,Germany,DE,DEU,Brandenburg,minor,23405,1276241839
+Idrija,Idrija,46.0025,14.0275,Slovenia,SI,SVN,Idrija,admin,5848,1705472042
+Bad Freienwalde,Bad Freienwalde,52.7856,14.0325,Germany,DE,DEU,Brandenburg,,12360,1276111750
+Velden am Wörthersee,Velden am Worthersee,46.6,14.0333,Austria,AT,AUT,Kärnten,,8952,1040535411
+Králŭv Dvŭr,Kraluv Dvur,49.9467,14.035,Czechia,CZ,CZE,Středočeský Kraj,,10428,1203703070
+Ústí nad Labem,Usti nad Labem,50.6583,14.0417,Czechia,CZ,CZE,Ústecký Kraj,admin,91963,1203734193
+Ueckermünde,Ueckermunde,53.7389,14.0444,Germany,DE,DEU,Mecklenburg-Western Pomerania,,8598,1276552736
+Lovosice,Lovosice,50.515,14.0511,Czechia,CZ,CZE,Ústecký Kraj,,8803,1203138826
+Jesenice,Jesenice,46.4366,14.0602,Slovenia,SI,SVN,Jesenice,admin,8399,1705471403
+Fürstenwalde,Furstenwalde,52.3667,14.0667,Germany,DE,DEU,Brandenburg,,32646,1276767308
+Zgornje Gorje,Zgornje Gorje,46.3801,14.0684,Slovenia,SI,SVN,Gorje,admin,532,1705342044
+Beroun,Beroun,49.9642,14.0739,Czechia,CZ,CZE,Středočeský Kraj,,20809,1203585066
+Slaný,Slany,50.2306,14.0869,Czechia,CZ,CZE,Středočeský Kraj,,16557,1203367412
+Feldkirchen,Feldkirchen,46.7167,14.1,Austria,AT,AUT,Kärnten,minor,14198,1040318480
+Kamenz,Kamenz,51.2667,14.1,Germany,DE,DEU,Saxony,,17015,1276558710
+Kladno,Kladno,50.1431,14.1053,Czechia,CZ,CZE,Středočeský Kraj,,68436,1203557079
+Žiri,Ziri,46.0469,14.1097,Slovenia,SI,SVN,Žiri,admin,3657,1705440220
+Marchtrenk,Marchtrenk,48.1917,14.1106,Austria,AT,AUT,Oberösterreich,,13603,1040791234
+Bled,Bled,46.3688,14.114,Slovenia,SI,SVN,Bled,admin,4929,1705655016
+Labin,Labin,45.0833,14.1167,Croatia,HR,HRV,Istarska Županija,minor,10424,1191000718
+Litoměřice,Litomerice,50.5342,14.1328,Czechia,CZ,CZE,Ústecký Kraj,,23124,1203149283
+Gorenja Vas,Gorenja Vas,46.1069,14.1451,Slovenia,SI,SVN,Gorenja Vas-Poljane,admin,1132,1705961189
+Písek,Pisek,49.3089,14.1475,Czechia,CZ,CZE,Jihočeský Kraj,,30742,1203813820
+Železniki,Zelezniki,46.2182,14.1592,Slovenia,SI,SVN,Železniki,admin,3069,1705885002
+Dobříš,Dobris,49.7811,14.1672,Czechia,CZ,CZE,Středočeský Kraj,,8831,1203853361
+Radovljica,Radovljica,46.3425,14.1721,Slovenia,SI,SVN,Radovljica,admin,5981,1705488511
+Bischofswerda,Bischofswerda,51.1275,14.1797,Germany,DE,DEU,Saxony,,10686,1276164300
+Děčín,Decin,50.7736,14.1961,Czechia,CZ,CZE,Ústecký Kraj,,47180,1203262893
+Pivka,Pivka,45.6833,14.2,Slovenia,SI,SVN,Pivka,admin,2059,1705709650
+Postojna,Postojna,45.7759,14.2137,Slovenia,SI,SVN,Postojna,admin,9605,1705090259
+Neustadt,Neustadt,51.0239,14.2167,Germany,DE,DEU,Saxony,,11888,1276897254
+Logatec,Logatec,45.9167,14.2297,Slovenia,SI,SVN,Logatec,admin,9091,1705275257
+Traun,Traun,48.2217,14.2397,Austria,AT,AUT,Oberösterreich,,24477,1040684469
+Leonding,Leonding,48.2667,14.25,Austria,AT,AUT,Oberösterreich,,28698,1040991026
+Hoyerswerda,Hoyerswerda,51.4333,14.25,Germany,DE,DEU,Saxony,,31356,1276992982
+Kolkwitz,Kolkwitz,51.75,14.25,Germany,DE,DEU,Brandenburg,,9348,1276591838
+Świnoujście,Swinoujscie,53.9167,14.25,Poland,PL,POL,Zachodniopomorskie,minor,40204,1616487084
+Hostivice,Hostivice,50.0814,14.2525,Czechia,CZ,CZE,Středočeský Kraj,,9123,1203249506
+Ilirska Bistrica,Ilirska Bistrica,45.5679,14.2527,Slovenia,SI,SVN,Ilirska Bistrica,admin,4323,1705031705
+Roudnice nad Labem,Roudnice nad Labem,50.4236,14.2539,Czechia,CZ,CZE,Ústecký Kraj,,12747,1203268404
+Schwedt (Oder),Schwedt (Oder),53.05,14.2667,Germany,DE,DEU,Brandenburg,,33495,1276552729
+Sebnitz,Sebnitz,50.9667,14.2833,Germany,DE,DEU,Saxony,,9522,1276466123
+Linz,Linz,48.3058,14.2864,Austria,AT,AUT,Oberösterreich,admin,210165,1040261171
+Ansfelden,Ansfelden,48.2083,14.2889,Austria,AT,AUT,Oberösterreich,,16194,1040496902
+Tržič,Trzic,46.3581,14.293,Slovenia,SI,SVN,Tržič,admin,3670,1705554055
+Vrhnika,Vrhnika,45.9624,14.2937,Slovenia,SI,SVN,Vrhnika,admin,8969,1705071756
+Horjul,Horjul,46.023,14.2981,Slovenia,SI,SVN,Horjul,admin,1169,1705243858
+Opatija,Opatija,45.3333,14.3,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10619,1191982660
+Klagenfurt,Klagenfurt,46.6167,14.3,Austria,AT,AUT,Kärnten,admin,101403,1040149651
+Škofja Loka,Skofja Loka,46.1672,14.303,Slovenia,SI,SVN,Škofja Loka,admin,11671,1705743622
+Kralupy nad Vltavou,Kralupy nad Vltavou,50.2408,14.3067,Czechia,CZ,CZE,Středočeský Kraj,,18770,1203317115
+Sierning,Sierning,48.0447,14.31,Austria,AT,AUT,Oberösterreich,,9371,1040285076
+Český Krumlov,Cesky Krumlov,48.8111,14.3153,Czechia,CZ,CZE,Jihočeský Kraj,,12907,1203973467
+Matulji,Matulji,45.3667,14.3167,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10773,1191059723
+Naklo,Naklo,46.2749,14.3176,Slovenia,SI,SVN,Naklo,admin,1776,1705637872
+Cottbus,Cottbus,51.7606,14.3342,Germany,DE,DEU,Brandenburg,minor,99515,1276436655
+Kastav,Kastav,45.375,14.349,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10202,1191243923
+Borovnica,Borovnica,45.9197,14.3572,Slovenia,SI,SVN,Borovnica,admin,2674,1705665714
+Břevnov,Brevnov,50.0833,14.3579,Czechia,CZ,CZE,Středočeský Kraj,,25756,1203462593
+Cerknica,Cerknica,45.7964,14.3581,Slovenia,SI,SVN,Cerknica,admin,4018,1705932096
+Kranj,Kranj,46.2333,14.3667,Slovenia,SI,SVN,Kranj,admin,37553,1705842003
+Sankt Veit an der Glan,Sankt Veit an der Glan,46.7667,14.3667,Austria,AT,AUT,Kärnten,minor,12547,1040281881
+Štětí,Steti,50.4531,14.3742,Czechia,CZ,CZE,Ústecký Kraj,,8572,1203443601
+Spremberg,Spremberg,51.5717,14.3794,Germany,DE,DEU,Brandenburg,,21585,1276939967
+Dragomer,Dragomer,46.0189,14.382,Slovenia,SI,SVN,Log-Dragomer,admin,1464,1705762040
+Viškovo,Viskovo,45.3778,14.3861,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,16084,1191502082
+Roztoky,Roztoky,50.1614,14.3869,Czechia,CZ,CZE,Středočeský Kraj,,8971,1203472886
+Dobrova,Dobrova,46.0533,14.4144,Slovenia,SI,SVN,Dobrova-Polhov Gradec,admin,921,1705653264
+Medvode,Medvode,46.1382,14.4147,Slovenia,SI,SVN,Medvode,admin,5380,1705158152
+Steyr,Steyr,48.0333,14.4167,Austria,AT,AUT,Oberösterreich,minor,38331,1040132113
+Brezovica,Brezovica,46.0207,14.4178,Slovenia,SI,SVN,Brezovica,admin,3221,1705190624
+Šenčur,Sencur,46.243,14.4181,Slovenia,SI,SVN,Šenčur,admin,3121,1705968659
+Preddvor,Preddvor,46.3052,14.4203,Slovenia,SI,SVN,Preddvor,admin,835,1705403351
+Prague,Prague,50.0875,14.4214,Czechia,CZ,CZE,Praha,primary,1357326,1203744823
+Bautzen,Bautzen,51.1814,14.4242,Germany,DE,DEU,Saxony,minor,38140,1276088190
+Engerwitzdorf,Engerwitzdorf,48.3397,14.4256,Austria,AT,AUT,Oberösterreich,,8790,1040013380
+Rijeka,Rijeka,45.3272,14.4411,Croatia,HR,HRV,Primorsko-Goranska Županija,admin,107964,1191949063
+Stari Trg,Stari Trg,45.7142,14.4695,Slovenia,SI,SVN,Loška Dolina,admin,838,1705849784
+České Budějovice,Ceske Budejovice,48.9747,14.4747,Czechia,CZ,CZE,Jihočeský Kraj,admin,96417,1203398046
+Enns,Enns,48.2167,14.475,Austria,AT,AUT,Oberösterreich,,11937,1040630607
+Mělník,Melnik,50.3519,14.475,Czechia,CZ,CZE,Středočeský Kraj,,20202,1203735988
+Cerklje na Gorenjskem,Cerklje na Gorenjskem,46.2488,14.4855,Slovenia,SI,SVN,Cerklje na Gorenjskem,admin,1710,1705820033
+Gryfino,Gryfino,53.2531,14.4875,Poland,PL,POL,Zachodniopomorskie,minor,20297,1616595491
+Vodice,Vodice,46.1897,14.4944,Slovenia,SI,SVN,Vodice,admin,1706,1705728443
+Zgornje Jezersko,Zgornje Jezersko,46.3951,14.4966,Slovenia,SI,SVN,Jezersko,admin,558,1705991236
+Ljubljana,Ljubljana,46.0514,14.5061,Slovenia,SI,SVN,Ljubljana,primary,284293,1705917455
+Nova Vas,Nova Vas,45.7726,14.5064,Slovenia,SI,SVN,Bloke,admin,293,1705701553
+Jesenice,Jesenice,49.9683,14.5136,Czechia,CZ,CZE,Středočeský Kraj,,10169,1203216192
+Neratovice,Neratovice,50.2594,14.5178,Czechia,CZ,CZE,Středočeský Kraj,,16220,1203620692
+Sankt Valentin,Sankt Valentin,48.1667,14.5333,Austria,AT,AUT,Niederösterreich,,9340,1040852174
+Česká Lípa,Ceska Lipa,50.6886,14.5386,Czechia,CZ,CZE,Liberecký Kraj,,37262,1203109242
+Komenda,Komenda,46.2073,14.539,Slovenia,SI,SVN,Komenda,admin,896,1705295612
+Ig,Ig,45.9692,14.5394,Slovenia,SI,SVN,Ig,admin,2240,1705409266
+Szczecin,Szczecin,53.4325,14.5481,Poland,PL,POL,Zachodniopomorskie,admin,396168,1616256546
+Frankfurt (Oder),Frankfurt (Oder),52.3419,14.5517,Germany,DE,DEU,Brandenburg,minor,58230,1276397323
+Nový Bor,Novy Bor,50.7553,14.5536,Czechia,CZ,CZE,Liberecký Kraj,,11485,1203651923
+Rumburk,Rumburk,50.9517,14.5572,Czechia,CZ,CZE,Ústecký Kraj,,10937,1203370008
+Trzin,Trzin,46.1353,14.56,Slovenia,SI,SVN,Trzin,admin,3925,1705707595
+Słubice,Slubice,52.35,14.5667,Poland,PL,POL,Lubuskie,minor,16495,1616690993
+Police,Police,53.5333,14.5667,Poland,PL,POL,Zachodniopomorskie,minor,30623,1616953743
+Mengeš,Menges,46.1626,14.568,Slovenia,SI,SVN,Mengeš,admin,6119,1705274788
+Škofljica,Skofljica,45.9836,14.5761,Slovenia,SI,SVN,Škofljica,admin,3029,1705067758
+Hrib-Loški Potok,Hrib-Loski Potok,45.7015,14.5901,Slovenia,SI,SVN,Loški Potok,admin,353,1705118688
+Domžale,Domzale,46.1394,14.595,Slovenia,SI,SVN,Domžale,admin,3231,1705822721
+Kamnik,Kamnik,46.2257,14.612,Slovenia,SI,SVN,Kamnik,admin,13800,1705864078
+Varnsdorf,Varnsdorf,50.9117,14.6183,Czechia,CZ,CZE,Ústecký Kraj,,14837,1203159316
+Völkermarkt,Volkermarkt,46.6667,14.6333,Austria,AT,AUT,Kärnten,minor,10946,1040264683
+Weißwasser/Oberlausitz,Weisswasser/Oberlausitz,51.5,14.6333,Germany,DE,DEU,Saxony,,15136,1276986089
+Forst (Lausitz),Forst (Lausitz),51.7333,14.6333,Germany,DE,DEU,Brandenburg,minor,17855,1276307453
+Sodražica,Sodrazica,45.7616,14.6363,Slovenia,SI,SVN,Sodražica,admin,842,1705295579
+Velike Lašče,Velike Lasce,45.8363,14.6377,Slovenia,SI,SVN,Velike Lašče,admin,724,1705618557
+Dol,Dol,46.0884,14.6425,Slovenia,SI,SVN,Dol pri Ljubljani,admin,277,1705717325
+Říčany,Ricany,49.9919,14.6556,Czechia,CZ,CZE,Středočeský Kraj,,16775,1203639839
+Grosuplje,Grosuplje,45.9551,14.6562,Slovenia,SI,SVN,Grosuplje,admin,7703,1705847148
+Tábor,Tabor,49.4144,14.6578,Czechia,CZ,CZE,Jihočeský Kraj,,34301,1203712399
+Judenburg,Judenburg,47.1725,14.6603,Austria,AT,AUT,Steiermark,minor,9960,1040723538
+Löbau,Lobau,51.0944,14.6667,Germany,DE,DEU,Saxony,,14352,1276786301
+Kostrzyn nad Odrą,Kostrzyn nad Odra,52.5883,14.6667,Poland,PL,POL,Lubuskie,,17899,1616354192
+Brandýs nad Labem-Stará Boleslav,Brandys nad Labem-Stara Boleslav,50.1894,14.6672,Czechia,CZ,CZE,Středočeský Kraj,,19767,1203785584
+Eisenhüttenstadt,Eisenhuttenstadt,52.145,14.6728,Germany,DE,DEU,Brandenburg,,24125,1276902561
+Benešov,Benesov,49.7828,14.6886,Czechia,CZ,CZE,Středočeský Kraj,,16875,1203042729
+Lukovica,Lukovica,46.1686,14.6892,Slovenia,SI,SVN,Lukovica,admin,438,1705829201
+Solčava,Solcava,46.4201,14.6918,Slovenia,SI,SVN,Solčava,admin,208,1705581561
+Videm,Videm,45.8484,14.6944,Slovenia,SI,SVN,Dobrepolje,admin,590,1705074870
+Osilnica,Osilnica,45.5289,14.6983,Slovenia,SI,SVN,Osilnica,admin,76,1705839708
+Crikvenica,Crikvenica,45.1833,14.7,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,9980,1191344167
+Dębno,Debno,52.7333,14.7,Poland,PL,POL,Zachodniopomorskie,,13291,1616728902
+Gubin,Gubin,51.95,14.7167,Poland,PL,POL,Lubuskie,,16114,1616164527
+Guben,Guben,51.9533,14.7167,Germany,DE,DEU,Brandenburg,,16363,1276800396
+Ribnica,Ribnica,45.74,14.7308,Slovenia,SI,SVN,Ribnica,admin,3612,1705675272
+Luče,Luce,46.3565,14.7436,Slovenia,SI,SVN,Luče,admin,402,1705042629
+Moravče,Moravce,46.1356,14.7439,Slovenia,SI,SVN,Moravče,admin,957,1705291500
+Čelákovice,Celakovice,50.1606,14.75,Czechia,CZ,CZE,Středočeský Kraj,,12444,1203396532
+Waidhofen an der Ybbs,Waidhofen an der Ybbs,47.9667,14.7667,Austria,AT,AUT,Niederösterreich,,11333,1040615361
+Kamień Pomorski,Kamien Pomorski,53.97,14.7725,Poland,PL,POL,Zachodniopomorskie,minor,8564,1616000112
+Ivančna Gorica,Ivancna Gorica,45.9374,14.8029,Slovenia,SI,SVN,Ivančna Gorica,admin,2205,1705930549
+Gornji Grad,Gornji Grad,46.2961,14.8052,Slovenia,SI,SVN,Gornji Grad,admin,1016,1705879741
+Zittau,Zittau,50.8961,14.8072,Germany,DE,DEU,Saxony,,24794,1276061456
+Litija,Litija,46.0667,14.8167,Slovenia,SI,SVN,Litija,admin,6688,1705902870
+Sankt Andrä,Sankt Andra,46.7667,14.8167,Austria,AT,AUT,Kärnten,,9957,1040740376
+Niesky,Niesky,51.3,14.8167,Germany,DE,DEU,Saxony,,9249,1276763097
+Vransko,Vransko,46.172,14.8217,Slovenia,SI,SVN,Vransko,admin,11,1705616966
+Goleniów,Goleniow,53.5636,14.8281,Poland,PL,POL,Zachodniopomorskie,minor,22166,1616391921
+Knittelfeld,Knittelfeld,47.215,14.8294,Austria,AT,AUT,Steiermark,,12626,1040186382
+Lysá nad Labem,Lysa nad Labem,50.2014,14.8328,Czechia,CZ,CZE,Středočeský Kraj,,10047,1203091035
+Ljubno,Ljubno,46.3333,14.8333,Slovenia,SI,SVN,Ljubno,admin,1094,1705083617
+Wolfsberg,Wolfsberg,46.85,14.8333,Austria,AT,AUT,Kärnten,minor,25035,1040360550
+Šmartno,Smartno,46.0441,14.8466,Slovenia,SI,SVN,Šmartno pri Litiji,admin,1395,1705164835
+Črna na Koroškem,Crna na Koroskem,46.4697,14.849,Slovenia,SI,SVN,Črna na Koroškem,admin,2201,1705127725
+Mežica,Mezica,46.5206,14.8536,Slovenia,SI,SVN,Mežica,admin,3176,1705607524
+Kočevje,Kocevje,45.643,14.8594,Slovenia,SI,SVN,Kočevje,admin,8151,1705859832
+Amstetten,Amstetten,48.1167,14.8667,Austria,AT,AUT,Niederösterreich,minor,23569,1040466200
+Myślibórz,Mysliborz,52.9333,14.8667,Poland,PL,POL,Zachodniopomorskie,minor,10649,1616407161
+Pyrzyce,Pyrzyce,53.1333,14.8833,Poland,PL,POL,Zachodniopomorskie,minor,12041,1616856540
+Milovice,Milovice,50.2289,14.8906,Czechia,CZ,CZE,Středočeský Kraj,,13634,1203709386
+Vlašim,Vlasim,49.7064,14.8989,Czechia,CZ,CZE,Středočeský Kraj,,11438,1203658512
+Mladá Boleslav,Mlada Boleslav,50.4125,14.9044,Czechia,CZ,CZE,Středočeský Kraj,,45000,1203616853
+Kostel,Kostel,45.5088,14.91,Slovenia,SI,SVN,Kostel,admin,10,1705541759
+Prevalje,Prevalje,46.5438,14.9119,Slovenia,SI,SVN,Prevalje,admin,4620,1705187949
+Rečica,Recica,46.3247,14.9228,Slovenia,SI,SVN,Rečica ob Savinji,admin,516,1705082644
+Žužemberk,Zuzemberk,45.8339,14.9292,Slovenia,SI,SVN,Žužemberk,admin,,1705027920
+Nazarje,Nazarje,46.3202,14.9531,Slovenia,SI,SVN,Nazarje,admin,880,1705598784
+Bogatynia,Bogatynia,50.9069,14.9569,Poland,PL,POL,Dolnośląskie,,16647,1616146165
+Mozirje,Mozirje,46.3381,14.9572,Slovenia,SI,SVN,Mozirje,admin,2052,1705239053
+Ravne na Koroškem,Ravne na Koroskem,46.5437,14.9642,Slovenia,SI,SVN,Ravne na Koroškem,admin,7363,1705757622
+Lubsko,Lubsko,51.7833,14.9667,Poland,PL,POL,Lubuskie,,13240,1616174794
+Mnichovo Hradiště,Mnichovo Hradiste,50.5214,14.9736,Czechia,CZ,CZE,Středočeský Kraj,,8949,1203949277
+Görlitz,Gorlitz,51.1528,14.9872,Germany,DE,DEU,Saxony,minor,56574,1276000121
+Zagorje,Zagorje,46.1342,14.9942,Slovenia,SI,SVN,Zagorje ob Savi,admin,6023,1705942287
+Jindřichŭv Hradec,Jindrichuv Hradec,49.1442,15.0031,Czechia,CZ,CZE,Jihočeský Kraj,,20828,1203413811
+Trofaiach,Trofaiach,47.426,15.0067,Austria,AT,AUT,Steiermark,,11125,1040300354
+Tabor,Tabor,46.2225,15.0081,Slovenia,SI,SVN,Tabor,admin,1669,1705756002
+Zgorzelec,Zgorzelec,51.15,15.0083,Poland,PL,POL,Dolnośląskie,minor,29966,1616207310
+Trebnje,Trebnje,45.9104,15.0086,Slovenia,SI,SVN,Trebnje,admin,3927,1705570941
+Dravograd,Dravograd,46.5903,15.0236,Slovenia,SI,SVN,Dravograd,admin,3088,1705130450
+Šmartno,Smartno,46.3297,15.0325,Slovenia,SI,SVN,Šmartno ob Paki,admin,636,1705804130
+Stargard Szczeciński,Stargard Szczecinski,53.3333,15.0333,Poland,PL,POL,Zachodniopomorskie,minor,67348,1616480646
+Braslovče,Braslovce,46.2884,15.0386,Slovenia,SI,SVN,Braslovče,admin,378,1705126731
+Nymburk,Nymburk,50.1861,15.0417,Czechia,CZ,CZE,Středočeský Kraj,,15424,1203273272
+Šoštanj,Sostanj,46.3798,15.0482,Slovenia,SI,SVN,Šoštanj,admin,2933,1705376916
+Trbovlje,Trbovlje,46.15,15.5,Slovenia,SI,SVN,Trbovlje,admin,13822,1705370010
+Dolenjske Toplice,Dolenjske Toplice,45.7545,15.0583,Slovenia,SI,SVN,Dolenjske Toplice,admin,882,1705395845
+Mirna,Mirna,45.9476,15.0664,Slovenia,SI,SVN,Mirna,admin,1371,1705033855
+Liberec,Liberec,50.7667,15.0667,Czechia,CZ,CZE,Liberecký Kraj,admin,107389,1203577727
+Polzela,Polzela,46.2809,15.074,Slovenia,SI,SVN,Polzela,admin,2351,1705144123
+Straža,Straza,45.7864,15.0745,Slovenia,SI,SVN,Straža,admin,1945,1705491164
+Slovenj Gradec,Slovenj Gradec,46.5094,15.0792,Slovenia,SI,SVN,Slovenj Gradec,admin,7249,1705845238
+Köflach,Koflach,47.0667,15.0833,Austria,AT,AUT,Steiermark,,9888,1040578038
+Mirna Peč,Mirna Pec,45.858,15.0876,Slovenia,SI,SVN,Mirna Peč,admin,1015,1705096910
+Šentrupert,Sentrupert,45.9769,15.0897,Slovenia,SI,SVN,Šentrupert,admin,310,1705083565
+Prebold,Prebold,46.2369,15.0919,Slovenia,SI,SVN,Prebold,admin,1605,1705746627
+Leoben,Leoben,47.3817,15.0972,Austria,AT,AUT,Steiermark,minor,24645,1040591429
+Krosno Odrzańskie,Krosno Odrzanskie,52.0333,15.1,Poland,PL,POL,Lubuskie,minor,10905,1616603555
+Velenje,Velenje,46.3625,15.1144,Slovenia,SI,SVN,Velenje,admin,25594,1705929589
+Sulęcin,Sulecin,52.45,15.1167,Poland,PL,POL,Lubuskie,minor,9978,1616859082
+Nowogard,Nowogard,53.6667,15.1167,Poland,PL,POL,Zachodniopomorskie,,16102,1616864460
+Poděbrady,Podebrady,50.1425,15.1189,Czechia,CZ,CZE,Středočeský Kraj,,14902,1203251007
+Żary,Zary,51.6333,15.1333,Poland,PL,POL,Lubuskie,minor,36004,1616092414
+Mokronog,Mokronog,45.9426,15.149,Slovenia,SI,SVN,Mokronog-Trebelno,admin,700,1705336506
+Voitsberg,Voitsberg,47.0333,15.15,Austria,AT,AUT,Steiermark,minor,9403,1040639919
+Hrastnik,Hrastnik,46.1479,15.1528,Slovenia,SI,SVN,Hrastnik,admin,4962,1705818009
+Turnov,Turnov,50.5872,15.1569,Czechia,CZ,CZE,Liberecký Kraj,,14472,1203116739
+Žalec,Zalec,46.251,15.1639,Slovenia,SI,SVN,Žalec,admin,5004,1705340993
+Novo Mesto,Novo Mesto,45.8,15.1667,Slovenia,SI,SVN,Novo Mesto,admin,24183,1705849587
+Muta,Muta,46.6167,15.1667,Slovenia,SI,SVN,Muta,admin,2291,1705459961
+Vuzenica,Vuzenica,46.5992,15.1669,Slovenia,SI,SVN,Vuzenica,admin,1522,1705639122
+Jablonec nad Nisou,Jablonec nad Nisou,50.7244,15.1681,Czechia,CZ,CZE,Liberecký Kraj,,45830,1203127047
+Zwettl,Zwettl,48.6033,15.1689,Austria,AT,AUT,Niederösterreich,minor,10722,1040676174
+Radeče,Radece,46.0658,15.1728,Slovenia,SI,SVN,Radeče,admin,1993,1705420341
+Semič,Semic,45.6546,15.1783,Slovenia,SI,SVN,Semič,admin,2017,1705653513
+Črnomelj,Crnomelj,45.5711,15.1889,Slovenia,SI,SVN,Črnomelj,admin,5496,1705132468
+Mislinja,Mislinja,46.4431,15.1931,Slovenia,SI,SVN,Mislinja,admin,1862,1705898157
+Gryfice,Gryfice,53.9147,15.1986,Poland,PL,POL,Zachodniopomorskie,minor,15863,1616794492
+Barlinek,Barlinek,53,00,15.2,Poland,PL,POL,Zachodniopomorskie,,13339,1616433075
+Kolín,Kolin,50.0281,15.2006,Czechia,CZ,CZE,Středočeský Kraj,,33289,1203413479
+Deutschlandsberg,Deutschlandsberg,46.8161,15.215,Austria,AT,AUT,Steiermark,minor,11721,1040677286
+Šmarješke Toplice,Smarjeske Toplice,45.8622,15.2214,Slovenia,SI,SVN,Šmarješke Toplice,admin,492,1705361649
+Pelhřimov,Pelhrimov,49.4314,15.2233,Czechia,CZ,CZE,Vysočina,,16423,1203256095
+Ogulin,Ogulin,45.2669,15.2248,Croatia,HR,HRV,Karlovačka Županija,minor,12246,1191210263
+Radlje ob Dravi,Radlje ob Dravi,46.6152,15.2264,Slovenia,SI,SVN,Radlje ob Dravi,admin,2856,1705478193
+Dobrna,Dobrna,46.3381,15.2293,Slovenia,SI,SVN,Dobrna,admin,536,1705353787
+Zadar,Zadar,44.1194,15.2319,Croatia,HR,HRV,Zadarska Županija,admin,70779,1191160875
+Laško,Lasko,46.1563,15.2386,Slovenia,SI,SVN,Laško,admin,3288,1705962698
+Gorzów Wielkopolski,Gorzow Wielkopolski,52.7333,15.25,Poland,PL,POL,Lubuskie,admin,119964,1616788025
+Stainz,Stainz,46.8833,15.2667,Austria,AT,AUT,Steiermark,,8686,1040766288
+Bruck an der Mur,Bruck an der Mur,47.4167,15.2667,Austria,AT,AUT,Steiermark,minor,15837,1040863751
+Celje,Celje,46.2358,15.2675,Slovenia,SI,SVN,Celje,admin,37872,1705563326
+Kutná Hora,Kutna Hora,49.9483,15.2683,Czechia,CZ,CZE,Středočeský Kraj,,21417,1203692740
+Ribnica,Ribnica,46.5372,15.2733,Slovenia,SI,SVN,Ribnica na Pohorju,admin,404,1705830999
+Kapfenberg,Kapfenberg,47.4333,15.2833,Austria,AT,AUT,Steiermark,,22798,1040864298
+Lubań,Luban,51.1181,15.2889,Poland,PL,POL,Dolnośląskie,minor,20096,1616557848
+Škocjan,Skocjan,45.9069,15.2914,Slovenia,SI,SVN,Škocjan,admin,233,1705940381
+Vitanje,Vitanje,46.3825,15.2956,Slovenia,SI,SVN,Vitanje,admin,859,1705925648
+Sevnica,Sevnica,46.0092,15.3041,Slovenia,SI,SVN,Sevnica,admin,4533,1705218575
+Vojnik,Vojnik,46.2933,15.3052,Slovenia,SI,SVN,Vojnik,admin,2475,1705662463
+Štore,Store,46.2219,15.3111,Slovenia,SI,SVN,Štore,admin,2257,1705775604
+Żagań,Zagan,51.6167,15.3167,Poland,PL,POL,Lubuskie,minor,24424,1616067846
+Metlika,Metlika,45.6517,15.32,Slovenia,SI,SVN,Metlika,admin,3229,1705008169
+Podvelka,Podvelka,46.5864,15.3286,Slovenia,SI,SVN,Podvelka,admin,299,1705523444
+Šentjernej,Sentjernej,45.8389,15.3361,Slovenia,SI,SVN,Šentjernej,admin,1441,1705329272
+Jičín,Jicin,50.4367,15.3517,Czechia,CZ,CZE,Královéhradecký Kraj,,16210,1203562586
+Humpolec,Humpolec,49.5417,15.3572,Czechia,CZ,CZE,Vysočina,,11333,1203780100
+Gospić,Gospic,44.546,15.375,Croatia,HR,HRV,Ličko-Senjska Županija,admin,11502,1191887616
+Lovrenc na Pohorju,Lovrenc na Pohorju,46.5381,15.3844,Slovenia,SI,SVN,Lovrenc na Pohorju,admin,1992,1705376318
+Zreče,Zrece,46.375,15.3854,Slovenia,SI,SVN,Zreče,admin,2922,1705764665
+Dobje,Dobje,46.1369,15.3945,Slovenia,SI,SVN,Dobje,admin,114,1705204927
+Čáslav,Caslav,49.9117,15.395,Czechia,CZ,CZE,Středočeský Kraj,,10468,1203177244
+Šentjur,Sentjur,46.2176,15.396,Slovenia,SI,SVN,Šentjur,admin,4940,1705076635
+Choszczno,Choszczno,53.1667,15.4,Poland,PL,POL,Zachodniopomorskie,minor,14399,1616054552
+Slovenske Konjice,Slovenske Konjice,46.3383,15.4233,Slovenia,SI,SVN,Slovenske Konjice,admin,5157,1705506460
+Kostanjevica na Krki,Kostanjevica na Krki,45.8463,15.4249,Slovenia,SI,SVN,Kostanjevica na Krki,admin,689,1705796422
+Graz,Graz,47.0708,15.4386,Austria,AT,AUT,Steiermark,admin,292630,1040184559
+Oplotnica,Oplotnica,46.386,15.4458,Slovenia,SI,SVN,Oplotnica,admin,1420,1705182651
+Krško,Krsko,45.95,15.4833,Slovenia,SI,SVN,Krško,admin,2314,1705286396
+Selnica ob Dravi,Selnica ob Dravi,46.5514,15.4947,Slovenia,SI,SVN,Selnica ob Dravi,admin,1348,1705864774
+Duga Resa,Duga Resa,45.4472,15.4958,Croatia,HR,HRV,Karlovačka Županija,minor,10212,1191462805
+Szprotawa,Szprotawa,51.5667,15.5,Poland,PL,POL,Lubuskie,,11068,1616764705
+Zielona Góra,Zielona Gora,51.9333,15.5,Poland,PL,POL,Lubuskie,admin,216781,1616050904
+Skwierzyna,Skwierzyna,52.6,15.5,Poland,PL,POL,Lubuskie,,9272,1616286690
+Nová Paka,Nova Paka,50.4897,15.5136,Czechia,CZ,CZE,Liberecký Kraj,,9035,1203255589
+Ruše,Ruse,46.5386,15.5154,Slovenia,SI,SVN,Ruše,admin,4206,1705417281
+Šmarje,Smarje,46.2281,15.5182,Slovenia,SI,SVN,Šmarje pri Jelšah,admin,1755,1705373506
+Strzelce Krajeńskie,Strzelce Krajenskie,52.8756,15.5319,Poland,PL,POL,Lubuskie,minor,9912,1616150192
+Świedbodzin,Swiedbodzin,52.25,15.5333,Poland,PL,POL,Lubuskie,minor,21399,1616504526
+Leibnitz,Leibnitz,46.7831,15.545,Austria,AT,AUT,Steiermark,minor,13014,1040580132
+Karlovac,Karlovac,45.4833,15.55,Croatia,HR,HRV,Karlovačka Županija,,49377,1191000040
+Kozje,Kozje,46.074,15.559,Slovenia,SI,SVN,Kozje,admin,634,1705548274
+Přelouč,Prelouc,50.04,15.5603,Czechia,CZ,CZE,Pardubický Kraj,,9971,1203203039
+Bolesławiec,Boleslawiec,51.2667,15.5667,Poland,PL,POL,Dolnośląskie,minor,37559,1616593724
+Slovenska Bistrica,Slovenska Bistrica,46.3903,15.575,Slovenia,SI,SVN,Slovenska Bistrica,admin,8219,1705359875
+Poljčane,Poljcane,46.3135,15.5791,Slovenia,SI,SVN,Poljčane,admin,1118,1705286007
+Havlíčkŭv Brod,Havlickuv Brod,49.6078,15.5808,Czechia,CZ,CZE,Vysočina,,23398,1203272361
+Międzyrzecz,Miedzyrzecz,52.4483,15.5883,Poland,PL,POL,Lubuskie,minor,17400,1616321580
+Jihlava,Jihlava,49.4003,15.5906,Czechia,CZ,CZE,Vysočina,admin,52548,1203810604
+Brežice,Brezice,45.9048,15.5922,Slovenia,SI,SVN,Brežice,admin,6843,1705251132
+Podčetrtek,Podcetrtek,46.1573,15.5974,Slovenia,SI,SVN,Podčetrtek,admin,578,1705261000
+Kożuchów,Kozuchow,51.75,15.6,Poland,PL,POL,Lubuskie,,9086,1616495836
+Vrchlabí,Vrchlabi,50.6278,15.6103,Czechia,CZ,CZE,Královéhradecký Kraj,,12205,1203953730
+Benkovac,Benkovac,44.0344,15.6128,Croatia,HR,HRV,Zadarska Županija,minor,9680,1191830836
+Zgornja Kungota,Zgornja Kungota,46.6388,15.6141,Slovenia,SI,SVN,Kungota,admin,1594,1705104301
+Sankt Pölten,Sankt Polten,48.2,15.6167,Austria,AT,AUT,Niederösterreich,admin,55514,1040313109
+Krems an der Donau,Krems an der Donau,48.4167,15.6167,Austria,AT,AUT,Niederösterreich,minor,50000,1040577668
+Sulechów,Sulechow,52.0833,15.6167,Poland,PL,POL,Lubuskie,,16063,1616086796
+Łobez,Lobez,53.6333,15.6167,Poland,PL,POL,Zachodniopomorskie,minor,9792,1616627277
+Hořice,Horice,50.3675,15.6314,Czechia,CZ,CZE,Královéhradecký Kraj,,8562,1203829404
+Weiz,Weiz,47.2169,15.6331,Austria,AT,AUT,Steiermark,minor,11627,1040504116
+Rogaška Slatina,Rogaska Slatina,46.2314,15.6381,Slovenia,SI,SVN,Rogaška Slatina,admin,5082,1705772825
+Maribor,Maribor,46.5575,15.6456,Slovenia,SI,SVN,Maribor,admin,97019,1705454394
+Spodnje Hoče,Spodnje Hoce,46.4996,15.6471,Slovenia,SI,SVN,Hoče-Slivnica,admin,2109,1705379997
+Šentilj,Sentilj,46.6817,15.6481,Slovenia,SI,SVN,Šentilj,admin,,1705840723
+Jastrebarsko,Jastrebarsko,45.6719,15.6511,Croatia,HR,HRV,Zagrebačka Županija,minor,14562,1191489216
+Bistrica ob Sotli,Bistrica ob Sotli,46.0589,15.6642,Slovenia,SI,SVN,Bistrica ob Sotli,admin,235,1705641346
+Makole,Makole,46.3174,15.6669,Slovenia,SI,SVN,Makole,admin,221,1705304446
+Chotěboř,Chotebor,49.7208,15.6703,Czechia,CZ,CZE,Vysočina,,9109,1203957935
+Pesnica,Pesnica,46.6099,15.6714,Slovenia,SI,SVN,Pesnica,admin,843,1705389455
+Rače,Race,46.4529,15.6812,Slovenia,SI,SVN,Rače-Fram,admin,2693,1705643433
+Miklavž na Dravskem Polju,Miklavz na Dravskem Polju,46.5057,15.6993,Slovenia,SI,SVN,Miklavž na Dravskem Polju,admin,3808,1705244140
+Rogatec,Rogatec,46.2243,15.7052,Slovenia,SI,SVN,Rogatec,admin,1540,1705579021
+Gleisdorf,Gleisdorf,47.1039,15.7083,Austria,AT,AUT,Steiermark,,10763,1040059456
+Samobor,Samobor,45.8,15.7167,Croatia,HR,HRV,Zagrebačka Županija,minor,37435,1191807327
+Nowa Sól,Nowa Sol,51.8,15.7167,Poland,PL,POL,Lubuskie,minor,36843,1616040847
+Majšperk,Majsperk,46.35,15.7333,Slovenia,SI,SVN,Majšperk,admin,606,1705147774
+Jelenia Góra,Jelenia Gora,50.9033,15.7344,Poland,PL,POL,Dolnośląskie,minor,77305,1616105652
+Spodnji Duplek,Spodnji Duplek,46.5053,15.7467,Slovenia,SI,SVN,Duplek,admin,1689,1705953692
+Brdovec,Brdovec,45.8667,15.7667,Croatia,HR,HRV,Zagrebačka Županija,minor,10737,1191376654
+Świdwin,Swidwin,53.7833,15.7667,Poland,PL,POL,Zachodniopomorskie,minor,14937,1616092118
+Starše,Starse,46.4664,15.7675,Slovenia,SI,SVN,Starše,admin,757,1705557844
+Pardubice,Pardubice,50.0386,15.7792,Czechia,CZ,CZE,Pardubický Kraj,admin,92149,1203857442
+Jurovski Dol,Jurovski Dol,46.6087,15.7796,Slovenia,SI,SVN,Sveti Jurij v Slovenskih Goricah,admin,361,1705288408
+Žetale,Zetale,46.275,15.7939,Slovenia,SI,SVN,Žetale,admin,,1705941695
+Chrudim,Chrudim,49.9511,15.7956,Czechia,CZ,CZE,Pardubický Kraj,,23443,1203309920
+Kidričevo,Kidricevo,46.406,15.7983,Slovenia,SI,SVN,Kidričevo,admin,1257,1705321982
+Drawsko Pomorskie,Drawsko Pomorskie,53.5333,15.8,Poland,PL,POL,Zachodniopomorskie,minor,11515,1616969885
+Zaprešić,Zapresic,45.8572,15.805,Croatia,HR,HRV,Zagrebačka Županija,minor,24133,1191023090
+Dvůr Králové nad Labem,Dvur Kralove nad Labem,50.4331,15.8122,Czechia,CZ,CZE,Královéhradecký Kraj,,15348,1203492959
+Lenart v Slovenskih Goricah,Lenart v Slovenskih Goricah,46.5742,15.8322,Slovenia,SI,SVN,Lenart,admin,3285,1705719159
+Hradec Králové,Hradec Kralove,50.2092,15.8322,Czechia,CZ,CZE,Královéhradecký Kraj,admin,93506,1203430618
+Kowary,Kowary,50.7917,15.8333,Poland,PL,POL,Dolnośląskie,,10217,1616926416
+Drezdenko,Drezdenko,52.8333,15.8333,Poland,PL,POL,Lubuskie,,9800,1616180565
+Zgornja Hajdina,Zgornja Hajdina,46.4057,15.8385,Slovenia,SI,SVN,Hajdina,admin,804,1705893552
+Sveta Ana,Sveta Ana,46.6497,15.8453,Slovenia,SI,SVN,Sveta Ana,admin,2285,1705062986
+Bihać,Bihac,44.8167,15.8667,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,56261,1070788265
+Ptuj,Ptuj,46.4194,15.8694,Slovenia,SI,SVN,Ptuj,admin,17959,1705072535
+Krapina,Krapina,46.16,15.87,Croatia,HR,HRV,Krapinsko-Zagorska Županija,admin,11530,1191389404
+Sveta Trojica v Slovenskih Goricah,Sveta Trojica v Slovenskih Goricah,46.5756,15.8769,Slovenia,SI,SVN,Sveta Trojica v Slovenskih Goricah,admin,754,1705659496
+Podlehnik,Podlehnik,46.3361,15.8786,Slovenia,SI,SVN,Podlehnik,admin,378,1705352359
+Destrnik,Destrnik,46.4923,15.8801,Slovenia,SI,SVN,Destrnik,admin,186,1705579309
+Třebíč,Trebic,49.215,15.8817,Czechia,CZ,CZE,Vysočina,,34712,1203437113
+Feldbach,Feldbach,46.95,15.8833,Austria,AT,AUT,Steiermark,minor,13369,1040342228
+Międzychód,Miedzychod,52.6,15.8833,Poland,PL,POL,Wielkopolskie,minor,10288,1616252444
+Benedikt,Benedikt,46.6065,15.8842,Slovenia,SI,SVN,Benedikt,admin,1078,1705523597
+Videm pri Ptuju,Videm pri Ptuju,46.3699,15.8935,Slovenia,SI,SVN,Videm,admin,451,1705681768
+Trnovska Vas,Trnovska Vas,46.5231,15.8978,Slovenia,SI,SVN,Trnovska Vas,admin,369,1705654373
+Hlinsko,Hlinsko,49.7622,15.9075,Czechia,CZ,CZE,Pardubický Kraj,,9596,1203108794
+Apače,Apace,46.6967,15.9111,Slovenia,SI,SVN,Apače,admin,543,1705285338
+Trutnov,Trutnov,50.5606,15.9131,Czechia,CZ,CZE,Královéhradecký Kraj,,29660,1203787150
+Zabok,Zabok,46.0333,15.9167,Croatia,HR,HRV,Krapinsko-Zagorska Županija,minor,8656,1191500303
+Złotoryja,Zlotoryja,51.1333,15.9167,Poland,PL,POL,Dolnośląskie,minor,14656,1616742834
+Jaroměř,Jaromer,50.3503,15.9183,Czechia,CZ,CZE,Královéhradecký Kraj,,12628,1203124128
+Markovci,Markovci,46.3956,15.9314,Slovenia,SI,SVN,Markovci,admin,495,1705493301
+Cazin,Cazin,44.9667,15.9333,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,66149,1070442076
+Chojnów,Chojnow,51.2667,15.9333,Poland,PL,POL,Dolnośląskie,,12769,1616584715
+Vitomarci,Vitomarci,46.5248,15.9346,Slovenia,SI,SVN,Sveti Andraž v Slovenskih Goricah,admin,341,1705653481
+Žďár nad Sázavou,Zd'ar nad Sazavou,49.5628,15.9392,Czechia,CZ,CZE,Vysočina,,20519,1203204559
+Cerkvenjak,Cerkvenjak,46.566,15.9429,Slovenia,SI,SVN,Cerkvenjak,admin,163,1705808302
+Dornava,Dornava,46.4299,15.9488,Slovenia,SI,SVN,Dornava,admin,1263,1705023699
+Juršinci,Jursinci,46.4853,15.971,Slovenia,SI,SVN,Juršinci,admin,381,1705262198
+Zagreb,Zagreb,45.8131,15.9775,Croatia,HR,HRV,Zagreb. Grad,primary,767131,1191233290
+Gornja Radgona,Gornja Radgona,46.6752,15.9926,Slovenia,SI,SVN,Gornja Radgona,admin,3086,1705643923
+Cirkulane,Cirkulane,46.3436,15.9941,Slovenia,SI,SVN,Cirkulane,admin,451,1705650900
+Velké Meziříčí,Velke Mezirici,49.3553,16.0122,Czechia,CZ,CZE,Vysočina,,11517,1203943102
+Złocieniec,Zlocieniec,53.5269,16.0122,Poland,PL,POL,Zachodniopomorskie,,12373,1616208535
+Gorišnica,Gorisnica,46.4122,16.0131,Slovenia,SI,SVN,Gorišnica,admin,856,1705561619
+Cankova,Cankova,46.7193,16.0179,Slovenia,SI,SVN,Cankova,admin,416,1705097170
+Sveti Jurij,Sveti Jurij,46.5683,16.0203,Slovenia,SI,SVN,Sveti Jurij ob Ščavnici,admin,209,1705832384
+Ternitz,Ternitz,47.7167,16.0333,Austria,AT,AUT,Niederösterreich,,14632,1040196639
+Kamienna Góra,Kamienna Gora,50.7833,16.0333,Poland,PL,POL,Dolnośląskie,minor,17998,1616000725
+Rogašovci,Rogasovci,46.8053,16.0344,Slovenia,SI,SVN,Rogašovci,admin,2946,1705970248
+Radenci,Radenci,46.6428,16.0453,Slovenia,SI,SVN,Radenci,admin,2171,1705609332
+Znojmo,Znojmo,48.8556,16.0489,Czechia,CZ,CZE,Jihomoravský Kraj,,34146,1203362507
+Zavrč,Zavrc,46.3917,16.0497,Slovenia,SI,SVN,Zavrč,admin,,1705477555
+Velika Gorica,Velika Gorica,45.7,16.0667,Croatia,HR,HRV,Zagrebačka Županija,minor,61075,1191113594
+Polkowice,Polkowice,51.5,16.0667,Poland,PL,POL,Dolnośląskie,minor,21786,1616214914
+Nové Město na Moravě,Nove Mesto na Morave,49.5614,16.0742,Czechia,CZ,CZE,Vysočina,,9919,1203071196
+Tomaž pri Ormožu,Tomaz pri Ormozu,46.4833,16.0794,Slovenia,SI,SVN,Sveti Tomaž,admin,254,1705837424
+Głogów,Glogow,51.6589,16.0803,Poland,PL,POL,Dolnośląskie,minor,64261,1616244076
+Kuzma,Kuzma,46.8333,16.0833,Slovenia,SI,SVN,Kuzma,admin,429,1705411351
+Fürstenfeld,Furstenfeld,47.05,16.0833,Austria,AT,AUT,Steiermark,,8549,1040284464
+Neunkirchen,Neunkirchen,47.7333,16.0833,Austria,AT,AUT,Niederösterreich,minor,12879,1040203057
+Tišina,Tisina,46.6558,16.0933,Slovenia,SI,SVN,Tišina,admin,408,1705811179
+Grad,Grad,46.7977,16.0984,Slovenia,SI,SVN,Grad,admin,620,1705033390
+Hollabrunn,Hollabrunn,48.5667,16.1,Austria,AT,AUT,Niederösterreich,minor,11681,1040573324
+Berndorf,Berndorf,47.9428,16.1036,Austria,AT,AUT,Niederösterreich,,9064,1040660595
+Sesvete,Sesvete,45.8269,16.1111,Croatia,HR,HRV,Zagreb. Grad,,70800,1191537414
+Wolsztyn,Wolsztyn,52.1167,16.1167,Poland,PL,POL,Wielkopolskie,minor,12504,1616069343
+Ivanec,Ivanec,46.2264,16.1253,Croatia,HR,HRV,Varaždinska Županija,minor,12723,1191135840
+Nowy Tomyśl,Nowy Tomysl,52.3167,16.1333,Poland,PL,POL,Wielkopolskie,minor,14116,1616447936
+Križevci,Krizevci,46.5631,16.1399,Slovenia,SI,SVN,Križevci,admin,499,1705138690
+Ormož,Ormoz,46.4086,16.1475,Slovenia,SI,SVN,Ormož,admin,1962,1705413437
+Bosanska Krupa,Bosanska Krupa,44.8833,16.15,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,10196,1070449050
+Nové Město nad Metují,Nove Mesto nad Metuji,50.3447,16.1517,Czechia,CZ,CZE,Královéhradecký Kraj,,9378,1203259477
+Puconci,Puconci,46.7039,16.1572,Slovenia,SI,SVN,Puconci,admin,633,1705677747
+Legnica,Legnica,51.2083,16.1603,Poland,PL,POL,Dolnośląskie,minor,94878,1616578356
+Vysoké Mýto,Vysoke Myto,49.9533,16.1617,Czechia,CZ,CZE,Pardubický Kraj,,12333,1203435938
+Veržej,Verzej,46.5818,16.1623,Slovenia,SI,SVN,Veržej,admin,900,1705529436
+Náchod,Nachod,50.4169,16.1631,Czechia,CZ,CZE,Královéhradecký Kraj,,19936,1203181897
+Murska Sobota,Murska Sobota,46.6667,16.1667,Slovenia,SI,SVN,Murska Sobota,admin,11107,1705129726
+Purkersdorf,Purkersdorf,48.2092,16.1792,Austria,AT,AUT,Niederösterreich,,9701,1040636796
+Knin,Knin,44.0414,16.1986,Croatia,HR,HRV,Šibensko-Kninska Županija,minor,11633,1191313799
+Boguszów-Gorce,Boguszow-Gorce,50.7667,16.2,Poland,PL,POL,Dolnośląskie,,14648,1616569765
+Jawor,Jawor,51.05,16.2,Poland,PL,POL,Dolnośląskie,minor,21494,1616434559
+Lubin,Lubin,51.4,16.2,Poland,PL,POL,Dolnośląskie,minor,70016,1616748050
+Ljutomer,Ljutomer,46.5168,16.2027,Slovenia,SI,SVN,Ljutomer,admin,3244,1705303708
+Bad Vöslau,Bad Voslau,47.9667,16.2167,Austria,AT,AUT,Niederösterreich,,11844,1040153986
+Stockerau,Stockerau,48.3833,16.2167,Austria,AT,AUT,Niederösterreich,,16916,1040718812
+Gornji Petrovci,Gornji Petrovci,46.805,16.2172,Slovenia,SI,SVN,Gornji Petrovci,admin,411,1705170234
+Choceň,Chocen,50.0017,16.2231,Czechia,CZ,CZE,Pardubický Kraj,,8708,1203284714
+Moravske-Toplice,Moravske-Toplice,46.6927,16.2281,Slovenia,SI,SVN,Moravske Toplice,admin,752,1705126489
+Beltinci,Beltinci,46.606,16.2328,Slovenia,SI,SVN,Beltinci,admin,2430,1705238814
+Dugo Selo,Dugo Selo,45.8058,16.2331,Croatia,HR,HRV,Zagrebačka Županija,minor,17676,1191082189
+Baden,Baden,48.0075,16.2344,Austria,AT,AUT,Niederösterreich,minor,26286,1040765350
+Kudowa-Zdrój,Kudowa-Zdroj,50.4383,16.2397,Poland,PL,POL,Dolnośląskie,,9627,1616102407
+Sveti Ivan Zelina,Sveti Ivan Zelina,45.9596,16.2431,Croatia,HR,HRV,Zagrebačka Županija,minor,14602,1191628730
+Wiener Neustadt,Wiener Neustadt,47.8167,16.25,Austria,AT,AUT,Niederösterreich,minor,44461,1040389518
+Biały Kamień,Bialy Kamien,50.7814,16.2539,Poland,PL,POL,Dolnośląskie,,14278,1616208893
+Mödling,Modling,48.0833,16.2667,Austria,AT,AUT,Niederösterreich,minor,20555,1040024396
+Perchtoldsdorf,Perchtoldsdorf,48.1167,16.2667,Austria,AT,AUT,Niederösterreich,,15047,1040055191
+Polička,Policka,49.715,16.2675,Czechia,CZ,CZE,Pardubický Kraj,,8910,1203964642
+Središče ob Dravi,Sredisce ob Dravi,46.3933,16.2722,Slovenia,SI,SVN,Središče ob Dravi,admin,984,1705613407
+Rychnov nad Kněžnou,Rychnov nad Kneznou,50.1631,16.2744,Czechia,CZ,CZE,Královéhradecký Kraj,,11178,1203123765
+Odranci,Odranci,46.5856,16.2753,Slovenia,SI,SVN,Odranci,admin,1632,1705912877
+Petrinja,Petrinja,45.4406,16.2783,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,19950,1191586902
+Brunn am Gebirge,Brunn am Gebirge,48.1,16.2833,Austria,AT,AUT,Niederösterreich,,11864,1040836072
+Maria Enzersdorf,Maria Enzersdorf,48.1,16.2833,Austria,AT,AUT,Niederösterreich,,8829,1040889264
+Wałbrzych,Walbrzych,50.7667,16.2833,Poland,PL,POL,Dolnośląskie,minor,104401,1616162263
+Razkrižje,Razkrizje,46.5182,16.2882,Slovenia,SI,SVN,Razkrižje,admin,141,1705276725
+Črenšovci,Crensovci,46.5747,16.2937,Slovenia,SI,SVN,Črenšovci,admin,1151,1705698578
+Šalovci,Salovci,46.825,16.2981,Slovenia,SI,SVN,Šalovci,admin,392,1705296581
+Traiskirchen,Traiskirchen,48.0167,16.3,Austria,AT,AUT,Niederösterreich,,18858,1040581289
+Wschowa,Wschowa,51.8,16.3,Poland,PL,POL,Lubuskie,minor,13533,1616415919
+Litomyšl,Litomysl,49.8719,16.3106,Czechia,CZ,CZE,Pardubický Kraj,,10441,1203430500
+Guntramsdorf,Guntramsdorf,48.05,16.3167,Austria,AT,AUT,Niederösterreich,,9179,1040104912
+Wiener Neudorf,Wiener Neudorf,48.0833,16.3167,Austria,AT,AUT,Niederösterreich,,9433,1040799859
+Klosterneuburg,Klosterneuburg,48.3042,16.3167,Austria,AT,AUT,Niederösterreich,minor,27058,1040735965
+Turnišče,Turnisce,46.6194,16.3223,Slovenia,SI,SVN,Turnišče,admin,1506,1705851676
+Hodoš,Hodos,46.8285,16.3239,Slovenia,SI,SVN,Hodoš,admin,280,1705217643
+Korneuburg,Korneuburg,48.3453,16.3331,Austria,AT,AUT,Niederösterreich,minor,12986,1040595988
+Novi Marof,Novi Marof,46.1667,16.3333,Croatia,HR,HRV,Varaždinska Županija,minor,11795,1191054242
+Świebodzice,Swiebodzice,50.8667,16.3333,Poland,PL,POL,Dolnośląskie,,22219,1616959677
+Varaždin,Varazdin,46.3081,16.3378,Croatia,HR,HRV,Varaždinska Županija,admin,43782,1191291148
+Strzegom,Strzegom,50.9611,16.3444,Poland,PL,POL,Dolnośląskie,,15371,1616613189
+Velika Polana,Velika Polana,46.5719,16.3472,Slovenia,SI,SVN,Velika Polana,admin,870,1705627212
+Dobrovnik,Dobrovnik,46.6515,16.3479,Slovenia,SI,SVN,Dobrovnik,admin,948,1705602796
+Grodzisk Wielkopolski,Grodzisk Wielkopolski,52.2333,16.3667,Poland,PL,POL,Wielkopolskie,minor,15131,1616036580
+Vienna,Vienna,48.2083,16.3725,Austria,AT,AUT,Wien,primary,2223236,1040261752
+Sisak,Sisak,45.4872,16.3761,Croatia,HR,HRV,Sisačko-Moslavačka Županija,admin,40121,1191526652
+Novi Grad,Novi Grad,45.0481,16.3769,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,27115,1070654182
+Ivančice,Ivancice,49.1014,16.3775,Czechia,CZ,CZE,Jihomoravský Kraj,,9888,1203249406
+Nedelišće,Nedelisce,46.3833,16.3833,Croatia,HR,HRV,Međimurska Županija,minor,11017,1191055882
+Wronki,Wronki,52.7,16.3833,Poland,PL,POL,Wielkopolskie,,10918,1616756713
+Ústí nad Orlicí,Usti nad Orlici,49.9739,16.3936,Czechia,CZ,CZE,Pardubický Kraj,,14141,1203823971
+Ivanić-Grad,Ivanic-Grad,45.7081,16.3947,Croatia,HR,HRV,Zagrebačka Županija,minor,12982,1191909415
+Kobilje,Kobilje,46.6837,16.3953,Slovenia,SI,SVN,Kobilje,admin,542,1705965317
+Ebreichsdorf,Ebreichsdorf,47.9667,16.4,Austria,AT,AUT,Niederösterreich,,10942,1040140481
+Opalenica,Opalenica,52.3078,16.4136,Poland,PL,POL,Wielkopolskie,,9360,1616220242
+Tišnov,Tisnov,49.3486,16.4244,Czechia,CZ,CZE,Jihomoravský Kraj,,9223,1203595572
+Vrbovec,Vrbovec,45.8833,16.4333,Croatia,HR,HRV,Zagrebačka Županija,minor,12981,1191484288
+Čakovec,Cakovec,46.3858,16.4333,Croatia,HR,HRV,Međimurska Županija,admin,27122,1191424625
+Česká Třebová,Ceska Trebova,49.9019,16.4472,Czechia,CZ,CZE,Pardubický Kraj,,15203,1203262802
+Lendava,Lendava,46.5631,16.4519,Slovenia,SI,SVN,Lendava,admin,2954,1705653525
+Trzcianka,Trzcianka,53.05,16.4667,Poland,PL,POL,Wielkopolskie,,16831,1616300801
+Wałcz,Walcz,53.2667,16.4667,Poland,PL,POL,Zachodniopomorskie,minor,24167,1616129049
+Gerasdorf bei Wien,Gerasdorf bei Wien,48.295,16.4675,Austria,AT,AUT,Niederösterreich,,11155,1040814671
+Svitavy,Svitavy,49.7556,16.4694,Czechia,CZ,CZE,Pardubický Kraj,,16186,1203802204
+Schwechat,Schwechat,48.1411,16.4786,Austria,AT,AUT,Niederösterreich,,18026,1040189871
+Świdnica,Swidnica,50.85,16.4833,Poland,PL,POL,Dolnośląskie,minor,54792,1616002338
+Nowa Ruda,Nowa Ruda,50.5833,16.5,Poland,PL,POL,Dolnośląskie,,21264,1616805229
+Eisenstadt,Eisenstadt,47.85,16.5167,Austria,AT,AUT,Burgenland,admin,14476,1040751740
+Bystrc,Bystrc,49.2247,16.5239,Czechia,CZ,CZE,Jihomoravský Kraj,,24714,1203641060
+Kuřim,Kurim,49.2986,16.5314,Czechia,CZ,CZE,Jihomoravský Kraj,,11263,1203206546
+Križevci,Krizevci,46.0258,16.5425,Croatia,HR,HRV,Koprivničko-Križevačka Županija,minor,18949,1191282973
+Groß-Enzersdorf,Gross-Enzersdorf,48.2,16.55,Austria,AT,AUT,Niederösterreich,,11817,1040341836
+Góra,Gora,51.6667,16.55,Poland,PL,POL,Dolnośląskie,minor,11173,1616282982
+Kőszeg,Koszeg,47.3819,16.5522,Hungary,HU,HUN,Vas,minor,11723,1348854812
+Deutsch-Wagram,Deutsch-Wagram,48.3,16.5667,Austria,AT,AUT,Niederösterreich,,8651,1040363748
+Mistelbach,Mistelbach,48.5667,16.5667,Austria,AT,AUT,Niederösterreich,minor,11559,1040942506
+Czarnków,Czarnkow,52.9,16.5667,Poland,PL,POL,Wielkopolskie,minor,10370,1616859392
+Leszno,Leszno,51.8458,16.5806,Poland,PL,POL,Wielkopolskie,minor,61791,1616030015
+Sopron,Sopron,47.6849,16.5831,Hungary,HU,HUN,Sopron,admin,98479,1348988570
+Środa Śląska,Sroda Slaska,51.15,16.5833,Poland,PL,POL,Dolnośląskie,minor,9525,1616482692
+Szamotuły,Szamotuly,52.6,16.5833,Poland,PL,POL,Wielkopolskie,minor,18639,1616500868
+Körmend,Kormend,47.011,16.6058,Hungary,HU,HUN,Vas,minor,10255,1348688701
+Brno,Brno,49.1925,16.6083,Czechia,CZ,CZE,Jihomoravský Kraj,admin,396101,1203676514
+Lanškroun,Lanskroun,49.9122,16.6122,Czechia,CZ,CZE,Pardubický Kraj,,9709,1203727130
+Bielawa,Bielawa,50.7,16.6167,Poland,PL,POL,Dolnośląskie,,28896,1616721687
+Szombathely,Szombathely,47.2351,16.6219,Hungary,HU,HUN,Vas,admin,147920,1348565183
+Popovača,Popovaca,45.5697,16.625,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,10255,1191042353
+Wołów,Wolow,51.3414,16.6283,Poland,PL,POL,Dolnośląskie,minor,12275,1616165743
+Blansko,Blansko,49.3631,16.6431,Czechia,CZ,CZE,Jihomoravský Kraj,,20174,1203195651
+Strasshof an der Nordbahn,Strasshof an der Nordbahn,48.3194,16.6475,Austria,AT,AUT,Niederösterreich,,10009,1040365922
+Bystrzyca Kłodzka,Bystrzyca Klodzka,50.3,16.65,Poland,PL,POL,Dolnośląskie,,9414,1616639168
+Kłodzko,Klodzko,50.4333,16.65,Poland,PL,POL,Dolnośląskie,minor,25717,1616824014
+Kościan,Koscian,52.0833,16.65,Poland,PL,POL,Wielkopolskie,minor,24022,1616047191
+Dzierżoniów,Dzierzoniow,50.7281,16.6511,Poland,PL,POL,Dolnośląskie,minor,31866,1616826931
+Boskovice,Boskovice,49.4875,16.66,Czechia,CZ,CZE,Jihomoravský Kraj,,11996,1203299524
+Moravská Třebová,Moravska Trebova,49.7581,16.6642,Czechia,CZ,CZE,Pardubický Kraj,,9685,1203455488
+Sanski Most,Sanski Most,44.7667,16.6667,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,47359,1070675252
+Szczecinek,Szczecinek,53.7167,16.6833,Poland,PL,POL,Zachodniopomorskie,minor,38446,1616218175
+Líšeň,Lisen,49.2075,16.6861,Czechia,CZ,CZE,Jihomoravský Kraj,,26781,1203926697
+Prijedor,Prijedor,44.9808,16.7133,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,89397,1070565353
+Gänserndorf,Ganserndorf,48.3406,16.7175,Austria,AT,AUT,Niederösterreich,minor,11404,1040375279
+Brzeg Dolny,Brzeg Dolny,51.2708,16.7208,Poland,PL,POL,Dolnośląskie,,12765,1616585341
+Piła,Pila,53.15,16.7333,Poland,PL,POL,Wielkopolskie,minor,71735,1616414354
+Ključ,Kljuc,44.5333,16.7667,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,18714,1070860636
+Kutina,Kutina,45.4667,16.7833,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,19601,1191337296
+Komorniki,Komorniki,52.3361,16.8069,Poland,PL,POL,Wielkopolskie,,10990,1616794356
+Plewiska,Plewiska,52.3664,16.8089,Poland,PL,POL,Wielkopolskie,,14160,1616010188
+Koprivnica,Koprivnica,46.15,16.8167,Croatia,HR,HRV,Koprivničko-Križevačka Županija,admin,28580,1191924250
+Ząbkowice Śląskie,Zabkowice Slaskie,50.5833,16.8167,Poland,PL,POL,Dolnośląskie,minor,14578,1616718625
+Oborniki,Oborniki,52.65,16.8167,Poland,PL,POL,Wielkopolskie,minor,17629,1616127510
+Bjelovar,Bjelovar,45.9,16.8333,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,admin,36316,1191340640
+Mosina,Mosina,52.2467,16.845,Poland,PL,POL,Wielkopolskie,,14511,1616028362
+Zalaegerszeg,Zalaegerszeg,46.8392,16.8511,Hungary,HU,HUN,Zala,admin,55433,1348293073
+Puszczykowo,Puszczykowo,52.2817,16.8542,Poland,PL,POL,Wielkopolskie,,9470,1616800720
+Rawicz,Rawicz,51.6092,16.8575,Poland,PL,POL,Wielkopolskie,minor,20305,1616333894
+Zábřeh,Zabreh,49.8825,16.8722,Czechia,CZ,CZE,Olomoucký Kraj,,13434,1203721653
+Břeclav,Breclav,48.7589,16.8819,Czechia,CZ,CZE,Jihomoravský Kraj,,24544,1203778686
+Luboń,Lubon,52.3333,16.8833,Poland,PL,POL,Wielkopolskie,,33024,1616642403
+Chodzież,Chodziez,52.9833,16.9,Poland,PL,POL,Wielkopolskie,minor,18044,1616441880
+Oborniki Śląskie,Oborniki Slaskie,51.2986,16.9017,Poland,PL,POL,Dolnośląskie,,9101,1616398472
+Mohelnice,Mohelnice,49.7769,16.9194,Czechia,CZ,CZE,Olomoucký Kraj,,9424,1203067373
+Garešnica,Garesnica,45.5667,16.9333,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,minor,8624,1191726833
+Sárvár,Sarvar,47.25,16.9333,Hungary,HU,HUN,Vas,minor,15003,1348516359
+Poznań,Poznan,52.4083,16.9336,Poland,PL,POL,Wielkopolskie,admin,546859,1616725607
+Šumperk,Sumperk,49.9653,16.9706,Czechia,CZ,CZE,Olomoucký Kraj,,25061,1203170809
+Novska,Novska,45.3333,16.9833,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,11137,1191890693
+Nagykanizsa,Nagykanizsa,46.455,16.9925,Hungary,HU,HUN,Nagykanizsa,admin,43188,1348509592
+Vyškov,Vyskov,49.2775,16.9989,Czechia,CZ,CZE,Jihomoravský Kraj,,20426,1203012353
+Rogoźno,Rogozno,52.7492,16.9997,Poland,PL,POL,Wielkopolskie,,10959,1616112506
+Gostyń,Gostyn,51.8792,17.0125,Poland,PL,POL,Wielkopolskie,minor,20210,1616275576
+Śrem,Srem,52.0886,17.0147,Poland,PL,POL,Wielkopolskie,minor,28835,1616734639
+Murowana Goślina,Murowana Goslina,52.5667,17.0167,Poland,PL,POL,Wielkopolskie,,10247,1616479191
+Malacky,Malacky,48.4358,17.0178,Slovakia,SK,SVK,Bratislava,minor,18935,1703320479
+Stupava,Stupava,48.2747,17.0317,Slovakia,SK,SVK,Bratislava,,12595,1703216738
+Wrocław,Wroclaw,51.11,17.0325,Poland,PL,POL,Dolnośląskie,admin,672929,1616108520
+Kapuvár,Kapuvar,47.6,17.0333,Hungary,HU,HUN,Győr-Moson-Sopron,minor,9953,1348249118
+Złotów,Zlotow,53.3603,17.0408,Poland,PL,POL,Wielkopolskie,minor,18768,1616339419
+Trzebnica,Trzebnica,51.305,17.0614,Poland,PL,POL,Dolnośląskie,minor,13631,1616145534
+Strzelin,Strzelin,50.7833,17.0667,Poland,PL,POL,Dolnośląskie,minor,12131,1616993710
+Swarzędz,Swarzedz,52.4083,17.0714,Poland,PL,POL,Wielkopolskie,,29295,1616602592
+Litovel,Litovel,49.7011,17.0761,Czechia,CZ,CZE,Olomoucký Kraj,,9712,1203150242
+Bratislava,Bratislava,48.1439,17.1097,Slovakia,SK,SVK,Bratislava,primary,475503,1703195001
+Prostějov,Prostejov,49.4722,17.1106,Czechia,CZ,CZE,Olomoucký Kraj,,43551,1203172907
+Petržalka,Petrzalka,48.1333,17.1167,Slovakia,SK,SVK,Bratislava,,114000,1703430611
+Uničov,Unicov,49.7708,17.1214,Czechia,CZ,CZE,Olomoucký Kraj,,11122,1203442454
+Kyjov,Kyjov,49.0103,17.1225,Czechia,CZ,CZE,Jihomoravský Kraj,,10844,1203980144
+Hodonín,Hodonin,48.8489,17.1325,Czechia,CZ,CZE,Jihomoravský Kraj,,23805,1203626632
+Celldömölk,Celldomolk,47.2557,17.1491,Hungary,HU,HUN,Vas,minor,9860,1348592916
+Siechnice,Siechnice,51.0367,17.1525,Poland,PL,POL,Dolnośląskie,,9957,1616477794
+Holíč,Holic,48.8122,17.1606,Slovakia,SK,SVK,Trnava,,11214,1703056774
+Kiełczów,Kielczow,51.1406,17.1783,Poland,PL,POL,Dolnośląskie,,10572,1616463576
+Banja Luka,Banja Luka,44.7725,17.1925,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,admin,185042,1070859064
+Wągrowiec,Wagrowiec,52.8,17.2,Poland,PL,POL,Wielkopolskie,minor,25773,1616366641
+Jeseník,Jesenik,50.2297,17.2047,Czechia,CZ,CZE,Olomoucký Kraj,,10665,1203267061
+Kostrzyń,Kostrzyn,52.3941,17.2221,Poland,PL,POL,Wielkopolskie,,9809,1616197568
+Daruvar,Daruvar,45.5929,17.2237,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,minor,10105,1191459511
+Skalica,Skalica,48.8422,17.2267,Slovakia,SK,SVK,Trnava,minor,15471,1703467870
+Czernica,Czernica,51.0464,17.2439,Poland,PL,POL,Dolnośląskie,,16070,1616599172
+Keszthely,Keszthely,46.7696,17.2481,Hungary,HU,HUN,Zala,minor,18031,1348430852
+Csorna,Csorna,47.6167,17.25,Hungary,HU,HUN,Győr-Moson-Sopron,minor,9680,1348687588
+Olomouc,Olomouc,49.5939,17.2508,Czechia,CZ,CZE,Olomoucký Kraj,admin,101825,1203328061
+Gradiška,Gradiska,45.1458,17.2539,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,51727,1070385329
+Pezinok,Pezinok,48.2919,17.2661,Slovakia,SK,SVK,Bratislava,minor,24900,1703456673
+Mosonmagyaróvár,Mosonmagyarovar,47.8737,17.2687,Hungary,HU,HUN,Győr-Moson-Sopron,minor,34226,1348666755
+Jajce,Jajce,44.3417,17.2694,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,12000,1070282607
+Milicz,Milicz,51.5333,17.2833,Poland,PL,POL,Dolnośląskie,minor,11025,1616770210
+Środa Wielkopolska,Sroda Wielkopolska,52.2333,17.2833,Poland,PL,POL,Wielkopolskie,minor,24225,1616107812
+Bernolákovo,Bernolakovo,48.2083,17.2917,Slovakia,SK,SVK,Bratislava,,8801,1703400453
+Šternberk,Sternberk,49.7306,17.2989,Czechia,CZ,CZE,Olomoucký Kraj,,13239,1203827138
+Oława,Olawa,50.9333,17.3,Poland,PL,POL,Dolnośląskie,minor,33268,1616142881
+Modra,Modra,48.3317,17.3089,Slovakia,SK,SVK,Bratislava,,9346,1703770416
+Šamorín,Samorin,48.0267,17.3117,Slovakia,SK,SVK,Trnava,,13628,1703883370
+Jelcz-Laskowice,Jelcz-Laskowice,51.0333,17.3333,Poland,PL,POL,Dolnośląskie,,15380,1616808157
+Nysa,Nysa,50.4714,17.3339,Poland,PL,POL,Opolskie,minor,42151,1616093801
+Nagyatád,Nagyatad,46.2227,17.3643,Hungary,HU,HUN,Somogy,minor,9508,1348804654
+Senica,Senica,48.6806,17.3667,Slovakia,SK,SVK,Trnava,minor,19875,1703713928
+Człuchów,Czluchow,53.65,17.3667,Poland,PL,POL,Pomorskie,minor,13343,1616601877
+Głuchołazy,Glucholazy,50.3131,17.3742,Poland,PL,POL,Opolskie,,13143,1616458381
+Veselí nad Moravou,Veseli nad Moravou,48.9536,17.3764,Czechia,CZ,CZE,Jihomoravský Kraj,,10642,1203951522
+Nova Gradiška,Nova Gradiska,45.25,17.3833,Croatia,HR,HRV,Brodsko-Posavska Županija,minor,11690,1191025176
+Virovitica,Virovitica,45.8333,17.3833,Croatia,HR,HRV,Virovitičko-Podravska Županija,admin,19302,1191128636
+Oleśnica,Olesnica,51.2,17.3833,Poland,PL,POL,Dolnośląskie,minor,35856,1616255385
+Kroměříž,Kromeriz,49.2989,17.3931,Czechia,CZ,CZE,Zlínský Kraj,,28185,1203995171
+Senec,Senec,48.2189,17.3997,Slovakia,SK,SVK,Bratislava,minor,20116,1703144516
+Donji Vakuf,Donji Vakuf,44.15,17.4,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,13985,1070953048
+Tapolca,Tapolca,46.8828,17.4081,Hungary,HU,HUN,Veszprém,minor,14206,1348079279
+Marcali,Marcali,46.5858,17.4128,Hungary,HU,HUN,Somogy,minor,10700,1348924700
+Krotoszyn,Krotoszyn,51.6833,17.4333,Poland,PL,POL,Wielkopolskie,minor,28704,1616105817
+Bugojno,Bugojno,44.05,17.45,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,34559,1070311249
+Přerov,Prerov,49.4556,17.4511,Czechia,CZ,CZE,Olomoucký Kraj,,41634,1203137734
+Uherské Hradiště,Uherske Hradiste,49.0697,17.4597,Czechia,CZ,CZE,Zlínský Kraj,,24812,1203165664
+Barcs,Barcs,45.9601,17.4601,Hungary,HU,HUN,Somogy,minor,9845,1348676786
+Bruntál,Bruntal,49.9883,17.4647,Czechia,CZ,CZE,Moravskoslezský Kraj,,15415,1203666435
+Pápa,Papa,47.3237,17.468,Hungary,HU,HUN,Veszprém,minor,28789,1348169908
+Brzeg,Brzeg,50.8667,17.4833,Poland,PL,POL,Opolskie,minor,34492,1616000502
+Pobiedziska,Pobiedziska,52.4833,17.4833,Poland,PL,POL,Wielkopolskie,,9755,1616215352
+Jarocin,Jarocin,51.9667,17.5,Poland,PL,POL,Wielkopolskie,minor,26565,1616201243
+Srbac,Srbac,45.0958,17.5192,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,17587,1070950243
+Sępólno Krajeńskie,Sepolno Krajenskie,53.45,17.53,Poland,PL,POL,Kujawsko-Pomorskie,minor,8914,1616234057
+Otrokovice,Otrokovice,49.21,17.5308,Czechia,CZ,CZE,Zlínský Kraj,,17634,1203087231
+Chojnice,Chojnice,53.7,17.55,Poland,PL,POL,Pomorskie,minor,39275,1616746687
+Ajka,Ajka,47.1006,17.5522,Hungary,HU,HUN,Veszprém,minor,26643,1348671384
+Myjava,Myjava,48.7492,17.5644,Slovakia,SK,SVK,Nitra,minor,10985,1703306179
+Prudnik,Prudnik,50.3228,17.5767,Poland,PL,POL,Opolskie,minor,19747,1616117977
+Holešov,Holesov,49.3333,17.5783,Czechia,CZ,CZE,Zlínský Kraj,,11538,1203380921
+Września,Wrzesnia,52.3333,17.5833,Poland,PL,POL,Wielkopolskie,minor,31986,1616719550
+Trnava,Trnava,48.3775,17.5883,Slovakia,SK,SVK,Trnava,admin,63803,1703497997
+Nakło nad Notecią,Naklo nad Notecia,53.1403,17.5928,Poland,PL,POL,Kujawsko-Pomorskie,minor,17620,1616313608
+Gniezno,Gniezno,52.5358,17.5958,Poland,PL,POL,Wielkopolskie,minor,65452,1616984350
+Dunajská Streda,Dunajska Streda,47.9944,17.6194,Slovakia,SK,SVK,Trnava,minor,23044,1703872671
+Győr,Gyor,47.6842,17.6344,Hungary,HU,HUN,Győr-Moson-Sopron,admin,246159,1348507878
+Uherský Brod,Uhersky Brod,49.025,17.6472,Czechia,CZ,CZE,Zlínský Kraj,,16410,1203839661
+Travnik,Travnik,44.2264,17.6597,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,53482,1070285988
+Novi Travnik,Novi Travnik,44.1748,17.6634,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,25107,1070493406
+Zlín,Zlin,49.2331,17.6669,Czechia,CZ,CZE,Zlínský Kraj,admin,74191,1203582141
+Požega,Pozega,45.3331,17.6736,Croatia,HR,HRV,Požeško-Slavonska Županija,admin,22294,1191353181
+Stará Turá,Stara Tura,48.7767,17.6961,Slovakia,SK,SVK,Nitra,,8724,1703420460
+Krnov,Krnov,50.0906,17.6986,Czechia,CZ,CZE,Moravskoslezský Kraj,,22848,1203745289
+Żnin,Znin,52.85,17.7,Poland,PL,POL,Kujawsko-Pomorskie,minor,13268,1616616613
+Slatina,Slatina,45.7022,17.7011,Croatia,HR,HRV,Virovitičko-Podravska Županija,minor,11503,1191732993
+Namysłów,Namyslow,51.0728,17.7069,Poland,PL,POL,Opolskie,minor,16942,1616674517
+Syców,Sycow,51.31,17.7236,Poland,PL,POL,Dolnośląskie,,10102,1616409792
+Galanta,Galanta,48.1889,17.7264,Slovakia,SK,SVK,Trnava,minor,15277,1703120770
+Sered’,Sered',48.2886,17.7314,Slovakia,SK,SVK,Trnava,,15737,1703574353
+Szubin,Szubin,53.0167,17.75,Poland,PL,POL,Kujawsko-Pomorskie,,9563,1616354181
+Hranice,Hranice,49.5525,17.7683,Czechia,CZ,CZE,Olomoucký Kraj,,17978,1203110445
+Kaposvár,Kaposvar,46.3638,17.7823,Hungary,HU,HUN,Somogy,admin,112253,1348114190
+Pleszew,Pleszew,51.8833,17.7833,Poland,PL,POL,Wielkopolskie,minor,16872,1616452688
+Vitez,Vitez,44.1585,17.7885,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,25836,1070182317
+Szigetvár,Szigetvar,46.0475,17.7994,Hungary,HU,HUN,Baranya,minor,9594,1348527343
+Pleternica,Pleternica,45.2833,17.8,Croatia,HR,HRV,Požeško-Slavonska Županija,minor,9138,1191772677
+Hlohovec,Hlohovec,48.4333,17.8033,Slovakia,SK,SVK,Trnava,minor,20556,1703788561
+Ostrów Wielkopolski,Ostrow Wielkopolski,51.6494,17.8164,Poland,PL,POL,Wielkopolskie,minor,70725,1616691422
+Głubczyce,Glubczyce,50.2011,17.8247,Poland,PL,POL,Opolskie,minor,12100,1616541369
+Nové Mesto nad Váhom,Nove Mesto nad Vahom,48.7547,17.8308,Slovakia,SK,SVK,Nitra,minor,19644,1703781613
+Piešťany,Piest'any,48.5842,17.8336,Slovakia,SK,SVK,Trnava,minor,27301,1703636029
+Tuchola,Tuchola,53.6,17.85,Poland,PL,POL,Kujawsko-Pomorskie,minor,13408,1616160656
+Słupca,Slupca,52.3,17.8667,Poland,PL,POL,Wielkopolskie,minor,13353,1616372877
+Šaľa,Sal'a,48.1503,17.8775,Slovakia,SK,SVK,Nitra,minor,21183,1703397102
+Busovača,Busovaca,44.1,17.8833,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,18488,1070855809
+Balatonfüred,Balatonfured,46.95,17.8833,Hungary,HU,HUN,Veszprém,minor,13053,1348517997
+Opava,Opava,49.9381,17.9044,Czechia,CZ,CZE,Moravskoslezský Kraj,,55512,1203142483
+Derventa,Derventa,44.9775,17.9075,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,12680,1070137362
+Zenica,Zenica,44.2039,17.9078,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,70553,1070047832
+Veszprém,Veszprem,47.093,17.9138,Hungary,HU,HUN,Veszprém,admin,133880,1348279762
+Gołuchów,Goluchow,51.8494,17.9314,Poland,PL,POL,Wielkopolskie,,9703,1616000807
+Opole,Opole,50.6667,17.9333,Poland,PL,POL,Opolskie,admin,127387,1616096837
+Ostrzeszów,Ostrzeszow,51.4167,17.9333,Poland,PL,POL,Wielkopolskie,minor,14036,1616530680
+Koronowo,Koronowo,53.3167,17.9333,Poland,PL,POL,Kujawsko-Pomorskie,,10974,1616300116
+Mogilno,Mogilno,52.65,17.95,Poland,PL,POL,Kujawsko-Pomorskie,minor,11453,1616055676
+Krapkowice,Krapkowice,50.4667,17.9667,Poland,PL,POL,Opolskie,minor,15786,1616664766
+Valašské Meziříčí,Valasske Mezirici,49.4717,17.9711,Czechia,CZ,CZE,Zlínský Kraj,,22630,1203786401
+Czersk Pomorski,Czersk Pomorski,53.7928,17.9739,Poland,PL,POL,Pomorskie,,9997,1616943877
+Brod,Brod,45.1333,17.9833,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,16619,1070523557
+Kępno,Kepno,51.2833,17.9833,Poland,PL,POL,Wielkopolskie,minor,13951,1616511558
+Tešanj,Tesanj,44.6142,17.9894,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,43063,1070677914
+Kolárovo,Kolarovo,47.9169,17.9956,Slovakia,SK,SVK,Nitra,,10572,1703541383
+Vsetín,Vsetin,49.3386,17.9961,Czechia,CZ,CZE,Zlínský Kraj,,25393,1203549413
+Bydgoszcz,Bydgoszcz,53.1219,18.0003,Poland,PL,POL,Kujawsko-Pomorskie,admin,337666,1616454014
+Nový Jičín,Novy Jicin,49.5944,18.0103,Czechia,CZ,CZE,Moravskoslezský Kraj,,23015,1203475212
+Slavonski Brod,Slavonski Brod,45.1667,18.0167,Croatia,HR,HRV,Brodsko-Posavska Županija,admin,45005,1191097030
+Balatonalmádi,Balatonalmadi,47.0333,18.0167,Hungary,HU,HUN,Veszprém,minor,9943,1348907128
+Žepče,Zepce,44.4333,18.0333,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,31582,1070466847
+Trenčín,Trencin,48.8919,18.0367,Slovakia,SK,SVK,Trenčin,admin,54740,1703029695
+Studénka,Studenka,49.7233,18.0786,Czechia,CZ,CZE,Moravskoslezský Kraj,,9326,1203000978
+Kalisz,Kalisz,51.7575,18.8,Poland,PL,POL,Wielkopolskie,minor,95905,1616861321
+Doboj,Doboj,44.7314,18.0844,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,68514,1070396173
+Nitra,Nitra,48.3069,18.0864,Slovakia,SK,SVK,Nitra,admin,77610,1703890031
+Siófok,Siofok,46.9239,18.0901,Hungary,HU,HUN,Somogy,minor,24390,1348589938
+Donji Kakanj,Donji Kakanj,44.1311,18.0972,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,,37441,1070449997
+Maglaj,Maglaj,44.55,18.1,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,34980,1070332906
+Našice,Nasice,45.4833,18.1,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,14291,1191359646
+Zdzieszowice,Zdzieszowice,50.4192,18.1236,Poland,PL,POL,Opolskie,,10380,1616530342
+Komárom,Komarom,47.7403,18.1244,Hungary,HU,HUN,Komárom-Esztergom,minor,19652,1348857421
+Komárno,Komarno,47.7633,18.1283,Slovakia,SK,SVK,Nitra,,32287,1703927453
+Várpalota,Varpalota,47.1989,18.1376,Hungary,HU,HUN,Veszprém,minor,19624,1348052599
+Dombóvár,Dombovar,46.382,18.1422,Hungary,HU,HUN,Tolna,minor,17300,1348286136
+Rožnov pod Radhoštěm,Roznov pod Radhostem,49.4586,18.1431,Czechia,CZ,CZE,Zlínský Kraj,,16205,1203287923
+Nová Dubnica,Nova Dubnica,48.9331,18.1439,Slovakia,SK,SVK,Nitra,,10470,1703517526
+Kopřivnice,Koprivnice,49.5994,18.1447,Czechia,CZ,CZE,Moravskoslezský Kraj,,21669,1203847096
+Wieruszów,Wieruszow,51.3,18.15,Poland,PL,POL,Łódzkie,minor,8514,1616576051
+Nové Zámky,Nove Zamky,47.9856,18.1578,Slovakia,SK,SVK,Nitra,minor,37791,1703734556
+Dubnica nad Váhom,Dubnica nad Vahom,48.9606,18.1739,Slovakia,SK,SVK,Nitra,,22023,1703468923
+Topoľčany,Topol'cany,48.5542,18.1769,Slovakia,SK,SVK,Nitra,minor,25249,1703972339
+Šurany,Surany,48.0872,18.1861,Slovakia,SK,SVK,Nitra,,9562,1703675308
+Hlučín,Hlucin,49.8967,18.1931,Czechia,CZ,CZE,Moravskoslezský Kraj,,13506,1203528969
+Kędzierzyn-Koźle,Kedzierzyn-Kozle,50.35,18.2,Poland,PL,POL,Opolskie,minor,56931,1616306372
+Mór,Mor,47.3717,18.2086,Hungary,HU,HUN,Fejér,minor,13547,1348505276
+Frenštát pod Radhoštěm,Frenstat pod Radhostem,49.5483,18.2108,Czechia,CZ,CZE,Moravskoslezský Kraj,,10709,1203465419
+Kluczbork,Kluczbork,50.9833,18.2167,Poland,PL,POL,Opolskie,minor,22703,1616259508
+Pécs,Pecs,46.0711,18.2331,Hungary,HU,HUN,Baranya,admin,251412,1348611992
+Racibórz,Raciborz,50.0833,18.2333,Poland,PL,POL,Śląskie,minor,51257,1616829452
+Solec Kujawski,Solec Kujawski,53.0833,18.2333,Poland,PL,POL,Kujawsko-Pomorskie,,15458,1616600171
+Bánovce nad Bebravou,Banovce nad Bebravou,48.7186,18.2581,Slovakia,SK,SVK,Nitra,minor,16614,1703803804
+Breza,Breza,44.0167,18.2611,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,14564,1070229008
+Inowrocław,Inowroclaw,52.7931,18.2611,Poland,PL,POL,Kujawsko-Pomorskie,minor,69576,1616606592
+Komló,Komlo,46.1912,18.2613,Hungary,HU,HUN,Baranya,minor,21854,1348836400
+Konin,Konin,52.2167,18.2667,Poland,PL,POL,Wielkopolskie,minor,69858,1616883533
+Strzelce Opolskie,Strzelce Opolskie,50.5,18.2833,Poland,PL,POL,Opolskie,minor,17512,1616448367
+Ostrava,Ostrava,49.8356,18.2925,Czechia,CZ,CZE,Moravskoslezský Kraj,admin,283504,1203687206
+Siklós,Siklos,45.8521,18.2988,Hungary,HU,HUN,Baranya,minor,8700,1348986521
+Gračanica,Gracanica,44.6892,18.3022,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,45220,1070355903
+Vráble,Vrable,48.2408,18.3086,Slovakia,SK,SVK,Nitra,,8593,1703078244
+Oroszlány,Oroszlany,47.4833,18.3167,Hungary,HU,HUN,Komárom-Esztergom,minor,18064,1348109196
+Tata,Tata,47.6526,18.3238,Hungary,HU,HUN,Komárom-Esztergom,minor,23881,1348967161
+Odžak,Odzak,45.0106,18.3264,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,18821,1070191800
+Vareš,Vares,44.1619,18.3269,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,9556,1070474354
+Kruszwica,Kruszwica,52.6772,18.3292,Poland,PL,POL,Kujawsko-Pomorskie,,9288,1616885548
+Púchov,Puchov,49.12,18.3306,Slovakia,SK,SVK,Nitra,minor,17068,1703321833
+Frýdek-Místek,Frydek-Mistek,49.6856,18.3506,Czechia,CZ,CZE,Moravskoslezský Kraj,,54188,1203111584
+Bohumín,Bohumin,49.9042,18.3575,Czechia,CZ,CZE,Moravskoslezský Kraj,,20643,1203275330
+Frýdlant nad Ostravicí,Frydlant nad Ostravici,49.5928,18.3597,Czechia,CZ,CZE,Moravskoslezský Kraj,,9890,1203314077
+Partizánske,Partizanske,48.6258,18.3728,Slovakia,SK,SVK,Nitra,minor,21439,1703749885
+Tatabánya,Tatabanya,47.5862,18.3949,Hungary,HU,HUN,Komárom-Esztergom,admin,65874,1348450358
+Zlaté Moravce,Zlate Moravce,48.3783,18.3967,Slovakia,SK,SVK,Nitra,minor,11946,1703464744
+Belišće,Belisce,45.6833,18.4,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,8884,1191824256
+Székesfehérvár,Szekesfehervar,47.1956,18.4089,Hungary,HU,HUN,Fejér,admin,272474,1348968301
+Ðakovo,Dakovo,45.31,18.41,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,23577,1191845338
+Valpovo,Valpovo,45.6667,18.4167,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,9784,1191247784
+Olesno,Olesno,50.875,18.4167,Poland,PL,POL,Opolskie,minor,9122,1616142985
+Havířov,Havirov,49.7831,18.4228,Czechia,CZ,CZE,Moravskoslezský Kraj,,70245,1203173875
+Chełmno,Chelmno,53.3492,18.4231,Poland,PL,POL,Kujawsko-Pomorskie,minor,18837,1616879030
+Gradačac,Gradacac,44.8789,18.4258,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,39340,1070347743
+Orlová,Orlova,49.8453,18.4303,Czechia,CZ,CZE,Moravskoslezský Kraj,,27966,1203799110
+Gaszowice,Gaszowice,50.1089,18.4308,Poland,PL,POL,Śląskie,,9755,1616209977
+Świecie,Swiecie,53.4167,18.4333,Poland,PL,POL,Kujawsko-Pomorskie,minor,24796,1616982457
+Považská Bystrica,Povazska Bystrica,49.1139,18.4417,Slovakia,SK,SVK,Nitra,minor,38641,1703729563
+Wodzisław Śląski,Wodzislaw Slaski,50,00,18.45,Poland,PL,POL,Śląskie,minor,45949,1616578364
+Srebrenik,Srebrenik,44.7,18.4833,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,39678,1070982884
+Turek,Turek,52.0167,18.5,Poland,PL,POL,Wielkopolskie,minor,25376,1616094895
+Lukavac,Lukavac,44.55,18.5167,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,46731,1070273413
+Bonyhád,Bonyhad,46.3006,18.5309,Hungary,HU,HUN,Tolna,minor,12163,1348576105
+Banovići,Banovici,44.4,18.5333,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,17131,1070705661
+Starogard Gdański,Starogard Gdanski,53.9667,18.5333,Poland,PL,POL,Pomorskie,minor,46373,1616735469
+Karviná,Karvina,49.8542,18.5428,Czechia,CZ,CZE,Moravskoslezský Kraj,,50172,1203738904
+Rybnik,Rybnik,50.0833,18.55,Poland,PL,POL,Śląskie,minor,133772,1616092098
+Bytča,Bytca,49.2242,18.5642,Slovakia,SK,SVK,Žilina,minor,11414,1703630221
+Čepin,Cepin,45.5167,18.5667,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,9665,1191719855
+Wieluń,Wielun,51.2206,18.57,Poland,PL,POL,Łódzkie,minor,21270,1616628604
+Olovo,Olovo,44.1275,18.58,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,10175,1070868071
+Jastrzębie-Zdrój,Jastrzebie-Zdroj,49.95,18.5833,Poland,PL,POL,Śląskie,minor,85050,1616365516
+Chełmża,Chelmza,53.1847,18.6042,Poland,PL,POL,Kujawsko-Pomorskie,,14045,1616701343
+Levice,Levice,48.2164,18.6081,Slovakia,SK,SVK,Nitra,minor,31974,1703699284
+Gárdony,Gardony,47.1973,18.6091,Hungary,HU,HUN,Fejér,minor,13486,1348505408
+Toruń,Torun,53.0222,18.6111,Poland,PL,POL,Kujawsko-Pomorskie,admin,198273,1616267221
+Pyskowice,Pyskowice,50.3833,18.6167,Poland,PL,POL,Śląskie,,17394,1616775078
+Sárbogárd,Sarbogard,46.8878,18.6193,Hungary,HU,HUN,Fejér,minor,11475,1348805330
+Prievidza,Prievidza,48.7711,18.6217,Slovakia,SK,SVK,Nitra,minor,45017,1703497240
+Český Těšín,Cesky Tesin,49.7461,18.6261,Czechia,CZ,CZE,Moravskoslezský Kraj,,23487,1203518530
+Cieszyn,Cieszyn,49.7484,18.6332,Poland,PL,POL,Śląskie,minor,33958,1616089679
+Koło,Kolo,52.2,18.6333,Poland,PL,POL,Wielkopolskie,minor,20380,1616148045
+Bicske,Bicske,47.4907,18.6363,Hungary,HU,HUN,Fejér,minor,11266,1348286686
+Živinice,Zivinice,44.45,18.65,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,57765,1070042260
+Gliwice,Gliwice,50.2833,18.6667,Poland,PL,POL,Śląskie,minor,174016,1616311376
+Třinec,Trinec,49.6778,18.6728,Czechia,CZ,CZE,Moravskoslezský Kraj,,34306,1203430167
+Tuzla,Tuzla,44.5381,18.6761,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,110979,1070117835
+Mohács,Mohacs,45.9959,18.6798,Hungary,HU,HUN,Baranya,minor,17315,1348907014
+Knurów,Knurow,50.2167,18.6833,Poland,PL,POL,Śląskie,,36498,1616347151
+Lubliniec,Lubliniec,50.6833,18.6833,Poland,PL,POL,Śląskie,minor,23660,1616573478
+Kladanj,Kladanj,44.2256,18.6925,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,12348,1070838044
+Orašje,Orasje,45.0361,18.6933,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,19861,1070394809
+Aleksandrów Kujawski,Aleksandrow Kujawski,52.8767,18.6936,Poland,PL,POL,Kujawsko-Pomorskie,minor,11719,1616651073
+Osijek,Osijek,45.5556,18.6944,Croatia,HR,HRV,Osječko-Baranjska Županija,admin,96313,1191917921
+Županja,Zupanja,45.07,18.7,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,minor,9153,1191054836
+Żory,Zory,50.05,18.7,Poland,PL,POL,Śląskie,minor,61823,1616545481
+Szekszárd,Szekszard,46.356,18.7038,Hungary,HU,HUN,Tolna,admin,30057,1348026284
+Gierałtowice,Gieraltowice,50.2167,18.7167,Poland,PL,POL,Śląskie,,12096,1616190609
+Štúrovo,Sturovo,47.7992,18.7181,Slovakia,SK,SVK,Nitra,,9777,1703382552
+Dorog,Dorog,47.7194,18.7292,Hungary,HU,HUN,Komárom-Esztergom,,11424,1348677837
+Žilina,Zilina,49.2228,18.74,Slovakia,SK,SVK,Žilina,admin,108000,1703289183
+Esztergom,Esztergom,47.7856,18.7403,Hungary,HU,HUN,Komárom-Esztergom,minor,28680,1348527410
+Orzesze,Orzesze,50.15,18.75,Poland,PL,POL,Śląskie,,21631,1616872368
+Sieradz,Sieradz,51.6,18.75,Poland,PL,POL,Łódzkie,minor,40014,1616121526
+Grudziądz,Grudziadz,53.4875,18.755,Poland,PL,POL,Kujawsko-Pomorskie,minor,90890,1616391533
+Handlová,Handlova,48.7272,18.7619,Slovakia,SK,SVK,Nitra,,16199,1703292608
+Zabrze,Zabrze,50.3025,18.7781,Poland,PL,POL,Śląskie,minor,158307,1616784915
+Ciechocinek,Ciechocinek,52.8833,18.7833,Poland,PL,POL,Kujawsko-Pomorskie,,10415,1616015629
+Kysucké Nové Mesto,Kysucke Nove Mesto,49.2983,18.7867,Slovakia,SK,SVK,Žilina,minor,14660,1703666551
+Skoczów,Skoczow,49.8006,18.7883,Poland,PL,POL,Śląskie,,13814,1616973602
+Tolna,Tolna,46.4236,18.7903,Hungary,HU,HUN,Tolna,minor,10697,1348510202
+Čadca,Cadca,49.4358,18.7922,Slovakia,SK,SVK,Žilina,minor,23328,1703091898
+Vinkovci,Vinkovci,45.2911,18.8011,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,minor,30842,1191241036
+Brčko,Brcko,44.8772,18.8111,Bosnia and Herzegovina,BA,BIH,Brcko District,admin,39893,1070370826
+Ustroń,Ustron,49.7194,18.8119,Poland,PL,POL,Śląskie,,16118,1616758185
+Čelić,Celic,44.7167,18.8167,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,10502,1070994771
+Biatorbágy,Biatorbagy,47.4712,18.8252,Hungary,HU,HUN,Pest,,15151,1348104935
+Piliscsaba,Piliscsaba,47.6167,18.8333,Hungary,HU,HUN,Pest,,8612,1348996792
+Lopare,Lopare,44.6361,18.8444,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,15357,1070563075
+Łaziska Górne,Laziska Gorne,50.15,18.85,Poland,PL,POL,Śląskie,,21592,1616701110
+Ruda Śląska,Ruda Slaska,50.2628,18.8536,Poland,PL,POL,Śląskie,minor,133793,1616148566
+Paks,Paks,46.622,18.8559,Hungary,HU,HUN,Tolna,minor,17827,1348932688
+Tarnowskie Góry,Tarnowskie Gory,50.4444,18.8583,Poland,PL,POL,Śląskie,minor,61288,1616868201
+Tárnok,Tarnok,47.3597,18.8586,Hungary,HU,HUN,Pest,,10526,1348320388
+Wisła,Wisla,49.6549,18.8595,Poland,PL,POL,Śląskie,,10887,1616358703
+Žiar nad Hronom,Ziar nad Hronom,48.5842,18.8608,Slovakia,SK,SVK,Banská Bystrica,minor,17578,1703196559
+Halemba,Halemba,50.2378,18.8633,Poland,PL,POL,Śląskie,,26080,1616209216
+Nagykovácsi,Nagykovacsi,47.58,18.88,Hungary,HU,HUN,Pest,,8789,1348566007
+Radzionków Nowy,Radzionkow Nowy,50.3833,18.8833,Poland,PL,POL,Śląskie,,16253,1616721944
+Banská Štiavnica,Banska Stiavnica,48.4581,18.8964,Slovakia,SK,SVK,Banská Bystrica,minor,9628,1703575986
+Mikołów,Mikolow,50.1667,18.9,Poland,PL,POL,Śląskie,minor,41266,1616187671
+Kochłowice,Kochlowice,50.2538,18.9015,Poland,PL,POL,Śląskie,,12738,1616518904
+Pilisvörösvár,Pilisvorosvar,47.6211,18.9108,Hungary,HU,HUN,Pest,minor,14428,1348911831
+Törökbálint,Torokbalint,47.4367,18.9122,Hungary,HU,HUN,Pest,,14741,1348719921
+Dunaújváros,Dunaujvaros,46.9806,18.9127,Hungary,HU,HUN,Dunaújváros,admin,41873,1348928583
+Százhalombatta,Szazhalombatta,47.3004,18.9136,Hungary,HU,HUN,Pest,,17856,1348329361
+Chropaczów,Chropaczow,50.3131,18.915,Poland,PL,POL,Śląskie,,12589,1616015573
+Bytom,Bytom,50.3483,18.9156,Poland,PL,POL,Śląskie,minor,153274,1616740907
+Świętochłowice,Swietochlowice,50.2919,18.9178,Poland,PL,POL,Śląskie,minor,46494,1616910155
+Martin,Martin,49.065,18.9219,Slovakia,SK,SVK,Žilina,minor,51139,1703554366
+Érd,Erd,47.3784,18.922,Hungary,HU,HUN,Pest,minor,70800,1348575496
+Budakeszi,Budakeszi,47.5123,18.9281,Hungary,HU,HUN,Pest,minor,15473,1348195369
+Solymár,Solymar,47.591,18.929,Hungary,HU,HUN,Pest,,11005,1348009573
+Kwidzyn,Kwidzyn,53.7358,18.9308,Poland,PL,POL,Pomorskie,minor,37768,1616851475
+Vlasenica,Vlasenica,44.1833,18.9333,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,11467,1070030908
+Kłobuck,Klobuck,50.9167,18.9333,Poland,PL,POL,Śląskie,minor,12513,1616782641
+Ráckeve,Rackeve,47.1608,18.9456,Hungary,HU,HUN,Pest,minor,11043,1348331289
+Diósd,Diosd,47.4042,18.9458,Hungary,HU,HUN,Pest,,11484,1348180472
+Pszczyna,Pszczyna,49.9833,18.95,Poland,PL,POL,Śląskie,minor,25565,1616839287
+Chorzów,Chorzow,50.3,18.95,Poland,PL,POL,Śląskie,minor,104193,1616517871
+Piekary Śląskie,Piekary Slaskie,50.3833,18.95,Poland,PL,POL,Śląskie,minor,53017,1616227996
+Wąbrzeźno,Wabrzezno,53.2833,18.95,Poland,PL,POL,Kujawsko-Pomorskie,minor,13317,1616122226
+Baja,Baja,46.1833,18.9536,Hungary,HU,HUN,Bács-Kiskun,minor,33142,1348727226
+Budaörs,Budaors,47.4607,18.958,Hungary,HU,HUN,Pest,,29397,1348705618
+Blachownia,Blachownia,50.7833,18.9667,Poland,PL,POL,Śląskie,,9334,1616282069
+Zduńska Wola,Zdunska Wola,51.6,18.9667,Poland,PL,POL,Łódzkie,minor,22904,1616720651
+Tököl,Tokol,47.3203,18.9671,Hungary,HU,HUN,Pest,,11332,1348214866
+Apatin,Apatin,45.6667,18.9833,Serbia,RS,SRB,Apatin,admin,23155,1688081748
+Wapienica,Wapienica,49.8083,18.9839,Poland,PL,POL,Śląskie,,10439,1616724407
+Kalocsa,Kalocsa,46.5335,18.9858,Hungary,HU,HUN,Bács-Kiskun,minor,14619,1348222203
+Siemianowice Śląskie,Siemianowice Slaskie,50.2758,18.9858,Poland,PL,POL,Śląskie,minor,64676,1616000741
+Tychy,Tychy,50.1236,18.9867,Poland,PL,POL,Śląskie,minor,124882,1616396493
+Halásztelek,Halasztelek,47.3608,18.9878,Hungary,HU,HUN,Pest,,11896,1348284345
+Załęże,Zaleze,50.2672,18.9892,Poland,PL,POL,Śląskie,,10185,1616250144
+Vukovar,Vukovar,45.3444,19.0025,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,admin,23175,1191345427
+Sapna,Sapna,44.4917,19.0028,Bosnia and Herzegovina,BA,BIH,Bosnia and Herzegovina. Federation of,minor,12136,1070454621
+Czechowice-Dziedzice,Czechowice-Dziedzice,49.9131,19.0064,Poland,PL,POL,Śląskie,,35261,1616154009
+Szigethalom,Szigethalom,47.3154,19.0078,Hungary,HU,HUN,Pest,,18286,1348568337
+Kiskunlacháza,Kiskunlachaza,47.2,19.0167,Hungary,HU,HUN,Pest,,9090,1348557191
+Pomáz,Pomaz,47.6431,19.0196,Hungary,HU,HUN,Pest,,18419,1348490155
+Koszutka,Koszutka,50.2711,19.0211,Poland,PL,POL,Śląskie,,12431,1616566467
+Katowice,Katowice,50.2625,19.0217,Poland,PL,POL,Śląskie,admin,285711,1616798495
+Sztum,Sztum,53.9217,19.0336,Poland,PL,POL,Pomorskie,minor,9515,1616277062
+Bogucice,Bogucice,50.2668,19.0397,Poland,PL,POL,Śląskie,,16538,1616992904
+Komorowice,Komorowice,49.8544,19.0406,Poland,PL,POL,Śląskie,,10112,1616278113
+Bielsko-Biała,Bielsko-Biala,49.8225,19.0444,Poland,PL,POL,Śląskie,minor,169089,1616302636
+Zawodzie,Zawodzie,50.2585,19.0449,Poland,PL,POL,Śląskie,,13406,1616007841
+Budakalász,Budakalasz,47.6215,19.046,Hungary,HU,HUN,Pest,,12013,1348378695
+Szigetszentmiklós,Szigetszentmiklos,47.3456,19.0483,Hungary,HU,HUN,Pest,minor,39954,1348768623
+Golub-Dobrzyń,Golub-Dobrzyn,53.1,19.5,Poland,PL,POL,Kujawsko-Pomorskie,minor,11722,1616198300
+Budapest,Budapest,47.4925,19.0514,Hungary,HU,HUN,Budapest,primary,2997958,1348611435
+Dunavarsány,Dunavarsany,47.2781,19.0672,Hungary,HU,HUN,Pest,,8799,1348821728
+Włocławek,Wloclawek,52.6592,19.0681,Poland,PL,POL,Kujawsko-Pomorskie,minor,104705,1616143097
+Szentendre,Szentendre,47.7044,19.0686,Hungary,HU,HUN,Pest,minor,28494,1348281649
+Giszowiec,Giszowiec,50.2236,19.0694,Poland,PL,POL,Śląskie,,18475,1616451758
+Mikuszowice,Mikuszowice,49.7833,19.0703,Poland,PL,POL,Śląskie,,10041,1616718016
+Milići,Milici,44.1661,19.075,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,11441,1070895202
+Czeladź,Czeladz,50.3333,19.0833,Poland,PL,POL,Śląskie,,30681,1616073267
+Bieruń Stary,Bierun Stary,50.0897,19.0928,Poland,PL,POL,Śląskie,,19100,1616995218
+Dunaharaszti,Dunaharaszti,47.3539,19.0948,Hungary,HU,HUN,Pest,,23637,1348702931
+Bieruń,Bierun,50.1333,19.1,Poland,PL,POL,Śląskie,minor,19334,1616014994
+Zvornik,Zvornik,44.3842,19.1025,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,63686,1070289722
+Sombor,Sombor,45.7833,19.1167,Serbia,RS,SRB,Sombor,admin,51471,1688575779
+Będzin,Bedzin,50.3333,19.1167,Poland,PL,POL,Śląskie,minor,55695,1616409616
+Częstochowa,Czestochowa,50.8,19.1167,Poland,PL,POL,Śląskie,minor,213107,1616881632
+Zvolen,Zvolen,48.5706,19.1175,Slovakia,SK,SVK,Banská Bystrica,minor,39844,1703102070
+Mali Zvornik,Mali Zvornik,44.3992,19.1214,Serbia,RS,SRB,Mali Zvornik,admin,,1688513998
+Vác,Vac,47.7752,19.131,Hungary,HU,HUN,Pest,minor,34040,1348810997
+Mysłowice,Myslowice,50.2333,19.1333,Poland,PL,POL,Śląskie,minor,72553,1616757185
+Sosnowiec,Sosnowiec,50.2833,19.1333,Poland,PL,POL,Śląskie,minor,193660,1616057255
+Łask,Lask,51.5903,19.1333,Poland,PL,POL,Łódzkie,minor,16576,1616006477
+Göd,God,47.6906,19.1344,Hungary,HU,HUN,Pest,,21992,1348600580
+Dunakeszi,Dunakeszi,47.6303,19.1412,Hungary,HU,HUN,Pest,minor,43061,1348178190
+Kozy,Kozy,49.845,19.1417,Poland,PL,POL,Śląskie,,13098,1616180693
+Banská Bystrica,Banska Bystrica,48.7353,19.1453,Slovakia,SK,SVK,Banská Bystrica,admin,76018,1703015198
+Brzeszcze,Brzeszcze,50,00,19.15,Poland,PL,POL,Małopolskie,,11049,1616019723
+Lipno,Lipno,52.85,19.1667,Poland,PL,POL,Kujawsko-Pomorskie,minor,13752,1616442467
+Imielin,Imielin,50.1478,19.1814,Poland,PL,POL,Śląskie,,9313,1616783615
+Dąbrowa Górnicza,Dabrowa Gornicza,50.3214,19.1872,Poland,PL,POL,Śląskie,minor,116930,1616312023
+Fót,Fot,47.6181,19.1903,Hungary,HU,HUN,Pest,,20975,1348547694
+Łęczyca,Leczyca,52.05,19.2,Poland,PL,POL,Łódzkie,minor,13587,1616649790
+Żywiec,Zywiec,49.6892,19.2058,Poland,PL,POL,Śląskie,minor,30334,1616870150
+Bijeljina,Bijeljina,44.7569,19.2161,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,114663,1070522751
+Kęty,Kety,49.9,19.2167,Poland,PL,POL,Małopolskie,,18067,1616742375
+Gyál,Gyal,47.3861,19.2192,Hungary,HU,HUN,Pest,minor,24463,1348670361
+Oświęcim,Oswiecim,50.0381,19.2214,Poland,PL,POL,Małopolskie,minor,36956,1616528804
+Loznica,Loznica,44.5333,19.2258,Serbia,RS,SRB,Loznica,admin,86413,1688071221
+Ócsa,Ocsa,47.2934,19.226,Hungary,HU,HUN,Pest,,9941,1348733489
+Šid,Sid,45.1167,19.2333,Serbia,RS,SRB,Šid,admin,34188,1688899483
+Bač,Bac,45.3833,19.2333,Serbia,RS,SRB,Bač,admin,6087,1688168992
+Csömör,Csomor,47.55,19.2333,Hungary,HU,HUN,Pest,,10215,1348004899
+Chełmek,Chelmek,50.1167,19.25,Poland,PL,POL,Małopolskie,,8669,1616126539
+Kerepestarcsa,Kerepestarcsa,47.5478,19.2634,Hungary,HU,HUN,Pest,,13606,1348751669
+Vecsés,Vecses,47.4057,19.2648,Hungary,HU,HUN,Pest,minor,21352,1348714695
+Odžaci,Odzaci,45.5167,19.2667,Serbia,RS,SRB,Odžaci,admin,9021,1688373834
+Jaworzno,Jaworzno,50.2044,19.27,Poland,PL,POL,Śląskie,minor,88998,1616134743
+Veresegyház,Veresegyhaz,47.6505,19.283,Hungary,HU,HUN,Pest,,20783,1348362703
+Ozorków,Ozorkow,51.9667,19.2833,Poland,PL,POL,Łódzkie,,18721,1616513470
+Kiskőrös,Kiskoros,46.6204,19.2838,Hungary,HU,HUN,Bács-Kiskun,minor,13320,1348641106
+Balassagyarmat,Balassagyarmat,48.0786,19.2942,Hungary,HU,HUN,Nógrád,minor,14036,1348612236
+Srebrenica,Srebrenica,44.1042,19.2972,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,13409,1070120847
+Dolný Kubín,Dolny Kubin,49.2106,19.2975,Slovakia,SK,SVK,Žilina,minor,18095,1703836159
+Aleksandrów Łódzki,Aleksandrow Lodzki,51.8194,19.3039,Poland,PL,POL,Łódzkie,,22148,1616531721
+Ružomberok,Ruzomberok,49.0786,19.3083,Slovakia,SK,SVK,Žilina,minor,27407,1703510980
+Dabas,Dabas,47.189,19.3126,Hungary,HU,HUN,Pest,minor,17527,1348671815
+Myszków,Myszkow,50.5706,19.3144,Poland,PL,POL,Śląskie,minor,30415,1616173209
+Erdőkertes,Erdokertes,47.6667,19.3167,Hungary,HU,HUN,Pest,,9564,1348236024
+Libiąż,Libiaz,50.1,19.3167,Poland,PL,POL,Małopolskie,,16385,1616724482
+Bratunac,Bratunac,44.1839,19.3308,Bosnia and Herzegovina,BA,BIH,Srpska. Republika,minor,20340,1070077267
+Konstantynów Łódzki,Konstantynow Lodzki,51.75,19.3333,Poland,PL,POL,Łódzkie,,18960,1616340948
+Pécel,Pecel,47.4893,19.3354,Hungary,HU,HUN,Pest,,17331,1348260007
+Veľký Krtíš,Vel'ky Krtis,48.215,19.3381,Slovakia,SK,SVK,Banská Bystrica,minor,11028,1703541479
+Andrychów,Andrychow,49.855,19.3414,Poland,PL,POL,Małopolskie,,19203,1616553516
+Üllő,Ullo,47.3854,19.3439,Hungary,HU,HUN,Pest,,12611,1348501834
+Maglód,Maglod,47.4439,19.3526,Hungary,HU,HUN,Pest,,12412,1348383412
+Krupanj,Krupanj,44.3667,19.3667,Serbia,RS,SRB,Krupanj,admin,17295,1688954602
+Gödöllő,Godollo,47.6,19.3667,Hungary,HU,HUN,Pest,minor,104471,1348039473
+Bełchatów,Belchatow,51.3667,19.3667,Poland,PL,POL,Łódzkie,minor,54338,1616973390
+Kutno,Kutno,52.2333,19.3667,Poland,PL,POL,Łódzkie,minor,42255,1616586955
+Ljubovija,Ljubovija,44.1869,19.3728,Serbia,RS,SRB,Ljubovija,admin,,1688274240
+Pabianice,Pabianice,51.65,19.3833,Poland,PL,POL,Łódzkie,minor,62954,1616294006
+Brodnica,Brodnica,53.2597,19.3956,Poland,PL,POL,Kujawsko-Pomorskie,minor,28536,1616831249
+Gyömrő,Gyomro,47.425,19.3977,Hungary,HU,HUN,Pest,,20216,1348769818
+Bačka Palanka,Backa Palanka,45.25,19.4,Serbia,RS,SRB,Bačka Palanka,admin,25476,1688918464
+Isaszeg,Isaszeg,47.5333,19.4,Hungary,HU,HUN,Pest,,11645,1348502220
+Chrzanów,Chrzanow,50.1333,19.4,Poland,PL,POL,Małopolskie,minor,35091,1616227522
+Zawiercie,Zawiercie,50.5,19.4167,Poland,PL,POL,Śląskie,minor,47689,1616113254
+Zgierz,Zgierz,51.85,19.4167,Poland,PL,POL,Łódzkie,minor,55079,1616382343
+Detva,Detva,48.5514,19.4183,Slovakia,SK,SVK,Banská Bystrica,minor,13955,1703135182
+Monor,Monor,47.3475,19.4489,Hungary,HU,HUN,Pest,minor,19020,1348049694
+Radomsko,Radomsko,51.0667,19.45,Poland,PL,POL,Łódzkie,minor,44441,1616575463
+Rypin,Rypin,53.0667,19.45,Poland,PL,POL,Kujawsko-Pomorskie,minor,15832,1616716547
+Łódź,Lodz,51.7769,19.4547,Poland,PL,POL,Łódzkie,admin,670642,1616832750
+Crvenka,Crvenka,45.6583,19.4556,Serbia,RS,SRB,,,9001,1688952283
+Bukowno,Bukowno,50.2681,19.4631,Poland,PL,POL,Małopolskie,,9791,1616483621
+Gostynin,Gostynin,52.4167,19.4667,Poland,PL,POL,Mazowieckie,minor,17624,1616908435
+Bogatić,Bogatic,44.8333,19.4833,Serbia,RS,SRB,Bogatić,admin,6488,1688635508
+Trzebinia,Trzebinia,50.1667,19.4833,Poland,PL,POL,Małopolskie,,19134,1616296505
+Kiskunhalas,Kiskunhalas,46.4319,19.4883,Hungary,HU,HUN,Bács-Kiskun,minor,26215,1348184980
+Wadowice,Wadowice,49.8833,19.5,Poland,PL,POL,Małopolskie,minor,17905,1616191332
+Kula,Kula,45.6,19.5333,Serbia,RS,SRB,Kula,admin,35592,1688477275
+Pilis,Pilis,47.2844,19.5435,Hungary,HU,HUN,Pest,,11827,1348981551
+Tvrdošín,Tvrdosin,49.3343,19.5548,Slovakia,SK,SVK,Žilina,minor,8952,1703880169
+Lajosmizse,Lajosmizse,47.0264,19.5578,Hungary,HU,HUN,Bács-Kiskun,,11653,1348320390
+Iława,Ilawa,53.5964,19.5656,Poland,PL,POL,Warmińsko-Mazurskie,minor,32664,1616033026
+Laćarak,Lacarak,45,00,19.5667,Serbia,RS,SRB,,,10638,1688011323
+Olkusz,Olkusz,50.2833,19.5667,Poland,PL,POL,Małopolskie,minor,33462,1616458567
+Nowe Miasto Lubawskie,Nowe Miasto Lubawskie,53.4256,19.5878,Poland,PL,POL,Warmińsko-Mazurskie,minor,10492,1616871039
+Sucha Beskidzka,Sucha Beskidzka,49.7403,19.5886,Poland,PL,POL,Małopolskie,minor,8951,1616035021
+Bački Petrovac,Backi Petrovac,45.3606,19.5917,Serbia,RS,SRB,Bački Petrovac,admin,7452,1688400393
+Osečina,Osecina,44.3667,19.6,Serbia,RS,SRB,Osečina,admin,12571,1688862457
+Liptovský Mikuláš,Liptovsky Mikulas,49.0842,19.6022,Slovakia,SK,SVK,Žilina,minor,30522,1703155005
+Albertirsa,Albertirsa,47.24,19.6067,Hungary,HU,HUN,Pest,,13533,1348408587
+Sremska Mitrovica,Sremska Mitrovica,44.97,19.6125,Serbia,RS,SRB,Sremska Mitrovica,admin,72580,1688974283
+Bačka Topola,Backa Topola,45.8167,19.6333,Serbia,RS,SRB,Bačka Topola,admin,11930,1688533352
+Krzeszowice,Krzeszowice,50.1333,19.6333,Poland,PL,POL,Małopolskie,,9868,1616471634
+Brezno,Brezno,48.8039,19.6436,Slovakia,SK,SVK,Banská Bystrica,minor,20061,1703148175
+Vrbas,Vrbas,45.5667,19.65,Serbia,RS,SRB,Vrbas,admin,24112,1688145915
+Mali Iđoš,Mali Idos,45.7069,19.6644,Serbia,RS,SRB,Mali Iđoš,admin,5464,1688501809
+Subotica,Subotica,46.1003,19.6656,Serbia,RS,SRB,Subotica,admin,29919,1688081964
+Sierpc,Sierpc,52.8833,19.6667,Poland,PL,POL,Mazowieckie,minor,17308,1616875285
+Lučenec,Lucenec,48.3286,19.6692,Slovakia,SK,SVK,Banská Bystrica,minor,25902,1703222138
+Hatvan,Hatvan,47.6681,19.6697,Hungary,HU,HUN,Heves,minor,20480,1348933364
+Piotrków Trybunalski,Piotrkow Trybunalski,51.4,19.6833,Poland,PL,POL,Łódzkie,minor,68978,1616450789
+Kecskemét,Kecskemet,46.9061,19.6897,Hungary,HU,HUN,Bács-Kiskun,admin,187835,1348900171
+Pásztó,Paszto,47.9194,19.6978,Hungary,HU,HUN,Nógrád,minor,8545,1348953784
+Šabac,Sabac,44.75,19.7,Serbia,RS,SRB,Šabac,admin,105432,1688640421
+Płock,Plock,52.55,19.7,Poland,PL,POL,Mazowieckie,minor,114594,1616954507
+Głowno,Glowno,51.9642,19.7117,Poland,PL,POL,Łódzkie,,13506,1616156342
+Futog,Futog,45.2333,19.7167,Serbia,RS,SRB,,,18641,1688141881
+Beočin,Beocin,45.2,19.7333,Serbia,RS,SRB,Beočin,admin,8058,1688152997
+Kiskunmajsa,Kiskunmajsa,46.4923,19.7368,Hungary,HU,HUN,Bács-Kiskun,minor,11675,1348210119
+Nagykáta,Nagykata,47.412,19.7396,Hungary,HU,HUN,Pest,minor,11985,1348906968
+Brzeziny,Brzeziny,51.8,19.75,Poland,PL,POL,Łódzkie,minor,12117,1616839084
+Lubawa,Lubawa,53.5,19.75,Poland,PL,POL,Warmińsko-Mazurskie,,10626,1616962128
+Veternik,Veternik,45.2533,19.7608,Serbia,RS,SRB,,,17454,1688644381
+Vladimirci,Vladimirci,44.6167,19.7833,Serbia,RS,SRB,Vladimirci,admin,17462,1688070989
+Srbobran,Srbobran,45.5333,19.7833,Serbia,RS,SRB,Srbobran,admin,16317,1688431448
+Nagykőrös,Nagykoros,47.0332,19.784,Hungary,HU,HUN,Pest,minor,23052,1348967171
+Koluszki,Koluszki,51.75,19.8,Poland,PL,POL,Łódzkie,,12396,1616140044
+Cegléd,Cegled,47.1743,19.802,Hungary,HU,HUN,Pest,minor,36344,1348930347
+Koceljeva,Koceljeva,44.4708,19.807,Serbia,RS,SRB,Koceljeva,admin,,1688585119
+Salgótarján,Salgotarjan,48.104,19.8075,Hungary,HU,HUN,Nógrád,admin,31223,1348290189
+Fiľakovo,Fil'akovo,48.2683,19.8247,Slovakia,SK,SVK,Banská Bystrica,,9949,1703493042
+Bátonyterenye,Batonyterenye,47.9892,19.8286,Hungary,HU,HUN,Nógrád,minor,11284,1348134134
+Ruma,Ruma,45,00,19.8333,Serbia,RS,SRB,Ruma,admin,54339,1688037789
+Skawina,Skawina,49.9833,19.8333,Poland,PL,POL,Małopolskie,,24177,1616660724
+Sremska Kamenica,Sremska Kamenica,45.2206,19.8392,Serbia,RS,SRB,,,11967,1688087765
+Novi Sad,Novi Sad,45.2542,19.8425,Serbia,RS,SRB,Novi Sad,admin,380000,1688169087
+Irig,Irig,45.1,19.85,Serbia,RS,SRB,Irig,admin,4848,1688660485
+Kiskunfélegyháza,Kiskunfelegyhaza,46.7052,19.85,Hungary,HU,HUN,Bács-Kiskun,minor,28803,1348638728
+Petrovaradin,Petrovaradin,45.25,19.8667,Serbia,RS,SRB,Novi Sad,minor,14810,1688320028
+Valjevo,Valjevo,44.2667,19.8833,Serbia,RS,SRB,Valjevo,admin,90312,1688926375
+Temerin,Temerin,45.4167,19.8833,Serbia,RS,SRB,Temerin,admin,28287,1688171551
+Kościelisko,Koscielisko,49.2908,19.8883,Poland,PL,POL,Małopolskie,,8661,1616942761
+Żuromin,Zuromin,53.0667,19.9,Poland,PL,POL,Mazowieckie,minor,8592,1616921543
+Kosjerić,Kosjeric,44,00,19.9167,Serbia,RS,SRB,Kosjerić,admin,12090,1688365764
+Jászberény,Jaszbereny,47.5,19.9167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,minor,26058,1348347095
+Sremski Karlovci,Sremski Karlovci,45.2,19.9333,Serbia,RS,SRB,Sremski Karlovci,admin,8750,1688215764
+Gyöngyös,Gyongyos,47.7833,19.9333,Hungary,HU,HUN,Heves,minor,27887,1348619810
+Łowicz,Lowicz,52.1,19.9333,Poland,PL,POL,Łódzkie,minor,26928,1616979860
+Morąg,Morag,53.9167,19.9333,Poland,PL,POL,Warmińsko-Mazurskie,,13317,1616114206
+Kraków,Krakow,50.0614,19.9372,Poland,PL,POL,Małopolskie,admin,804237,1616172264
+Myślenice,Myslenice,49.8347,19.9389,Poland,PL,POL,Małopolskie,minor,18051,1616135502
+Kać,Kac,45.3,19.95,Serbia,RS,SRB,,,11067,1688942926
+Zakopane,Zakopane,49.3,19.95,Poland,PL,POL,Małopolskie,minor,25770,1616298051
+Pećinci,Pecinci,44.9,19.9667,Serbia,RS,SRB,Pećinci,admin,19720,1688856329
+Ostróda,Ostroda,53.7,19.9667,Poland,PL,POL,Warmińsko-Mazurskie,minor,9410,1616636172
+Włoszczowa,Wloszczowa,50.8542,19.9669,Poland,PL,POL,Świętokrzyskie,minor,9750,1616505680
+Podgórze,Podgorze,50.0417,19.9833,Poland,PL,POL,Małopolskie,,34045,1616725175
+Abony,Abony,47.1894,20.0097,Hungary,HU,HUN,Pest,,14622,1348748527
+Rimavská Sobota,Rimavska Sobota,48.3811,20.0144,Slovakia,SK,SVK,Banská Bystrica,minor,22048,1703980891
+Nowy Targ,Nowy Targ,49.4667,20.0167,Poland,PL,POL,Małopolskie,minor,33273,1616880514
+Tomaszów Mazowiecki,Tomaszow Mazowiecki,51.5167,20.0167,Poland,PL,POL,Łódzkie,minor,59388,1616394410
+Miechów,Miechow,50.3578,20.0325,Poland,PL,POL,Małopolskie,minor,11215,1616754821
+Bečej,Becej,45.6167,20.0333,Serbia,RS,SRB,Bečej,admin,37351,1688492797
+Kanjiža,Kanjiza,46.0667,20.5,Serbia,RS,SRB,Kanjiža,admin,9871,1688731968
+Wieliczka,Wieliczka,49.9894,20.0661,Poland,PL,POL,Małopolskie,minor,26599,1616249410
+Žabalj,Zabalj,45.3667,20.0667,Serbia,RS,SRB,Žabalj,admin,9161,1688662344
+Ub,Ub,44.4561,20.0739,Serbia,RS,SRB,Ub,admin,6191,1688701954
+Mionica,Mionica,44.25,20.0833,Serbia,RS,SRB,Mionica,admin,14263,1688862283
+Inđija,Indija,45.05,20.0833,Serbia,RS,SRB,Inđija,admin,47433,1688349740
+Senta,Senta,45.9314,20.9,Serbia,RS,SRB,Senta,admin,20302,1688368364
+Tiszakécske,Tiszakecske,46.9312,20.0951,Hungary,HU,HUN,Bács-Kiskun,minor,11664,1348645870
+Novi Kneževac,Novi Knezevac,46.05,20.1,Serbia,RS,SRB,Novi Kneževac,admin,6960,1688706489
+Revúca,Revuca,48.6831,20.1133,Slovakia,SK,SVK,Banská Bystrica,minor,11484,1703490352
+Novi Bečej,Novi Becej,45.6,20.1167,Serbia,RS,SRB,Novi Bečej,admin,13133,1688588712
+Ada,Ada,45.8,20.1333,Serbia,RS,SRB,Ada,admin,10547,1688687750
+Csongrád,Csongrad,46.7113,20.1403,Hungary,HU,HUN,Csongrád-Csanád,minor,15454,1348885069
+Skierniewice,Skierniewice,51.9528,20.1417,Poland,PL,POL,Łódzkie,minor,46437,1616077823
+Szeged,Szeged,46.255,20.145,Hungary,HU,HUN,Csongrád-Csanád,admin,239025,1348655615
+Čoka,Coka,45.9333,20.15,Serbia,RS,SRB,Čoka,admin,4707,1688200508
+Lajkovac,Lajkovac,44.3667,20.1667,Serbia,RS,SRB,Lajkovac,admin,15475,1688900219
+Stara Pazova,Stara Pazova,44.9833,20.1667,Serbia,RS,SRB,Stara Pazova,admin,71931,1688866909
+Działdowo,Dzialdowo,53.2333,20.1833,Poland,PL,POL,Warmińsko-Mazurskie,minor,20670,1616181805
+Ugrinovci,Ugrinovci,44.8783,20.1869,Serbia,RS,SRB,Beograd,,10807,1688470425
+Szolnok,Szolnok,47.1747,20.1965,Hungary,HU,HUN,Jász-Nagykun-Szolnok,admin,67126,1348287339
+Nova Pazova,Nova Pazova,44.95,20.2167,Serbia,RS,SRB,,,17105,1688348841
+Niepołomice,Niepolomice,50.0339,20.2172,Poland,PL,POL,Małopolskie,,15697,1616183842
+Dobanovci,Dobanovci,44.8333,20.2333,Serbia,RS,SRB,Beograd,,8503,1688744235
+Sochaczew,Sochaczew,52.2333,20.2333,Poland,PL,POL,Mazowieckie,minor,34439,1616172675
+Ljig,Ljig,44.2213,20.2375,Serbia,RS,SRB,Ljig,admin,,1688555007
+Lazarevac,Lazarevac,44.3667,20.25,Serbia,RS,SRB,Beograd,minor,55146,1688828613
+Rawa Mazowiecka,Rawa Mazowiecka,51.7658,20.2533,Poland,PL,POL,Łódzkie,minor,16429,1616083640
+Tiszaföldvár,Tiszafoldvar,46.9739,20.2539,Hungary,HU,HUN,Jász-Nagykun-Szolnok,,10039,1348506959
+Szentes,Szentes,46.651,20.258,Hungary,HU,HUN,Csongrád-Csanád,minor,25417,1348319560
+Surčin,Surcin,44.7919,20.2723,Serbia,RS,SRB,Beograd,minor,45452,1688106927
+Batajnica,Batajnica,44.9,20.2833,Serbia,RS,SRB,Beograd,,48600,1688675083
+Novi Banovci,Novi Banovci,44.95,20.2833,Serbia,RS,SRB,,,9443,1688687724
+Heves,Heves,47.6,20.2833,Hungary,HU,HUN,Heves,minor,9923,1348843058
+Opoczno,Opoczno,51.3772,20.2869,Poland,PL,POL,Łódzkie,minor,19738,1616841485
+Poprad,Poprad,49.0594,20.2975,Slovakia,SK,SVK,Prešov,minor,49855,1703451549
+Titel,Titel,45.2047,20.3,Serbia,RS,SRB,Titel,admin,15738,1688633486
+Ózd,Ozd,48.2167,20.3,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,minor,30865,1348082095
+Jędrzejów,Jedrzejow,50.6333,20.3,Poland,PL,POL,Świętokrzyskie,minor,14592,1616363750
+Hódmezővásárhely,Hodmezovasarhely,46.4304,20.3188,Hungary,HU,HUN,Hódmezővásárhely,admin,41944,1348676241
+Mława,Mlawa,53.1167,20.3667,Poland,PL,POL,Mazowieckie,minor,30919,1616236136
+Eger,Eger,47.899,20.3747,Hungary,HU,HUN,Heves,admin,50018,1348559499
+Płońsk,Plonsk,52.6333,20.3833,Poland,PL,POL,Mazowieckie,minor,21800,1616662594
+Zrenjanin,Zrenjanin,45.3833,20.3894,Serbia,RS,SRB,Zrenjanin,admin,67129,1688827840
+Sremčica,Sremcica,44.6767,20.391,Serbia,RS,SRB,Beograd,,21001,1688138353
+Dobre Miasto,Dobre Miasto,53.9875,20.3958,Poland,PL,POL,Warmińsko-Mazurskie,,9629,1616619953
+Zemun,Zemun,44.85,20.4,Serbia,RS,SRB,Beograd,minor,161596,1688453076
+Törökszentmiklós,Torokszentmiklos,47.1833,20.4167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,minor,19380,1348803732
+Końskie,Konskie,51.2,20.4167,Poland,PL,POL,Świętokrzyskie,minor,18201,1616604827
+Nidzica,Nidzica,53.3583,20.425,Poland,PL,POL,Warmińsko-Mazurskie,minor,13052,1616216829
+Kežmarok,Kezmarok,49.1336,20.4264,Slovakia,SK,SVK,Prešov,minor,15552,1703214180
+Limanowa,Limanowa,49.7006,20.4267,Poland,PL,POL,Małopolskie,minor,14635,1616015371
+Opovo,Opovo,45.0519,20.4303,Serbia,RS,SRB,Opovo,admin,4546,1688371736
+Padinska Skela,Padinska Skela,44.95,20.4333,Serbia,RS,SRB,Beograd,,9263,1688172132
+Bochnia,Bochnia,49.9833,20.4333,Poland,PL,POL,Małopolskie,minor,28946,1616833825
+Żyrardów,Zyrardow,52.05,20.4333,Poland,PL,POL,Mazowieckie,minor,39374,1616145588
+Borča,Borca,44.87,20.45,Serbia,RS,SRB,Beograd,,46086,1688819875
+Kikinda,Kikinda,45.8333,20.45,Serbia,RS,SRB,Kikinda,admin,28743,1688358284
+Gornji Milanovac,Gornji Milanovac,44.0242,20.46,Serbia,RS,SRB,Gornji Milanovac,admin,38985,1688363978
+Belgrade,Belgrade,44.82,20.46,Serbia,RS,SRB,Beograd,primary,1197714,1688374696
+Olsztyn,Olsztyn,53.7778,20.4792,Poland,PL,POL,Warmińsko-Mazurskie,admin,170225,1616383275
+Makó,Mako,46.217,20.483,Hungary,HU,HUN,Csongrád-Csanád,minor,21913,1348716786
+Smižany,Smizany,48.9556,20.5292,Slovakia,SK,SVK,Košice,,8838,1703195495
+Rožňava,Roznava,48.6583,20.5308,Slovakia,SK,SVK,Košice,minor,17569,1703307007
+Pińczów,Pinczow,50.5333,20.5333,Poland,PL,POL,Świętokrzyskie,minor,10078,1616074605
+Kaluđerica,Kaluderica,44.75,20.55,Serbia,RS,SRB,Beograd,,26904,1688075114
+Žitište,Zitiste,45.4833,20.55,Serbia,RS,SRB,Žitište,admin,2903,1688363591
+Szarvas,Szarvas,46.8667,20.55,Hungary,HU,HUN,Békés,minor,14428,1348371438
+Aranđelovac,Arandelovac,44.3,20.5667,Serbia,RS,SRB,Aranđelovac,admin,46225,1688854200
+Spišská Nová Ves,Spisska Nova Ves,48.9439,20.5675,Slovakia,SK,SVK,Košice,minor,35431,1703217196
+Mezőkövesd,Mezokovesd,47.8167,20.5833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,minor,15588,1348265393
+Levoča,Levoca,49.0253,20.5881,Slovakia,SK,SVK,Prešov,minor,14256,1703381498
+Nova Crnja,Nova Crnja,45.6667,20.6,Serbia,RS,SRB,Nova Crnja,admin,1491,1688294163
+Sânnicolau Mare,Sannicolau Mare,46.0636,20.6125,Romania,RO,ROU,Timiş,,10627,1642288572
+Brzesko,Brzesko,49.9667,20.6167,Poland,PL,POL,Małopolskie,minor,16193,1616496298
+Błonie,Blonie,52.2,20.6167,Poland,PL,POL,Mazowieckie,,12152,1616120917
+Kovačica,Kovacica,45.1117,20.6214,Serbia,RS,SRB,Kovačica,admin,5398,1688530993
+Grodzisk Mazowiecki,Grodzisk Mazowiecki,52.1089,20.625,Poland,PL,POL,Mazowieckie,minor,33708,1616204400
+Mezőtúr,Mezotur,47,00,20.6333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,minor,15644,1348445088
+Kielce,Kielce,50.8742,20.6333,Poland,PL,POL,Świętokrzyskie,admin,186894,1616176351
+Ciechanów,Ciechanow,52.8667,20.6333,Poland,PL,POL,Mazowieckie,minor,42705,1616466171
+Stary Sącz,Stary Sacz,49.5625,20.6364,Poland,PL,POL,Małopolskie,,8746,1616399913
+Pančevo,Pancevo,44.8706,20.6403,Serbia,RS,SRB,Pančevo,admin,73401,1688356974
+Kazincbarcika,Kazincbarcika,48.2531,20.6456,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,minor,24373,1348628122
+Milanówek,Milanowek,52.1167,20.65,Poland,PL,POL,Mazowieckie,,16490,1616814692
+Orosháza,Oroshaza,46.5667,20.6667,Hungary,HU,HUN,Békés,minor,25472,1348070535
+Miskolc,Miskolc,48.0833,20.6667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,admin,145248,1348668815
+Stará Ľubovňa,Stara L'ubovna,49.3094,20.6789,Slovakia,SK,SVK,Prešov,minor,15938,1703928081
+Nowy Sącz,Nowy Sacz,49.6239,20.6972,Poland,PL,POL,Małopolskie,minor,81281,1616869871
+Topola,Topola,44.25,20.7,Serbia,RS,SRB,Topola,admin,22207,1688000008
+Mladenovac,Mladenovac,44.4333,20.7,Serbia,RS,SRB,Beograd,minor,48683,1688838780
+Sajószentpéter,Sajoszentpeter,48.2167,20.7167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,,11274,1348595790
+Busko-Zdrój,Busko-Zdroj,50.4667,20.7167,Poland,PL,POL,Świętokrzyskie,minor,15014,1616795752
+Brwinów,Brwinow,52.1417,20.7167,Poland,PL,POL,Mazowieckie,,14448,1616620268
+Nowy Dwór Mazowiecki,Nowy Dwor Mazowiecki,52.4333,20.7167,Poland,PL,POL,Mazowieckie,minor,28651,1616753471
+Jimbolia,Jimbolia,45.7931,20.7375,Romania,RO,ROU,Timiş,,10179,1642376521
+Edelény,Edeleny,48.2967,20.7442,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,minor,9259,1348035547
+Tiszafüred,Tiszafured,47.6167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,minor,10752,1348745006
+Kisújszállás,Kisujszallas,47.2169,20.7669,Hungary,HU,HUN,Jász-Nagykun-Szolnok,,10055,1348563920
+Sečanj,Secanj,45.3667,20.7725,Serbia,RS,SRB,Sečanj,admin,13267,1688905613
+Pruszków,Pruszkow,52.1667,20.8,Poland,PL,POL,Mazowieckie,minor,65283,1616154673
+Ożarów Mazowiecki,Ozarow Mazowiecki,52.2167,20.8,Poland,PL,POL,Mazowieckie,minor,14375,1616007056
+Gyomaendrőd,Gyomaendrod,46.9361,20.8236,Hungary,HU,HUN,Békés,minor,12144,1348198279
+Szydłowiec,Szydlowiec,51.2333,20.85,Poland,PL,POL,Mazowieckie,minor,10959,1616837510
+Piastów,Piastow,52.1833,20.85,Poland,PL,POL,Mazowieckie,,23281,1616118197
+Grójec,Grojec,51.8656,20.8675,Poland,PL,POL,Mazowieckie,minor,17037,1616458276
+Krompachy,Krompachy,48.9139,20.8739,Slovakia,SK,SVK,Košice,,8739,1703996106
+Łomianki,Lomianki,52.3333,20.8833,Poland,PL,POL,Mazowieckie,,18124,1616717475
+Legionowo,Legionowo,52.4,20.8833,Poland,PL,POL,Mazowieckie,minor,53216,1616994284
+Przasnysz,Przasnysz,53.0167,20.8833,Poland,PL,POL,Mazowieckie,minor,16662,1616909392
+Karcag,Karcag,47.3111,20.9161,Hungary,HU,HUN,Jász-Nagykun-Szolnok,minor,18495,1348514059
+Skarżysko-Kamienna,Skarzysko-Kamienna,51.1167,20.9167,Poland,PL,POL,Świętokrzyskie,minor,78636,1616858398
+Kragujevac,Kragujevac,44.0101,20.9172,Serbia,RS,SRB,Kragujevac,admin,150623,1688832387
+Smederevo,Smederevo,44.6667,20.9333,Serbia,RS,SRB,Smederevo,admin,97930,1688344019
+Biskupiec,Biskupiec,53.85,20.95,Poland,PL,POL,Warmińsko-Mazurskie,,10163,1616213985
+Krynica,Krynica,49.4117,20.955,Poland,PL,POL,Małopolskie,,10001,1616638760
+Smederevska Palanka,Smederevska Palanka,44.3663,20.9565,Serbia,RS,SRB,Smederevska Palanka,admin,42192,1688107292
+Alibunar,Alibunar,45.0806,20.9656,Serbia,RS,SRB,Alibunar,admin,3431,1688248362
+Kovin,Kovin,44.75,20.9667,Serbia,RS,SRB,Kovin,admin,33722,1688830508
+Rača,Raca,44.2333,20.9833,Serbia,RS,SRB,Rača,admin,11475,1688403125
+Dąbrowa Tarnowska,Dabrowa Tarnowska,50.1667,20.9833,Poland,PL,POL,Małopolskie,minor,11549,1616908977
+Szczytno,Szczytno,53.5628,20.9853,Poland,PL,POL,Warmińsko-Mazurskie,minor,22389,1616017427
+Tarnów,Tarnow,50.0125,20.9886,Poland,PL,POL,Małopolskie,minor,106259,1616375879
+Moldava nad Bodvou,Moldava nad Bodvou,48.6064,21.0003,Slovakia,SK,SVK,Košice,,10305,1703800646
+Warsaw,Warsaw,52.23,21.0111,Poland,PL,POL,Mazowieckie,primary,1860281,1616024847
+Mezőberény,Mezobereny,46.8167,21.0167,Hungary,HU,HUN,Békés,,9537,1348124079
+Piaseczno,Piaseczno,52.0667,21.0167,Poland,PL,POL,Mazowieckie,minor,51945,1616877485
+Józefosław,Jozefoslaw,52.1069,21.0392,Poland,PL,POL,Mazowieckie,,14806,1616077121
+Starachowice,Starachowice,51.05,21.0667,Poland,PL,POL,Świętokrzyskie,minor,46270,1616418874
+Pecica,Pecica,46.17,21.7,Romania,RO,ROU,Arad,,11950,1642561590
+Velika Plana,Velika Plana,44.334,21.0768,Serbia,RS,SRB,Velika Plana,admin,40902,1688536735
+Batočina,Batocina,44.15,21.0833,Serbia,RS,SRB,Batočina,admin,11760,1688299986
+Tiszaújváros,Tiszaujvaros,47.9333,21.0833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,minor,15479,1348143264
+Pułtusk,Pultusk,52.7,21.0833,Poland,PL,POL,Mazowieckie,minor,19327,1616411619
+Sabinov,Sabinov,49.1061,21.0856,Slovakia,SK,SVK,Prešov,minor,12349,1703204865
+Békéscsaba,Bekescsaba,46.679,21.091,Hungary,HU,HUN,Békés,admin,55091,1348329493
+Lapovo,Lapovo,44.1833,21.1,Serbia,RS,SRB,Lapovo,admin,7143,1688267080
+Marki,Marki,52.3333,21.1,Poland,PL,POL,Mazowieckie,,42252,1616076713
+Maków Mazowiecki,Makow Mazowiecki,52.8667,21.1,Poland,PL,POL,Mazowieckie,minor,9173,1616505631
+Ząbki,Zabki,52.2928,21.1161,Poland,PL,POL,Mazowieckie,,43740,1616088121
+Püspökladány,Puspokladany,47.3167,21.1167,Hungary,HU,HUN,Hajdú-Bihar,minor,13180,1348038932
+Konstancin-Jeziorna,Konstancin-Jeziorna,52.0833,21.1167,Poland,PL,POL,Mazowieckie,,17157,1616018861
+Plandište,Plandiste,45.2269,21.1217,Serbia,RS,SRB,Plandište,admin,3832,1688176320
+Békés,Bekes,46.7667,21.1333,Hungary,HU,HUN,Békés,minor,17726,1348964497
+Radom,Radom,51.4036,21.1567,Poland,PL,POL,Mazowieckie,minor,201601,1616327727
+Zielonka,Zielonka,52.3008,21.1586,Poland,PL,POL,Mazowieckie,,18219,1616038948
+Gorlice,Gorlice,49.6547,21.1597,Poland,PL,POL,Małopolskie,minor,26405,1616148150
+Kostolac,Kostolac,44.7147,21.17,Serbia,RS,SRB,Požarevac,minor,13637,1688162450
+Staszów,Staszow,50.5633,21.1717,Poland,PL,POL,Świętokrzyskie,minor,14158,1616211187
+Požarevac,Pozarevac,44.6167,21.1833,Serbia,RS,SRB,Požarevac,admin,68648,1688653137
+Radzymin,Radzymin,52.4167,21.1833,Poland,PL,POL,Mazowieckie,,14314,1616443722
+Svilajnac,Svilajnac,44.2356,21.1964,Serbia,RS,SRB,Svilajnac,admin,23391,1688007802
+Warka,Warka,51.7833,21.2,Poland,PL,POL,Mazowieckie,,12003,1616212108
+Kobyłka,Kobylka,52.3333,21.2,Poland,PL,POL,Mazowieckie,,27185,1616520686
+Žabari,Zabari,44.3562,21.2143,Serbia,RS,SRB,Žabari,admin,,1688661944
+Góra Kalwaria,Gora Kalwaria,51.9733,21.2144,Poland,PL,POL,Mazowieckie,,11887,1616668959
+Timişoara,Timisoara,45.7597,21.23,Romania,RO,ROU,Timiş,admin,250849,1642603121
+Wołomin,Wolomin,52.35,21.2333,Poland,PL,POL,Mazowieckie,minor,36311,1616965427
+Józefów,Jozefow,52.1356,21.2369,Poland,PL,POL,Mazowieckie,,21035,1616296972
+Prešov,Presov,49.0017,21.2394,Slovakia,SK,SVK,Prešov,admin,84824,1703231427
+Dumbrăviţa,Dumbravita,45.8,21.25,Romania,RO,ROU,Timiş,,20014,1642484521
+Košice,Kosice,48.7167,21.25,Slovakia,SK,SVK,Košice,admin,229040,1703452690
+Karczew,Karczew,52.0833,21.25,Poland,PL,POL,Mazowieckie,,9566,1616830765
+Otwock,Otwock,52.1167,21.2667,Poland,PL,POL,Mazowieckie,minor,44524,1616596983
+Bardejov,Bardejov,49.2933,21.2761,Slovakia,SK,SVK,Prešov,minor,30267,1703663141
+Sulejówek,Sulejowek,52.2442,21.28,Poland,PL,POL,Mazowieckie,,21248,1616515972
+Malo Crniće,Malo Crnice,44.5667,21.2833,Serbia,RS,SRB,Malo Crniće,admin,11422,1688544172
+Gyula,Gyula,46.65,21.2833,Hungary,HU,HUN,Békés,minor,28090,1348624339
+Mrągowo,Mragowo,53.8667,21.3,Poland,PL,POL,Warmińsko-Mazurskie,minor,21325,1616274741
+Vršac,Vrsac,45.1167,21.3033,Serbia,RS,SRB,Vršac,admin,35701,1688560040
+Arad,Arad,46.175,21.3125,Romania,RO,ROU,Arad,admin,145078,1642996909
+Balmazújváros,Balmazujvaros,47.6167,21.35,Hungary,HU,HUN,Hajdú-Bihar,minor,16949,1348090687
+Tiszavasvári,Tiszavasvari,47.9667,21.35,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,minor,12338,1348419818
+Sarkad,Sarkad,46.75,21.3833,Hungary,HU,HUN,Békés,minor,9171,1348531339
+Hajdúszoboszló,Hajduszoboszlo,47.4333,21.3833,Hungary,HU,HUN,Hajdú-Bihar,minor,23475,1348837635
+Ostrowiec Świętokrzyski,Ostrowiec Swietokrzyski,50.9333,21.4,Poland,PL,POL,Świętokrzyskie,minor,64796,1616984527
+Dębica,Debica,50.05,21.4167,Poland,PL,POL,Podkarpackie,minor,44047,1616197893
+Bela Crkva,Bela Crkva,44.8975,21.4169,Serbia,RS,SRB,Bela Crkva,admin,10675,1688101335
+Petrovac na Mlavi,Petrovac na Mlavi,44.3783,21.4194,Serbia,RS,SRB,Petrovac na Mlavi,admin,31259,1688674789
+Despotovac,Despotovac,44.0833,21.4333,Serbia,RS,SRB,Despotovac,admin,22995,1688388893
+Hajdúnánás,Hajdunanas,47.85,21.4333,Hungary,HU,HUN,Hajdú-Bihar,minor,16214,1348235609
+Mielec,Mielec,50.2833,21.4333,Poland,PL,POL,Podkarpackie,minor,58213,1616825607
+Pionki,Pionki,51.4833,21.45,Poland,PL,POL,Mazowieckie,,16779,1616722660
+Wyszków,Wyszkow,52.5928,21.4584,Poland,PL,POL,Mazowieckie,minor,26349,1616567857
+Jasło,Jaslo,49.7478,21.4714,Poland,PL,POL,Podkarpackie,minor,33830,1616015306
+Sântana,Santana,46.35,21.5,Romania,RO,ROU,Arad,,12460,1642162746
+Veliko Gradište,Veliko Gradiste,44.75,21.5167,Serbia,RS,SRB,Veliko Gradište,admin,17610,1688050059
+Hajdúböszörmény,Hajduboszormeny,47.6667,21.5167,Hungary,HU,HUN,Hajdú-Bihar,minor,29574,1348357188
+Berettyóújfalu,Berettyoujfalu,47.2167,21.55,Hungary,HU,HUN,Hajdú-Bihar,minor,14040,1348328817
+Goworowo,Goworowo,52.9006,21.5544,Poland,PL,POL,Mazowieckie,,8689,1616834846
+Sárospatak,Sarospatak,48.319,21.5664,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,minor,10741,1348369624
+Kozienice,Kozienice,51.5833,21.5667,Poland,PL,POL,Mazowieckie,minor,16192,1616307779
+Mińsk Mazowiecki,Minsk Mazowiecki,52.1833,21.5667,Poland,PL,POL,Mazowieckie,minor,40467,1616444517
+Ostrołęka,Ostroleka,53.0667,21.5667,Poland,PL,POL,Mazowieckie,minor,49805,1616360926
+Svidník,Svidnik,49.3056,21.5678,Slovakia,SK,SVK,Prešov,minor,10168,1703982053
+Golubac,Golubac,44.65,21.6333,Serbia,RS,SRB,Golubac,admin,8331,1688460377
+Ropczyce,Ropczyce,50.0861,21.6333,Poland,PL,POL,Podkarpackie,minor,15815,1616760049
+Garwolin,Garwolin,51.9,21.6333,Poland,PL,POL,Mazowieckie,minor,17279,1616433503
+Debrecen,Debrecen,47.53,21.6392,Hungary,HU,HUN,Hajdú-Bihar,admin,328642,1348460698
+Salonta,Salonta,46.8,21.65,Romania,RO,ROU,Bihor,,15792,1642519468
+Stropkov,Stropkov,49.205,21.6514,Slovakia,SK,SVK,Prešov,minor,10067,1703240636
+Sečovce,Secovce,48.7025,21.6567,Slovakia,SK,SVK,Košice,,8526,1703206081
+Moldova Nouă,Moldova Noua,44.7178,21.6639,Romania,RO,ROU,Caraş-Severin,,9278,1642091214
+Kučevo,Kucevo,44.4833,21.6667,Serbia,RS,SRB,Kučevo,admin,15516,1688495771
+Hajdúhadház,Hajduhadhaz,47.6833,21.6667,Hungary,HU,HUN,Hajdú-Bihar,minor,13057,1348644629
+Sátoraljaújhely,Satoraljaujhely,48.4,21.6667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,minor,13122,1348874769
+Vranov nad Topľou,Vranov nad Topl'ou,48.8808,21.6733,Slovakia,SK,SVK,Prešov,minor,20702,1703513512
+Újfehértó,Ujfeherto,47.7989,21.6833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,,12218,1348703777
+Tarnobrzeg,Tarnobrzeg,50.5833,21.6833,Poland,PL,POL,Podkarpackie,minor,44901,1616631454
+Oraviţa,Oravita,45.0403,21.6853,Romania,RO,ROU,Caraş-Severin,,9346,1642696824
+Lipova,Lipova,46.0917,21.6917,Romania,RO,ROU,Arad,,10040,1642895162
+Sędziszów Małopolski,Sedziszow Malopolski,50.0694,21.7014,Poland,PL,POL,Podkarpackie,,12313,1616036495
+Bocşa,Bocsa,45.3747,21.7106,Romania,RO,ROU,Caraş-Severin,,12949,1642424364
+Trebišov,Trebisov,48.6278,21.7172,Slovakia,SK,SVK,Košice,minor,22890,1703917090
+Nyíregyháza,Nyiregyhaza,47.9531,21.7271,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,admin,238020,1348653343
+Krosno,Krosno,49.6833,21.75,Poland,PL,POL,Podkarpackie,minor,45057,1616223462
+Sandomierz,Sandomierz,50.6833,21.75,Poland,PL,POL,Świętokrzyskie,minor,22189,1616893663
+Hajdúsámson,Hajdusamson,47.6,21.7667,Hungary,HU,HUN,Hajdú-Bihar,,13960,1348454380
+Kolbuszowa,Kolbuszowa,50.25,21.7667,Poland,PL,POL,Podkarpackie,minor,8710,1616946964
+Nowa Dęba,Nowa Deba,50.4167,21.7667,Poland,PL,POL,Podkarpackie,,10647,1616557246
+Žagubica,Zagubica,44.1979,21.7902,Serbia,RS,SRB,Žagubica,admin,,1688849472
+Pisz,Pisz,53.6167,21.8,Poland,PL,POL,Warmińsko-Mazurskie,minor,18245,1616757867
+Ineu,Ineu,46.4258,21.8369,Romania,RO,ROU,Arad,,8807,1642186469
+Nagykálló,Nagykallo,47.8833,21.85,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,minor,9134,1348262569
+Dęblin,Deblin,51.5667,21.8614,Poland,PL,POL,Lubelskie,,14791,1616913108
+Reşiţa,Resita,45.3008,21.8892,Romania,RO,ROU,Caraş-Severin,admin,83324,1642047399
+Ostrów Mazowiecka,Ostrow Mazowiecka,52.8,21.9,Poland,PL,POL,Mazowieckie,minor,22013,1616194953
+Humenné,Humenne,48.9358,21.9067,Slovakia,SK,SVK,Prešov,minor,31359,1703492155
+Michalovce,Michalovce,48.7553,21.9133,Slovakia,SK,SVK,Košice,minor,36704,1703150232
+Oradea,Oradea,47.0722,21.9211,Romania,RO,ROU,Bihor,admin,183105,1642066626
+Lugoj,Lugoj,45.7056,21.9258,Romania,RO,ROU,Timiş,,35450,1642742635
+Majdanpek,Majdanpek,44.4167,21.9333,Serbia,RS,SRB,Majdanpek,admin,18686,1688109331
+Ryki,Ryki,51.6333,21.9333,Poland,PL,POL,Lubelskie,minor,9229,1616774707
+Kolno,Kolno,53.4106,21.9339,Poland,PL,POL,Podlaskie,minor,9999,1616110330
+Głogów Małopolski,Glogow Malopolski,50.1667,21.9667,Poland,PL,POL,Podkarpackie,,10232,1616792516
+Puławy,Pulawy,51.4167,21.9667,Poland,PL,POL,Lubelskie,minor,45267,1616098904
+Rzeszów,Rzeszow,50.0333,22,Poland,PL,POL,Podkarpackie,admin,195871,1616879570
+Węgrów,Wegrow,52.4,22.0167,Poland,PL,POL,Mazowieckie,minor,11993,1616038840
+Stalowa Wola,Stalowa Wola,50.5667,22.5,Poland,PL,POL,Podkarpackie,minor,57620,1616964956
+Poniatowa,Poniatowa,51.1928,22.0647,Poland,PL,POL,Lubelskie,,8517,1616798001
+Łomża,Lomza,53.1764,22.0731,Poland,PL,POL,Podlaskie,minor,60848,1616678952
+Kisvárda,Kisvarda,48.2167,22.0833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,minor,14990,1348590811
+Veľké Kapušany,Vel'ke Kapusany,48.5503,22.0847,Slovakia,SK,SVK,Košice,,8799,1703807609
+Săcueni,Sacueni,47.3525,22.0914,Romania,RO,ROU,Bihor,,10720,1642478221
+Bor,Bor,44.0833,22.1,Serbia,RS,SRB,Bor,admin,34159,1688966590
+Valea lui Mihai,Valea lui Mihai,47.52,22.13,Romania,RO,ROU,Bihor,,8969,1642733254
+Nyírbátor,Nyirbator,47.8333,22.1333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,minor,11388,1348699897
+Nisko,Nisko,50.52,22.1394,Poland,PL,POL,Podkarpackie,minor,14874,1616837686
+Snina,Snina,48.9881,22.1567,Slovakia,SK,SVK,Prešov,minor,18712,1703799818
+Chop,Chop,48.4333,22.2,Ukraine,UA,UKR,Zakarpatska Oblast,,8626,1804775994
+Sanok,Sanok,49.55,22.2167,Poland,PL,POL,Podkarpackie,minor,35546,1616025467
+Kraśnik,Krasnik,50.9167,22.2167,Poland,PL,POL,Lubelskie,minor,32593,1616082443
+Caransebeş,Caransebes,45.4214,22.2219,Romania,RO,ROU,Caraş-Severin,,21714,1642355893
+Syurte,Syurte,48.5033,22.2319,Ukraine,UA,UKR,Zakarpatska Oblast,,9460,1804433014
+Łańcut,Lancut,50.0667,22.2333,Poland,PL,POL,Podkarpackie,minor,17768,1616335382
+Sokołów Podlaski,Sokolow Podlaski,52.4067,22.2464,Poland,PL,POL,Mazowieckie,minor,18526,1616559747
+Zambrów,Zambrow,52.9833,22.25,Poland,PL,POL,Podlaskie,minor,21351,1616716876
+Siedlce,Siedlce,52.165,22.2714,Poland,PL,POL,Mazowieckie,minor,76357,1616939180
+Uzhhorod,Uzhhorod,48.6239,22.295,Ukraine,UA,UKR,Zakarpatska Oblast,admin,115449,1804851697
+Mátészalka,Mateszalka,47.95,22.3167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,minor,15351,1348758097
+Marghita,Marghita,47.35,22.3333,Romania,RO,ROU,Bihor,,13573,1642848546
+Beiuş,Beius,46.65,22.35,Romania,RO,ROU,Bihor,,9745,1642734530
+Ełk,Elk,53.8214,22.3622,Poland,PL,POL,Warmińsko-Mazurskie,minor,60390,1616783003
+Łuków,Lukow,51.9272,22.3833,Poland,PL,POL,Lubelskie,minor,27906,1616162700
+Orşova,Orsova,44.7253,22.3961,Romania,RO,ROU,Mehedinţi,,8506,1642923767
+Aleşd,Alesd,47.0572,22.3969,Romania,RO,ROU,Bihor,,9662,1642008624
+Janów Lubelski,Janow Lubelski,50.7167,22.4167,Poland,PL,POL,Lubelskie,minor,11308,1616411246
+Leżajsk,Lezajsk,50.2667,22.4333,Poland,PL,POL,Podkarpackie,minor,13164,1616610279
+Grajewo,Grajewo,53.65,22.45,Poland,PL,POL,Podlaskie,minor,21395,1616787967
+Carei,Carei,47.6839,22.4669,Romania,RO,ROU,Satu Mare,,18957,1642934242
+Przeworsk,Przeworsk,50.0667,22.5,Poland,PL,POL,Podkarpackie,minor,14881,1616040608
+Wysokie Mazowieckie,Wysokie Mazowieckie,52.9192,22.5144,Poland,PL,POL,Podlaskie,minor,9155,1616361738
+Rury,Rury,51.2386,22.5164,Poland,PL,POL,Lubelskie,,30093,1616795231
+Negotin,Negotin,44.2292,22.5306,Serbia,RS,SRB,Negotin,admin,35000,1688309283
+Velyki Luchky,Velyki Luchky,48.4167,22.5667,Ukraine,UA,UKR,Zakarpatska Oblast,,9028,1804653748
+Lublin,Lublin,51.25,22.5667,Poland,PL,POL,Lubelskie,admin,334681,1616953501
+Ustrzyki Dolne,Ustrzyki Dolne,49.4297,22.5867,Poland,PL,POL,Podkarpackie,minor,8717,1616817418
+Lubartów,Lubartow,51.4667,22.6,Poland,PL,POL,Lubelskie,minor,20494,1616620144
+Kladovo,Kladovo,44.6067,22.6131,Serbia,RS,SRB,Kladovo,admin,20635,1688823592
+Radzyń Podlaski,Radzyn Podlaski,51.7828,22.6242,Poland,PL,POL,Lubelskie,minor,14806,1616425780
+Berehove,Berehove,48.2056,22.6472,Ukraine,UA,UKR,Zakarpatska Oblast,minor,23325,1804040318
+Drobeta-Turnu Severin,Drobeta-Turnu Severin,44.6333,22.65,Romania,RO,ROU,Mehedinţi,admin,79865,1642729144
+Jarosław,Jaroslaw,50.0186,22.6797,Poland,PL,POL,Podkarpackie,minor,36303,1616590558
+Świdnik,Swidnik,51.2167,22.7,Poland,PL,POL,Lubelskie,minor,37884,1616873846
+Biłgoraj,Bilgoraj,50.55,22.7333,Poland,PL,POL,Lubelskie,minor,25459,1616554572
+Mukacheve,Mukacheve,48.45,22.75,Ukraine,UA,UKR,Zakarpatska Oblast,minor,85569,1804401780
+Przemyśl,Przemysl,49.7833,22.7667,Poland,PL,POL,Podkarpackie,minor,58408,1616506094
+Międzyrzec Podlaski,Miedzyrzec Podlaski,51.9833,22.7833,Poland,PL,POL,Lubelskie,,15830,1616448418
+Brad,Brad,46.1294,22.79,Romania,RO,ROU,Hunedoara,,12690,1642122253
+Mońki,Monki,53.4,22.8,Poland,PL,POL,Podlaskie,minor,9675,1616329542
+Siemiatycze,Siemiatycze,52.4272,22.8625,Poland,PL,POL,Podlaskie,minor,13782,1616804060
+Vidin,Vidin,44,00,22.8667,Bulgaria,BG,BGR,Vidin,admin,46269,1100463536
+Parczew,Parczew,51.6333,22.8667,Poland,PL,POL,Lubelskie,minor,10519,1616266918
+Łęczna,Leczna,51.3,22.8833,Poland,PL,POL,Lubelskie,minor,18234,1616600546
+Łapy,Lapy,52.9833,22.8833,Poland,PL,POL,Podlaskie,,14790,1616816583
+Satu Mare,Satu Mare,47.79,22.89,Romania,RO,ROU,Satu Mare,admin,91520,1642046798
+Deva,Deva,45.8781,22.9144,Romania,RO,ROU,Hunedoara,,53113,1642728479
+Hunedoara,Hunedoara,45.7697,22.9203,Romania,RO,ROU,Hunedoara,admin,50457,1642078107
+Haţeg,Hateg,45.6075,22.95,Romania,RO,ROU,Hunedoara,,8793,1642953184
+Motru,Motru,44.8036,22.9708,Romania,RO,ROU,Gorj,,15950,1642442019
+Augustów,Augustow,53.8436,22.9794,Poland,PL,POL,Podlaskie,minor,29494,1616778386
+Svalyava,Svalyava,48.5472,22.9861,Ukraine,UA,UKR,Zakarpatska Oblast,,17068,1804834428

@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(87, 189, 229);
+    padding: 2%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.error {
+    background-color: red;
+    padding: 1%;
+    text-align: center;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+form, h2, h3, canvas {
+    margin: 2%;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+form {
+    font-size: 18px;
+}
+
+
